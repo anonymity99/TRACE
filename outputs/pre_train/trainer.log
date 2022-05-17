@@ -1,0 +1,9 @@
+***** Running training: super *****
+  Num Epochs = 60
+  Num Training steps(one turn in a batch of dialogs) per epoch = 10316
+  Batch size for labeled data = 8
+  Batch size for unlabeled data = 8
+  Total optimization steps = 618960
+  Total warmup steps = 61896
+************************************
+Loaded pre-train model from 'model/convbert'
