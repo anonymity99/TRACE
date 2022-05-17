@@ -1,0 +1,3294 @@
+{
+  "train-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    17,
+                    29
+                  ],
+                  "value": "bruce willis"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movies star bruce willis",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    19,
+                    33
+                  ],
+                  "value": "drew barrymore"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    43,
+                    48
+                  ],
+                  "value": "1980s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me films with drew barrymore from the 1980s",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "PLOT": [
+                {
+                  "span": [
+                    25,
+                    32
+                  ],
+                  "value": "zydrate"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movie is references zydrate",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-11": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    33,
+                    48
+                  ],
+                  "value": "patrick dempsey"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    14,
+                    27
+                  ],
+                  "value": "musical films"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are there any musical films with patrick dempsey",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-12": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    23,
+                    33
+                  ],
+                  "value": "john wayne"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    5,
+                    13
+                  ],
+                  "value": "westerns"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "list westerns starring john wayne",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-13": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    37,
+                    47
+                  ],
+                  "value": "demi moore"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    8,
+                    16
+                  ],
+                  "value": "military"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me military related movies with demi moore",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-14": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    4,
+                    11
+                  ],
+                  "value": "stephen"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    28,
+                    34
+                  ],
+                  "value": "horror"
+                }
+              ],
+              "REVIEW": [
+                {
+                  "span": [
+                    62,
+                    67
+                  ],
+                  "value": "watch"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "did stephen made any sex or horror movie that must be have to watch",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-15": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    4,
+                    11
+                  ],
+                  "value": "ang lee"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    21,
+                    34
+                  ],
+                  "value": "costume drama"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    52,
+                    57
+                  ],
+                  "value": "1800s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "did ang lee direct a costume drama movie set in the 1800s",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-16": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "CHARACTER": [
+                {
+                  "span": [
+                    23,
+                    33
+                  ],
+                  "value": "james bond"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "who directed the first james bond movies",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-17": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "RATING": [
+                {
+                  "span": [
+                    9,
+                    10
+                  ],
+                  "value": "r"
+                }
+              ],
+              "RATINGS_AVERAGE": [
+                {
+                  "span": [
+                    17,
+                    29
+                  ],
+                  "value": "best picture"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "list the r rated best picture oscar winners",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-18": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "SONG": [
+                {
+                  "span": [
+                    33,
+                    43
+                  ],
+                  "value": "soundtrack"
+                }
+              ],
+              "TITLE": [
+                {
+                  "span": [
+                    20,
+                    32
+                  ],
+                  "value": "sucker punch"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "where can i buy the sucker punch soundtrack",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-19": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "GENRE": [
+                {
+                  "span": [
+                    5,
+                    12
+                  ],
+                  "value": "british"
+                }
+              ],
+              "PLOT": [
+                {
+                  "span": [
+                    48,
+                    60
+                  ],
+                  "value": "royal family"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    32,
+                    37
+                  ],
+                  "value": "1990s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what british movies came out in 1990s about the royal family",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-2": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    39,
+                    52
+                  ],
+                  "value": "robert deniro"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movies starred both al pacino and robert deniro",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-20": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    26,
+                    40
+                  ],
+                  "value": "james camerons"
+                }
+              ],
+              "SONG": [
+                {
+                  "span": [
+                    12,
+                    22
+                  ],
+                  "value": "soundtrack"
+                }
+              ],
+              "TITLE": [
+                {
+                  "span": [
+                    41,
+                    48
+                  ],
+                  "value": "titanic"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "who did the soundtrack to james camerons titanic",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-21": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    24,
+                    36
+                  ],
+                  "value": "judy garland"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    13,
+                    17
+                  ],
+                  "value": "last"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what was the last movie judy garland starred in",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-22": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    30,
+                    43
+                  ],
+                  "value": "charlie sheen"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    5,
+                    19
+                  ],
+                  "value": "military spoof"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what military spoof movie did charlie sheen do",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-23": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "GENRE": [
+                {
+                  "span": [
+                    10,
+                    21
+                  ],
+                  "value": "documentary"
+                }
+              ],
+              "PLOT": [
+                {
+                  "span": [
+                    41,
+                    57
+                  ],
+                  "value": "chicago hospital"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    65,
+                    70
+                  ],
+                  "value": "1980s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "id like a documentary about doctors in a chicago hospital in the 1980s",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-24": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    42,
+                    50
+                  ],
+                  "value": "john woo"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    16,
+                    22
+                  ],
+                  "value": "action"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    60,
+                    65
+                  ],
+                  "value": "1990s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find the movies action movies directed by john woo from the 1990s",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-25": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "GENRE": [
+                {
+                  "span": [
+                    10,
+                    23
+                  ],
+                  "value": "romantic film"
+                }
+              ],
+              "PLOT": [
+                {
+                  "span": [
+                    34,
+                    65
+                  ],
+                  "value": "protagonist doesnt fall in love"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is a romantic film where the protagonist doesnt fall in love",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-26": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TITLE": [
+                {
+                  "span": [
+                    9,
+                    32
+                  ],
+                  "value": "original little mermaid"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "does the original little mermaid by hans christian anderson come on dvd",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-27": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "GENRE": [
+                {
+                  "span": [
+                    11,
+                    23
+                  ],
+                  "value": "disney movie"
+                }
+              ],
+              "SONG": [
+                {
+                  "span": [
+                    50,
+                    60
+                  ],
+                  "value": "soundtrack"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "is there a disney movie where beyonce sang on the soundtrack",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-28": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    4,
+                    14
+                  ],
+                  "value": "shawn levy"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    26,
+                    41
+                  ],
+                  "value": "science fiction"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    56,
+                    61
+                  ],
+                  "value": "2010s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "did shawn levy direct any science fiction movies in the 2010s",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-29": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "PLOT": [
+                {
+                  "span": [
+                    17,
+                    29
+                  ],
+                  "value": "david dhawan"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any new movie of david dhawan",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-3": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    56,
+                    67
+                  ],
+                  "value": "bill murray"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find me all of the movies that starred harold ramis and bill murray",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-30": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "CHARACTER": [
+                {
+                  "span": [
+                    16,
+                    31
+                  ],
+                  "value": "hannibal lector"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find me all the hannibal lector movies",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-31": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    27,
+                    40
+                  ],
+                  "value": "billy crystal"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    5,
+                    14
+                  ],
+                  "value": "childrens"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "list childrens movies with billy crystal",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-32": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "RATINGS_AVERAGE": [
+                {
+                  "span": [
+                    13,
+                    26
+                  ],
+                  "value": "best reviewed"
+                }
+              ],
+              "SONG": [
+                {
+                  "span": [
+                    33,
+                    37
+                  ],
+                  "value": "rock"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    55,
+                    60
+                  ],
+                  "value": "1980s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what are the best reviewed movie rock ballads from the 1980s",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-33": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TITLE": [
+                {
+                  "span": [
+                    15,
+                    25
+                  ],
+                  "value": "free willy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "where were the free willy movies filmed",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-34": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    22,
+                    38
+                  ],
+                  "value": "jennifer aniston"
+                }
+              ],
+              "RATING": [
+                {
+                  "span": [
+                    47,
+                    54
+                  ],
+                  "value": "r rated"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "is there a movie with jennifer aniston that is r rated",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-35": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "CHARACTER": [
+                {
+                  "span": [
+                    12,
+                    26
+                  ],
+                  "value": "main character"
+                }
+              ],
+              "TITLE": [
+                {
+                  "span": [
+                    30,
+                    39
+                  ],
+                  "value": "star wars"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "who was the main character in star wars",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-36": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "GENRE": [
+                {
+                  "span": [
+                    17,
+                    24
+                  ],
+                  "value": "musical"
+                }
+              ],
+              "SONG": [
+                {
+                  "span": [
+                    34,
+                    49
+                  ],
+                  "value": "song day by day"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "im looking for a musical with the song day by day",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-37": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TRAILER": [
+                {
+                  "span": [
+                    19,
+                    35
+                  ],
+                  "value": "shortest trailer"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movie has the shortest trailer",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-38": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "SONG": [
+                {
+                  "span": [
+                    24,
+                    46
+                  ],
+                  "value": "i will always love you"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movie has the song i will always love you",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-39": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    16,
+                    30
+                  ],
+                  "value": "clint eastwood"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    31,
+                    37
+                  ],
+                  "value": "comedy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i want to see a clint eastwood comedy",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-4": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "find me a movie with a quote about baseball in it",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-40": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    9,
+                    25
+                  ],
+                  "value": "whitney houstons"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what was whitney houstons first movie",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-41": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TITLE": [
+                {
+                  "span": [
+                    30,
+                    46
+                  ],
+                  "value": "fast and furious"
+                }
+              ],
+              "TRAILER": [
+                {
+                  "span": [
+                    19,
+                    26
+                  ],
+                  "value": "trailer"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    15,
+                    18
+                  ],
+                  "value": "new"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "have u had the new trailer of fast and furious",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-42": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    17,
+                    31
+                  ],
+                  "value": "jack nicholson"
+                }
+              ],
+              "PLOT": [
+                {
+                  "span": [
+                    38,
+                    51
+                  ],
+                  "value": "insane asylum"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "in what movie is jack nicholson in an insane asylum",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-43": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    49,
+                    66
+                  ],
+                  "value": "donald sutherland"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    9,
+                    17
+                  ],
+                  "value": "dramatic"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    34,
+                    39
+                  ],
+                  "value": "1980s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "list the dramatic movies from the 1980s starring donald sutherland",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-44": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TITLE": [
+                {
+                  "span": [
+                    18,
+                    23
+                  ],
+                  "value": "rocky"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me a list of rocky movies",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-45": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    12,
+                    24
+                  ],
+                  "value": "aaron sorkin"
+                }
+              ],
+              "SONG": [
+                {
+                  "span": [
+                    57,
+                    67
+                  ],
+                  "value": "soundtrack"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the aaron sorkin movie that trent reznor did the soundtrack for",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-46": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    36,
+                    51
+                  ],
+                  "value": "michael jackson"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    59,
+                    64
+                  ],
+                  "value": "1970s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "do you have any films made starring michael jackson in the 1970s",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-47": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    38,
+                    50
+                  ],
+                  "value": "alec baldwin"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    10,
+                    25
+                  ],
+                  "value": "political drama"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are there political drama movies with alec baldwin",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-48": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    18,
+                    32
+                  ],
+                  "value": "michael keaton"
+                }
+              ],
+              "TITLE": [
+                {
+                  "span": [
+                    38,
+                    44
+                  ],
+                  "value": "batman"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "in what movie did michael keaton play batman",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-49": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    20,
+                    34
+                  ],
+                  "value": "ewan macgregor"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me movies with ewan macgregor singing",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-5": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TITLE": [
+                {
+                  "span": [
+                    17,
+                    28
+                  ],
+                  "value": "mississippi"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movies have mississippi in the title",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-50": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TITLE": [
+                {
+                  "span": [
+                    18,
+                    26
+                  ],
+                  "value": "superman"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me a list of superman movies",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-51": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "GENRE": [
+                {
+                  "span": [
+                    5,
+                    19
+                  ],
+                  "value": "romance movies"
+                }
+              ],
+              "REVIEW": [
+                {
+                  "span": [
+                    25,
+                    32
+                  ],
+                  "value": "popular"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    36,
+                    40
+                  ],
+                  "value": "2002"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what romance movies were popular in 2002",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-52": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    45,
+                    55
+                  ],
+                  "value": "jason mews"
+                }
+              ],
+              "DIRECTOR": [
+                {
+                  "span": [
+                    28,
+                    39
+                  ],
+                  "value": "kevin smith"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "list the movies directed by kevin smith with jason mews",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-53": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "SONG": [
+                {
+                  "span": [
+                    32,
+                    51
+                  ],
+                  "value": "suicide is painless"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find me the movie with the song suicide is painless",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-54": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "PLOT": [
+                {
+                  "span": [
+                    33,
+                    50
+                  ],
+                  "value": "world of warcraft"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "will their be a movie made about world of warcraft",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-55": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    38,
+                    55
+                  ],
+                  "value": "jason schwartzman"
+                }
+              ],
+              "DIRECTOR": [
+                {
+                  "span": [
+                    14,
+                    26
+                  ],
+                  "value": "wes anderson"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are there any wes anderson films with jason schwartzman",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-56": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    4,
+                    12
+                  ],
+                  "value": "directed"
+                }
+              ],
+              "TITLE": [
+                {
+                  "span": [
+                    13,
+                    28
+                  ],
+                  "value": "savannah smiles"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "who directed savannah smiles",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-57": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    19,
+                    30
+                  ],
+                  "value": "owen wilson"
+                }
+              ],
+              "RATINGS_AVERAGE": [
+                {
+                  "span": [
+                    59,
+                    67
+                  ],
+                  "value": "must see"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me films with owen wilson movies that were considered must see",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-58": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "SONG": [
+                {
+                  "span": [
+                    40,
+                    54
+                  ],
+                  "value": "blaze of glory"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find me a movie which features the song blaze of glory",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-59": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "PLOT": [
+                {
+                  "span": [
+                    40,
+                    57
+                  ],
+                  "value": "world of warcraft"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "is any film maker planning to produce a world of warcraft movie",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-6": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    42,
+                    58
+                  ],
+                  "value": "steven spielberg"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    8,
+                    29
+                  ],
+                  "value": "science fiction films"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me science fiction films directed by steven spielberg",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-60": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    31,
+                    46
+                  ],
+                  "value": "farely brothers"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find all films directed by the farely brothers",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-61": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    28,
+                    41
+                  ],
+                  "value": "frank sinatra"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what was the last move that frank sinatra was in",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-62": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "PLOT": [
+                {
+                  "span": [
+                    37,
+                    50
+                  ],
+                  "value": "one armed man"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what film had something to do with a one armed man",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-63": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    23,
+                    39
+                  ],
+                  "value": "rick springfield"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find me films starring rick springfield",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-64": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    48,
+                    60
+                  ],
+                  "value": "steve martin"
+                }
+              ],
+              "DIRECTOR": [
+                {
+                  "span": [
+                    28,
+                    38
+                  ],
+                  "value": "shawn levy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "list the movies directed by shawn levy starring steve martin",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-65": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    4,
+                    17
+                  ],
+                  "value": "james cameron"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    29,
+                    35
+                  ],
+                  "value": "action"
+                }
+              ],
+              "RATINGS_AVERAGE": [
+                {
+                  "span": [
+                    63,
+                    72
+                  ],
+                  "value": "two stars"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "did james cameron direct any action films that were rated just two stars or less",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-66": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    29,
+                    43
+                  ],
+                  "value": "angelina jolie"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    8,
+                    16
+                  ],
+                  "value": "dramatic"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    60,
+                    65
+                  ],
+                  "value": "1990s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find me dramatic movies with angelina jolie released in the 1990s",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-67": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "GENRE": [
+                {
+                  "span": [
+                    22,
+                    28
+                  ],
+                  "value": "horror"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "who directed the most horror movies",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-68": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TITLE": [
+                {
+                  "span": [
+                    13,
+                    20
+                  ],
+                  "value": "rocky 4"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "who directed rocky 4",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-69": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "REVIEW": [
+                {
+                  "span": [
+                    13,
+                    18
+                  ],
+                  "value": "oscar"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    36,
+                    40
+                  ],
+                  "value": "1998"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what was the oscar winning movie of 1998",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-7": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    38,
+                    51
+                  ],
+                  "value": "sofia coppola"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    16,
+                    25
+                  ],
+                  "value": "thrillers"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "do you have any thrillers directed by sofia coppola",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-70": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "SONG": [
+                {
+                  "span": [
+                    13,
+                    23
+                  ],
+                  "value": "soundtrack"
+                }
+              ],
+              "TITLE": [
+                {
+                  "span": [
+                    38,
+                    46
+                  ],
+                  "value": "roadtrip"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "is there are soundtrack for the movie roadtrip",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-71": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    32,
+                    43
+                  ],
+                  "value": "owen wilson"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "list films with ben stiller and owen wilson",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-72": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TITLE": [
+                {
+                  "span": [
+                    33,
+                    56
+                  ],
+                  "value": "texas chainsaw massacre"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how many movies are based on the texas chainsaw massacre",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-73": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    4,
+                    17
+                  ],
+                  "value": "jimmy stewart"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "did jimmy stewart ever direct a movie",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-74": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    12,
+                    26
+                  ],
+                  "value": "starring actor"
+                }
+              ],
+              "TITLE": [
+                {
+                  "span": [
+                    46,
+                    60
+                  ],
+                  "value": "matchstick men"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "who was the starring actor in the film called matchstick men",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-75": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "RATING": [
+                {
+                  "span": [
+                    19,
+                    24
+                  ],
+                  "value": "nc 17"
+                }
+              ],
+              "REVIEW": [
+                {
+                  "span": [
+                    14,
+                    18
+                  ],
+                  "value": "good"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are there any good nc 17 rated movies",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-76": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "GENRE": [
+                {
+                  "span": [
+                    5,
+                    18
+                  ],
+                  "value": "action movies"
+                }
+              ],
+              "PLOT": [
+                {
+                  "span": [
+                    23,
+                    37
+                  ],
+                  "value": "based in texas"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what action movies are based in texas",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-77": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "GENRE": [
+                {
+                  "span": [
+                    9,
+                    22
+                  ],
+                  "value": "disney movies"
+                }
+              ],
+              "PLOT": [
+                {
+                  "span": [
+                    42,
+                    50
+                  ],
+                  "value": "princess"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what are disney movies that do not have a princess in them",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-78": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    22,
+                    31
+                  ],
+                  "value": "brad pitt"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    8,
+                    16
+                  ],
+                  "value": "comedies"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    48,
+                    53
+                  ],
+                  "value": "2000s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me comedies with brad pitt released in the 2000s",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-79": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "CHARACTER": [
+                {
+                  "span": [
+                    11,
+                    25
+                  ],
+                  "value": "main character"
+                }
+              ],
+              "TITLE": [
+                {
+                  "span": [
+                    33,
+                    42
+                  ],
+                  "value": "godfather"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "who is the main character of the godfather",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-8": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "SONG": [
+                {
+                  "span": [
+                    5,
+                    24
+                  ],
+                  "value": "leonard cohen songs"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what leonard cohen songs have been used in a movie",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-80": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "CHARACTER": [
+                {
+                  "span": [
+                    39,
+                    47
+                  ],
+                  "value": "the dude"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movie featured a character called the dude",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-81": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "PLOT": [
+                {
+                  "span": [
+                    35,
+                    47
+                  ],
+                  "value": "world war ii"
+                }
+              ],
+              "RATING": [
+                {
+                  "span": [
+                    14,
+                    21
+                  ],
+                  "value": "rated g"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are there any rated g movies about world war ii",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-82": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    18,
+                    30
+                  ],
+                  "value": "george lucas"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    41,
+                    45
+                  ],
+                  "value": "1996"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "please locate the george lucas film from 1996",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-83": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TITLE": [
+                {
+                  "span": [
+                    32,
+                    52
+                  ],
+                  "value": "fast and the furious"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what actors are in the original fast and the furious",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-84": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "PLOT": [
+                {
+                  "span": [
+                    33,
+                    42
+                  ],
+                  "value": "spongebob"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what actor does the cameo in the spongebob movie",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-85": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TITLE": [
+                {
+                  "span": [
+                    14,
+                    32
+                  ],
+                  "value": "the social network"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    5,
+                    9
+                  ],
+                  "value": "year"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what year was the social network made",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-86": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TITLE": [
+                {
+                  "span": [
+                    20,
+                    27
+                  ],
+                  "value": "rocky 1"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the plot of rocky 1",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-87": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "YEAR": [
+                {
+                  "span": [
+                    29,
+                    33
+                  ],
+                  "value": "1991"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "movies released from 1990 to 1991",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-88": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    4,
+                    18
+                  ],
+                  "value": "garry marshall"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    28,
+                    33
+                  ],
+                  "value": "drama"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    56,
+                    61
+                  ],
+                  "value": "1980s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "did garry marshall direct a drama movie released in the 1980s",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-89": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "REVIEW": [
+                {
+                  "span": [
+                    22,
+                    26
+                  ],
+                  "value": "best"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    37,
+                    41
+                  ],
+                  "value": "2011"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me a list of the best movies of 2011",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-9": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    14,
+                    19
+                  ],
+                  "value": "elvis"
+                }
+              ],
+              "PLOT": [
+                {
+                  "span": [
+                    26,
+                    39
+                  ],
+                  "value": "set in hawaii"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me films elvis films set in hawaii",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-90": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    30,
+                    45
+                  ],
+                  "value": "natalie portman"
+                }
+              ],
+              "TITLE": [
+                {
+                  "span": [
+                    8,
+                    17
+                  ],
+                  "value": "star wars"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find me star wars movies with natalie portman",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-91": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    24,
+                    36
+                  ],
+                  "value": "martin sheen"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the first movie martin sheen starred in",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-92": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "DIRECTOR": [
+                {
+                  "span": [
+                    4,
+                    16
+                  ],
+                  "value": "george lucas"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    28,
+                    34
+                  ],
+                  "value": "dramas"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "did george lucas direct any dramas",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-93": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "SONG": [
+                {
+                  "span": [
+                    26,
+                    39
+                  ],
+                  "value": "john williams"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    19,
+                    25
+                  ],
+                  "value": "latest"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movie has the latest john williams soundtrack",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-94": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "GENRE": [
+                {
+                  "span": [
+                    25,
+                    33
+                  ],
+                  "value": "westerns"
+                }
+              ],
+              "REVIEW": [
+                {
+                  "span": [
+                    12,
+                    24
+                  ],
+                  "value": "most popular"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find me the most popular westerns of all time",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-95": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "PLOT": [
+                {
+                  "span": [
+                    31,
+                    41
+                  ],
+                  "value": "car chases"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    21,
+                    26
+                  ],
+                  "value": "1970s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movies from the 1970s had car chases",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-96": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "GENRE": [
+                {
+                  "span": [
+                    28,
+                    33
+                  ],
+                  "value": "scary"
+                }
+              ],
+              "RATINGS_AVERAGE": [
+                {
+                  "span": [
+                    13,
+                    27
+                  ],
+                  "value": "worst reviewed"
+                }
+              ],
+              "YEAR": [
+                {
+                  "span": [
+                    43,
+                    47
+                  ],
+                  "value": "2010"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what was the worst reviewed scary movie in 2010",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-97": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "GENRE": [
+                {
+                  "span": [
+                    19,
+                    27
+                  ],
+                  "value": "thriller"
+                }
+              ],
+              "PLOT": [
+                {
+                  "span": [
+                    61,
+                    66
+                  ],
+                  "value": "1990s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "please find me the thriller about an art heist from the late 1990s",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-98": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "ACTOR": [
+                {
+                  "span": [
+                    4,
+                    20
+                  ],
+                  "value": "james earl jones"
+                }
+              ],
+              "GENRE": [
+                {
+                  "span": [
+                    33,
+                    39
+                  ],
+                  "value": "horror"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "did james earl jones star in any horror films",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-99": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "TITLE": [
+                {
+                  "span": [
+                    32,
+                    44
+                  ],
+                  "value": "a bronx tale"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the quote at the end of a bronx tale",
+        "turn_id": 0
+      }
+    ]
+  }
+}

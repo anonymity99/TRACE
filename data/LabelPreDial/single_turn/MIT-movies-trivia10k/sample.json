@@ -1,0 +1,3779 @@
+{
+  "train-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    0,
+                    13
+                  ],
+                  "value": "steve mcqueen"
+                }
+              ],
+              "Opinion": [
+                {
+                  "span": [
+                    60,
+                    75
+                  ],
+                  "value": "greatest of all"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    76,
+                    101
+                  ],
+                  "value": "ww 2 prison escape movies"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "steve mcqueen provided a thrilling motorcycle chase in this greatest of all ww 2 prison escape movies",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    18,
+                    27
+                  ],
+                  "value": "joel gray"
+                }
+              ],
+              "Award": [
+                {
+                  "span": [
+                    28,
+                    38
+                  ],
+                  "value": "won oscars"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    74,
+                    146
+                  ],
+                  "value": "that follows nightclub entertainers in berlin as the nazis come to power"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    63,
+                    67
+                  ],
+                  "value": "1972"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "liza minnelli and joel gray won oscars for their roles in this 1972 movie that follows nightclub entertainers in berlin as the nazis come to power",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Director": [
+                {
+                  "span": [
+                    9,
+                    15
+                  ],
+                  "value": "banksy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what was banksy the star and director doing before he created this film",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-11": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    0,
+                    13
+                  ],
+                  "value": "john travolta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "john travolta had that one scene where he had to jam the saving rod into a woman s chest",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-12": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    97,
+                    112
+                  ],
+                  "value": "eva marie saint"
+                }
+              ],
+              "Director": [
+                {
+                  "span": [
+                    52,
+                    68
+                  ],
+                  "value": "alfred hitchcock"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    17,
+                    34
+                  ],
+                  "value": "american thriller"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    12,
+                    16
+                  ],
+                  "value": "1959"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the 1959 american thriller film directed by alfred hitchcock and starring cary grant and eva marie saint",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-13": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    66,
+                    76
+                  ],
+                  "value": "terri garr"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    24,
+                    35
+                  ],
+                  "value": "comedy film"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    93,
+                    138
+                  ],
+                  "value": "character dresses up as a woman to land a job"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    19,
+                    23
+                  ],
+                  "value": "80 s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i m thinking of an 80 s comedy film that stars dustin hoffman and terri garr where hoffman s character dresses up as a woman to land a job",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-14": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    22,
+                    96
+                  ],
+                  "value": "teenage boy getting bit by a radioactive arachnid and gaining super powers"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movie is about a teenage boy getting bit by a radioactive arachnid and gaining super powers",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-15": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    78,
+                    93
+                  ],
+                  "value": "tommy lee jones"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    31,
+                    46
+                  ],
+                  "value": "science fiction"
+                }
+              ],
+              "Opinion": [
+                {
+                  "span": [
+                    19,
+                    30
+                  ],
+                  "value": "blockbuster"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    97,
+                    145
+                  ],
+                  "value": "undercover agents who fight intergalactic beings"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am thinking of a blockbuster science fiction film that stars will smith and tommy lee jones as undercover agents who fight intergalactic beings",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-16": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    33,
+                    127
+                  ],
+                  "value": "a little girl s house accidentally lands on top of a witch and the witches sister vows revenge"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am thinking of a film in which a little girl s house accidentally lands on top of a witch and the witches sister vows revenge",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-17": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    28,
+                    40
+                  ],
+                  "value": "dennis quaid"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    5,
+                    18
+                  ],
+                  "value": "baseball film"
+                }
+              ],
+              "Origin": [
+                {
+                  "span": [
+                    44,
+                    89
+                  ],
+                  "value": "based on the true story of pitcher jim morris"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what baseball film starring dennis quaid is based on the true story of pitcher jim morris",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-18": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    72,
+                    84
+                  ],
+                  "value": "vivien leigh"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    2,
+                    6
+                  ],
+                  "value": "1939"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "a 1939 movie adaptation of 1000 plus page book starring clark gable and vivien leigh",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-19": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Origin": [
+                {
+                  "span": [
+                    61,
+                    90
+                  ],
+                  "value": "and written by paul mccartney"
+                }
+              ],
+              "Soundtrack": [
+                {
+                  "span": [
+                    34,
+                    60
+                  ],
+                  "value": "famous song by the beatles"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movie was inspired by a very famous song by the beatles and written by paul mccartney",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-2": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    27,
+                    40
+                  ],
+                  "value": "julia roberts"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    53,
+                    151
+                  ],
+                  "value": "hanks who plays a down on his luck average guy who goes back to college and gets taught by roberts"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is that tom hanks and julia roberts movie about hanks who plays a down on his luck average guy who goes back to college and gets taught by roberts",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-20": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    30,
+                    118
+                  ],
+                  "value": "the wimpy main character befriends a fierce animal to the dismay of his viking community"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i m thinking of a movie where the wimpy main character befriends a fierce animal to the dismay of his viking community",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-21": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    14,
+                    32
+                  ],
+                  "value": "billy bob thornton"
+                }
+              ],
+              "Award": [
+                {
+                  "span": [
+                    40,
+                    57
+                  ],
+                  "value": "oscar for writing"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what film did billy bob thornton win an oscar for writing",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-22": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Director": [
+                {
+                  "span": [
+                    81,
+                    90
+                  ],
+                  "value": "bob fosse"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    10,
+                    17
+                  ],
+                  "value": "musical"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    29,
+                    80
+                  ],
+                  "value": "based on the life and career of the film s director"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    5,
+                    9
+                  ],
+                  "value": "1979"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what 1979 musical is loosely based on the life and career of the film s director bob fosse",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-23": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    48,
+                    59
+                  ],
+                  "value": "paul newman"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    28,
+                    42
+                  ],
+                  "value": "counterculture"
+                }
+              ],
+              "Opinion": [
+                {
+                  "span": [
+                    20,
+                    27
+                  ],
+                  "value": "pivotal"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "while shooting this pivotal counterculture film paul newman was said to have eaten over fifty boiled eggs in a single afternoon",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-24": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    64,
+                    91
+                  ],
+                  "value": "jason biggs alyson hannigan"
+                }
+              ],
+              "Relationship": [
+                {
+                  "span": [
+                    28,
+                    46
+                  ],
+                  "value": "american pie chain"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    5,
+                    9
+                  ],
+                  "value": "2012"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what 2012 movie revived the american pie chain by bringing back jason biggs alyson hannigan and most of the rest of the cast from the original film",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-25": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    89,
+                    145
+                  ],
+                  "value": "jessica alba carla gugino bruce willis and tobey maguire"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    11,
+                    24
+                  ],
+                  "value": "graphic novel"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "based on a graphic novel this film stars actor mickey rourke and features others such as jessica alba carla gugino bruce willis and tobey maguire",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-26": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    23,
+                    111
+                  ],
+                  "value": "story of two warriors chasing down a stolen sword run into a skilled nobleman s daughter"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    5,
+                    9
+                  ],
+                  "value": "2000"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what 2000 movie is the story of two warriors chasing down a stolen sword run into a skilled nobleman s daughter",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-27": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    29,
+                    41
+                  ],
+                  "value": "leo dicaprio"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    51,
+                    96
+                  ],
+                  "value": "he enters the human mind through their dreams"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i m thinking of a movie with leo dicaprio in which he enters the human mind through their dreams",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-28": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    0,
+                    100
+                  ],
+                  "value": "a young girl lets three strangers escort her to see a strange gentleman that is fond of magic tricks"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "a young girl lets three strangers escort her to see a strange gentleman that is fond of magic tricks",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-29": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    113,
+                    123
+                  ],
+                  "value": "lee marvin"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    69,
+                    112
+                  ],
+                  "value": "a group of enlisted convicts in wwii led by"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    12,
+                    16
+                  ],
+                  "value": "1967"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "released in 1967 this film featured a major cast of stars portraying a group of enlisted convicts in wwii led by lee marvin",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-3": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    18,
+                    84
+                  ],
+                  "value": "making fun of macgyver by re enacting scenes similar to his movies"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie making fun of macgyver by re enacting scenes similar to his movies",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-30": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    68,
+                    77
+                  ],
+                  "value": "tom hanks"
+                }
+              ],
+              "Director": [
+                {
+                  "span": [
+                    35,
+                    51
+                  ],
+                  "value": "steven spielberg"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    81,
+                    194
+                  ],
+                  "value": "an army captain on a mission to rescue the sole survivor of four enlisted brothers after the invasion of normandy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am thinking of the award winning steven spielberg film that stars tom hanks as an army captain on a mission to rescue the sole survivor of four enlisted brothers after the invasion of normandy",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-31": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Character_Name": [
+                {
+                  "span": [
+                    87,
+                    100
+                  ],
+                  "value": "princess leia"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    39,
+                    86
+                  ],
+                  "value": "breaking free from his aunt and uncle to rescue"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie about luke skywalker breaking free from his aunt and uncle to rescue princess leia",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-32": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    58,
+                    85
+                  ],
+                  "value": "couple who go over the hill"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the film based off the children s rhyme about the couple who go over the hill",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-33": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    27,
+                    40
+                  ],
+                  "value": "julia roberts"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    53,
+                    125
+                  ],
+                  "value": "middle aged woman who decides to embark on an adventure and goes to bali"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is that film starring julia roberts who plays a middle aged woman who decides to embark on an adventure and goes to bali",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-34": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    29,
+                    143
+                  ],
+                  "value": "a manhattan couple are suddenly dealing with the issue of employment and move to a community where free love rules"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "im thinking of a movie where a manhattan couple are suddenly dealing with the issue of employment and move to a community where free love rules",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-35": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "fuck you thunder your just gods farts",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-36": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Character_Name": [
+                {
+                  "span": [
+                    105,
+                    111
+                  ],
+                  "value": "jigsaw"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    20,
+                    104
+                  ],
+                  "value": "a group of seemingly unrelated characters being isolated and tortured by the villain"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "which film is about a group of seemingly unrelated characters being isolated and tortured by the villain jigsaw",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-37": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Genre": [
+                {
+                  "span": [
+                    24,
+                    32
+                  ],
+                  "value": "animated"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    47,
+                    80
+                  ],
+                  "value": "a clown fish who has lost his son"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the name of the animated film based on a clown fish who has lost his son",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-38": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    92,
+                    103
+                  ],
+                  "value": "kathy bates"
+                }
+              ],
+              "Origin": [
+                {
+                  "span": [
+                    44,
+                    62
+                  ],
+                  "value": "fannie flagg novel"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    108,
+                    172
+                  ],
+                  "value": "tells the tale of a strong bond between two depression era women"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am thinking of the film adaptation of the fannie flagg novel that stars jessica tandy and kathy bates and tells the tale of a strong bond between two depression era women",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-39": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    30,
+                    40
+                  ],
+                  "value": "jonah hill"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    52,
+                    141
+                  ],
+                  "value": "bring an alcoholic english rockstar playboy nuisance to his destination before a set time"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i want to see that movie with jonah hill who has to bring an alcoholic english rockstar playboy nuisance to his destination before a set time",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-4": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Genre": [
+                {
+                  "span": [
+                    20,
+                    28
+                  ],
+                  "value": "animated"
+                }
+              ],
+              "Origin": [
+                {
+                  "span": [
+                    34,
+                    84
+                  ],
+                  "value": "based on a classic theodor geisel children s novel"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    91,
+                    128
+                  ],
+                  "value": "a young boy s quest to save the trees"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am thinking of an animated film based on a classic theodor geisel children s novel about a young boy s quest to save the trees",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-40": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Character_Name": [
+                {
+                  "span": [
+                    31,
+                    43
+                  ],
+                  "value": "norman bates"
+                }
+              ],
+              "Opinion": [
+                {
+                  "span": [
+                    57,
+                    97
+                  ],
+                  "value": "famous shower scene in cinematic history"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movie features psychopath norman bates and the most famous shower scene in cinematic history",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-41": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Character_Name": [
+                {
+                  "span": [
+                    64,
+                    71
+                  ],
+                  "value": "jasmine"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    72,
+                    154
+                  ],
+                  "value": "who is in the city undercover they love each other but she can only marry a prince"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "this movie is about a street urchin accidentally meets princess jasmine who is in the city undercover they love each other but she can only marry a prince",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-42": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Character_Name": [
+                {
+                  "span": [
+                    44,
+                    55
+                  ],
+                  "value": "keiser soze"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    27,
+                    31
+                  ],
+                  "value": "myth"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    84,
+                    96
+                  ],
+                  "value": "perspectives"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what s the movie where the myth of gangster keiser soze is recounted from different perspectives",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-43": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    36,
+                    49
+                  ],
+                  "value": "jeremy renner"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    56,
+                    115
+                  ],
+                  "value": "the sergeant of an army bomb squad unit during the iraq war"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the name of the movie where jeremy renner plays the sergeant of an army bomb squad unit during the iraq war",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-44": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Genre": [
+                {
+                  "span": [
+                    39,
+                    44
+                  ],
+                  "value": "crime"
+                }
+              ],
+              "Opinion": [
+                {
+                  "span": [
+                    34,
+                    38
+                  ],
+                  "value": "epic"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    56,
+                    96
+                  ],
+                  "value": "a man who has an offer you ca n t refuse"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    13,
+                    17
+                  ],
+                  "value": "1972"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is this 1972 iconic american epic crime film about a man who has an offer you ca n t refuse",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-45": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Character_Name": [
+                {
+                  "span": [
+                    109,
+                    119
+                  ],
+                  "value": "heathcliff"
+                }
+              ],
+              "Origin": [
+                {
+                  "span": [
+                    44,
+                    90
+                  ],
+                  "value": "classic literary novel written by emily bronte"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    91,
+                    108
+                  ],
+                  "value": "about a boy named"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am thinking of a film that was based on a classic literary novel written by emily bronte about a boy named heathcliff",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-46": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    5,
+                    15
+                  ],
+                  "value": "gene kelly"
+                }
+              ],
+              "Opinion": [
+                {
+                  "span": [
+                    16,
+                    23
+                  ],
+                  "value": "classic"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    28,
+                    155
+                  ],
+                  "value": "three friends struggling to find work in paris things become more complicated when two of them fall in love with the same woman"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "this gene kelly classic has three friends struggling to find work in paris things become more complicated when two of them fall in love with the same woman",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-47": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    34,
+                    43
+                  ],
+                  "value": "tom hardy"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    48,
+                    90
+                  ],
+                  "value": "cia agents fighting each other over a girl"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    8,
+                    12
+                  ],
+                  "value": "2012"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "in this 2012 movie chris pine and tom hardy are cia agents fighting each other over a girl",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-48": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    34,
+                    106
+                  ],
+                  "value": "a man who goes on adventures and meets both giants and very small people"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie that s based on a man who goes on adventures and meets both giants and very small people",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-49": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    51,
+                    66
+                  ],
+                  "value": "jake gyllenhaal"
+                }
+              ],
+              "Director": [
+                {
+                  "span": [
+                    72,
+                    77
+                  ],
+                  "value": "pg 13"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    78,
+                    84
+                  ],
+                  "value": "disney"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    34,
+                    38
+                  ],
+                  "value": "2010"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "which of these movies came out in 2010 and starred jake gyllenhaal in a pg 13 disney movie",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-5": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    32,
+                    42
+                  ],
+                  "value": "mel gibson"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    43,
+                    95
+                  ],
+                  "value": "takes place in a post apocalyptic world in australia"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    5,
+                    9
+                  ],
+                  "value": "1981"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what 1981 feature film starring mel gibson takes place in a post apocalyptic world in australia",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-50": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    27,
+                    99
+                  ],
+                  "value": "unappreciated villain in a video games leaves his game and enters others"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie where an unappreciated villain in a video games leaves his game and enters others",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-51": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    17,
+                    47
+                  ],
+                  "value": "a rambunctious rock star was a"
+                }
+              ],
+              "Relationship": [
+                {
+                  "span": [
+                    48,
+                    96
+                  ],
+                  "value": "spin off to the comedy forgetting sarah marshall"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what movie about a rambunctious rock star was a spin off to the comedy forgetting sarah marshall",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-52": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Director": [
+                {
+                  "span": [
+                    30,
+                    47
+                  ],
+                  "value": "quentin tarantino"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    54,
+                    85
+                  ],
+                  "value": "a jewelry heist that goes wrong"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie directed by quentin tarantino about a jewelry heist that goes wrong",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-53": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Origin": [
+                {
+                  "span": [
+                    31,
+                    65
+                  ],
+                  "value": "based on the book by j r r tolkien"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    76,
+                    114
+                  ],
+                  "value": "hobbits wizards elves and a dark magic"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i m thinking of the epic movie based on the book by j r r tolkien featuring hobbits wizards elves and a dark magic",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-54": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Genre": [
+                {
+                  "span": [
+                    2,
+                    17
+                  ],
+                  "value": "suspense horror"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    29,
+                    89
+                  ],
+                  "value": "has a mind blowing character who is portrait as mentally ill"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "a suspense horror film which has a mind blowing character who is portrait as mentally ill",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-55": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Origin": [
+                {
+                  "span": [
+                    13,
+                    47
+                  ],
+                  "value": "retelling of the classic fairytale"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    48,
+                    117
+                  ],
+                  "value": "does n t have the princess falling in love with the prince at the end"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "this movie s retelling of the classic fairytale does n t have the princess falling in love with the prince at the end",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-56": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    124,
+                    145
+                  ],
+                  "value": "arnold schwarzenegger"
+                }
+              ],
+              "Character_Name": [
+                {
+                  "span": [
+                    54,
+                    65
+                  ],
+                  "value": "thulsa doom"
+                }
+              ],
+              "Opinion": [
+                {
+                  "span": [
+                    74,
+                    98
+                  ],
+                  "value": "first box office success"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    5,
+                    9
+                  ],
+                  "value": "1982"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "this 1982 film which also starred james earl jones as thulsa doom was the first box office success for austrian bodybuilder arnold schwarzenegger",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-57": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "what war was taking place during the movie",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-58": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Genre": [
+                {
+                  "span": [
+                    5,
+                    19
+                  ],
+                  "value": "classic horror"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    35,
+                    110
+                  ],
+                  "value": "a young priest and an old priest removing a demon spirit from a little girl"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "this classic horror movie involves a young priest and an old priest removing a demon spirit from a little girl",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-59": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    85,
+                    124
+                  ],
+                  "value": "who some say looks like ellen degeneres"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "this in theater experience features the equally loved and hated pop icon from canada who some say looks like ellen degeneres",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-6": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Director": [
+                {
+                  "span": [
+                    5,
+                    21
+                  ],
+                  "value": "steven speilberg"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    22,
+                    34
+                  ],
+                  "value": "supernatural"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    46,
+                    59
+                  ],
+                  "value": "haunted house"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "this steven speilberg supernatural story of a haunted house made many filmgoers afraid of clowns",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-60": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    28,
+                    37
+                  ],
+                  "value": "tom hanks"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    5,
+                    13
+                  ],
+                  "value": "gangster"
+                }
+              ],
+              "Origin": [
+                {
+                  "span": [
+                    74,
+                    109
+                  ],
+                  "value": "based on an acclaimed graphic novel"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what gangster film starring tom hanks and filmed in and around chicago is based on an acclaimed graphic novel",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-61": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    23,
+                    40
+                  ],
+                  "value": "leonardo dicaprio"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    46,
+                    104
+                  ],
+                  "value": "he goes into other people s dreams and tries to fix things"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie with leonardo dicaprio that he goes into other people s dreams and tries to fix things",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-62": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    43,
+                    113
+                  ],
+                  "value": "detectives following a serial killer who showcases dante s deadly sins"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    29,
+                    33
+                  ],
+                  "value": "1995"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "which movie that came out in 1995 features detectives following a serial killer who showcases dante s deadly sins",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-63": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Character_Name": [
+                {
+                  "span": [
+                    99,
+                    107
+                  ],
+                  "value": "kal penn"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    24,
+                    30
+                  ],
+                  "value": "comedy"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    111,
+                    169
+                  ],
+                  "value": "they set out on a quest to find the perfect christmas tree"
+                }
+              ],
+              "Relationship": [
+                {
+                  "span": [
+                    43,
+                    60
+                  ],
+                  "value": "latest instalment"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    12,
+                    16
+                  ],
+                  "value": "2011"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the 2011 stoner comedy that is the latest instalment in a series that follows john cho and kal penn as they set out on a quest to find the perfect christmas tree",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-64": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Genre": [
+                {
+                  "span": [
+                    12,
+                    17
+                  ],
+                  "value": "scary"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    30,
+                    125
+                  ],
+                  "value": "a serial killer who returns to a small town to kill everyone born on the day he supposedly died"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what s that scary movie about a serial killer who returns to a small town to kill everyone born on the day he supposedly died",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-65": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    42,
+                    86
+                  ],
+                  "value": "a stock broker seeking to restore his empire"
+                }
+              ],
+              "Relationship": [
+                {
+                  "span": [
+                    12,
+                    18
+                  ],
+                  "value": "sequel"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    26,
+                    30
+                  ],
+                  "value": "1987"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the sequel to the 1987 film about a stock broker seeking to restore his empire",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-66": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    32,
+                    136
+                  ],
+                  "value": "manufacturer who initially inadvertently saves thousands of jews from certain death during the holocaust"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am thinking of a film about a manufacturer who initially inadvertently saves thousands of jews from certain death during the holocaust",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-67": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    84,
+                    94
+                  ],
+                  "value": "mel brooks"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    12,
+                    26
+                  ],
+                  "value": "classic comedy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the classic comedy about the old west that was written directed and starred mel brooks",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-68": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    27,
+                    41
+                  ],
+                  "value": "robert de niro"
+                }
+              ],
+              "Director": [
+                {
+                  "span": [
+                    84,
+                    99
+                  ],
+                  "value": "martin scorsese"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    48,
+                    67
+                  ],
+                  "value": "a boxer s life that"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie starring robert de niro about a boxer s life that was directed by martin scorsese",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-69": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    29,
+                    39
+                  ],
+                  "value": "matt damon"
+                }
+              ],
+              "Opinion": [
+                {
+                  "span": [
+                    47,
+                    61
+                  ],
+                  "value": "highly popular"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    62,
+                    99
+                  ],
+                  "value": "book and movie series about espionage"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "jeremy renner takes over for matt damon in the highly popular book and movie series about espionage in what movie",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-7": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Year": [
+                {
+                  "span": [
+                    8,
+                    12
+                  ],
+                  "value": "1997"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "in what 1997 movie is there a scene featuring muscians playing on the deck of a ship",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-70": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    0,
+                    67
+                  ],
+                  "value": "the trials and effects the civil war have on a rich southern family"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "the trials and effects the civil war have on a rich southern family",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-71": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    62,
+                    75
+                  ],
+                  "value": "russell brand"
+                }
+              ],
+              "Character_Name": [
+                {
+                  "span": [
+                    111,
+                    122
+                  ],
+                  "value": "aldous snow"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    17,
+                    32
+                  ],
+                  "value": "american comedy"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    12,
+                    16
+                  ],
+                  "value": "2010"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the 2010 american comedy film starring jonah hill and russell brand in which brand stars as the rocker aldous snow",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-72": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Genre": [
+                {
+                  "span": [
+                    11,
+                    22
+                  ],
+                  "value": "teen comedy"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    29,
+                    97
+                  ],
+                  "value": "a girl whose halloween night is ruined when her brother goes missing"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what s the teen comedy about a girl whose halloween night is ruined when her brother goes missing",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-73": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    57,
+                    70
+                  ],
+                  "value": "robert deniro"
+                }
+              ],
+              "Director": [
+                {
+                  "span": [
+                    5,
+                    20
+                  ],
+                  "value": "martin scorsese"
+                }
+              ],
+              "Quote": [
+                {
+                  "span": [
+                    104,
+                    121
+                  ],
+                  "value": "you looking at me"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "this martin scorsese film contains the classic moment of robert deniro looking in the mirror and asking you looking at me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-74": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    10,
+                    22
+                  ],
+                  "value": "steve carell"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    38,
+                    101
+                  ],
+                  "value": "a guy who has n t dated in awhile learning how to pick up girls"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    5,
+                    9
+                  ],
+                  "value": "2011"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "this 2011 steve carell movie is about a guy who has n t dated in awhile learning how to pick up girls",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-75": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    75,
+                    87
+                  ],
+                  "value": "kurt russell"
+                }
+              ],
+              "Character_Name": [
+                {
+                  "span": [
+                    91,
+                    105
+                  ],
+                  "value": "snake plissken"
+                }
+              ],
+              "Director": [
+                {
+                  "span": [
+                    54,
+                    68
+                  ],
+                  "value": "john carpenter"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    11,
+                    36
+                  ],
+                  "value": "american cyberpunk action"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    6,
+                    10
+                  ],
+                  "value": "1981"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "which 1981 american cyberpunk action film directed by john carpenter stars kurt russell as snake plissken",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-76": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    32,
+                    44
+                  ],
+                  "value": "bruce willis"
+                }
+              ],
+              "Character_Name": [
+                {
+                  "span": [
+                    73,
+                    85
+                  ],
+                  "value": "john mcclane"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    60,
+                    72
+                  ],
+                  "value": "nypd officer"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    12,
+                    16
+                  ],
+                  "value": "1988"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the 1988 movie starring bruce willis where he plays nypd officer john mcclane",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-77": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    44,
+                    57
+                  ],
+                  "value": "jimmy stewart"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    22,
+                    29
+                  ],
+                  "value": "classic"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    63,
+                    125
+                  ],
+                  "value": "wholesome young man who gets involved with corrupt politicians"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am thinking about a classic film starring jimmy stewart as a wholesome young man who gets involved with corrupt politicians",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-78": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    79,
+                    143
+                  ],
+                  "value": "a group of women competing to determine who is the maid of honor"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "often referred to as a female companion piece to the hangover this movie stars a group of women competing to determine who is the maid of honor",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-79": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Opinion": [
+                {
+                  "span": [
+                    80,
+                    84
+                  ],
+                  "value": "epic"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "one of the most famous glass trophy race winners in history is the star of this epic picture",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-8": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    81,
+                    94
+                  ],
+                  "value": "dick van dyke"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    40,
+                    76
+                  ],
+                  "value": "she sings and flies with an umbrella"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what s the movie with julie andre where she sings and flies with an umbrella and dick van dyke",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-80": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    0,
+                    11
+                  ],
+                  "value": "colin firth"
+                }
+              ],
+              "Award": [
+                {
+                  "span": [
+                    37,
+                    47
+                  ],
+                  "value": "best actor"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    73,
+                    89
+                  ],
+                  "value": "historical drama"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "colin firth won an academy award for best actor in this movie based on a historical drama",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-81": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Director": [
+                {
+                  "span": [
+                    0,
+                    12
+                  ],
+                  "value": "yasujiro ozu"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    56,
+                    61
+                  ],
+                  "value": "drama"
+                }
+              ],
+              "Opinion": [
+                {
+                  "span": [
+                    32,
+                    55
+                  ],
+                  "value": "emotionally devastating"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    68,
+                    116
+                  ],
+                  "value": "a couple coming to visit their children in japan"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "yasujiro ozu directs this spare emotionally devastating drama about a couple coming to visit their children in japan",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-82": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    56,
+                    68
+                  ],
+                  "value": "fred astaire"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    72,
+                    124
+                  ],
+                  "value": "a dancing team who drift apart and find new partners"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    18,
+                    22
+                  ],
+                  "value": "1948"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i m thinking of a 1948 film that stars judy garland and fred astaire as a dancing team who drift apart and find new partners",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-83": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    33,
+                    117
+                  ],
+                  "value": "small town that is exposed to a chemical spill essentially turning them into zombies"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "have you seen that movie about a small town that is exposed to a chemical spill essentially turning them into zombies",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-84": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Genre": [
+                {
+                  "span": [
+                    11,
+                    19
+                  ],
+                  "value": "children"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    42,
+                    105
+                  ],
+                  "value": "a family of four inch people living in a 14 year old boy s home"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what s the children s movie that features a family of four inch people living in a 14 year old boy s home",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-85": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    24,
+                    84
+                  ],
+                  "value": "a boy and a tiger get shipwrecked and are stranded on a boat"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie where a boy and a tiger get shipwrecked and are stranded on a boat",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-86": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Origin": [
+                {
+                  "span": [
+                    85,
+                    99
+                  ],
+                  "value": "made by disney"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    23,
+                    84
+                  ],
+                  "value": "models hamlet through a family of lions in the african sahara"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie that models hamlet through a family of lions in the african sahara made by disney",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-87": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    35,
+                    114
+                  ],
+                  "value": "a soft spoken writer as he completes what many consider to be his greatest work"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "this movie tells the true story of a soft spoken writer as he completes what many consider to be his greatest work another title for this movie might be in cold blood the name of the book the author in the movie is completing what is the name of this film",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-88": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    92,
+                    106
+                  ],
+                  "value": "sandra bullock"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    21,
+                    29
+                  ],
+                  "value": "90 s era"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am thinking of the 90 s era chase movie that blew up the careers of both keanu reeves and sandra bullock",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-89": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    26,
+                    101
+                  ],
+                  "value": "reindeer at the north pole who gets teased because of the color of his nose"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie about a reindeer at the north pole who gets teased because of the color of his nose",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-9": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    24,
+                    30
+                  ],
+                  "value": "jbiebs"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    31,
+                    48
+                  ],
+                  "value": "does his concerts"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie where jbiebs does his concerts",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-90": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    5,
+                    20
+                  ],
+                  "value": "humphrey bogart"
+                }
+              ],
+              "Opinion": [
+                {
+                  "span": [
+                    55,
+                    74
+                  ],
+                  "value": "best film ever made"
+                }
+              ],
+              "Quote": [
+                {
+                  "span": [
+                    103,
+                    128
+                  ],
+                  "value": "here s looking at you kid"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what humphrey bogart film considered by many to be the best film ever made introduced us to the phrase here s looking at you kid",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-91": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Award": [
+                {
+                  "span": [
+                    132,
+                    144
+                  ],
+                  "value": "best picture"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    74,
+                    109
+                  ],
+                  "value": "an animal s arctic yearly migration"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    19,
+                    23
+                  ],
+                  "value": "2006"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "by the time of the 2006 academy awards this best documentary winner about an animal s arctic yearly migration had out grossed all 5 best picture nominees",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-92": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Opinion": [
+                {
+                  "span": [
+                    41,
+                    52
+                  ],
+                  "value": "very famous"
+                }
+              ],
+              "Origin": [
+                {
+                  "span": [
+                    53,
+                    92
+                  ],
+                  "value": "book about sisters living in the 1800 s"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the name of the movie based on a very famous book about sisters living in the 1800 s",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-93": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    0,
+                    16
+                  ],
+                  "value": "sigourney weaver"
+                }
+              ],
+              "Director": [
+                {
+                  "span": [
+                    71,
+                    83
+                  ],
+                  "value": "ridley scott"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    31,
+                    53
+                  ],
+                  "value": "science fiction horror"
+                }
+              ],
+              "Relationship": [
+                {
+                  "span": [
+                    97,
+                    104
+                  ],
+                  "value": "sequels"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "sigourney weaver stars in this science fiction horror film directed by ridley scott that spawned sequels",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-94": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    31,
+                    83
+                  ],
+                  "value": "animated bear who has friends like a pig and a tiger"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie based off an animated bear who has friends like a pig and a tiger",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-95": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Director": [
+                {
+                  "span": [
+                    47,
+                    60
+                  ],
+                  "value": "stanley donen"
+                }
+              ],
+              "Plot": [
+                {
+                  "span": [
+                    72,
+                    134
+                  ],
+                  "value": "the courting of a group of females by a group of related males"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    24,
+                    28
+                  ],
+                  "value": "1954"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the name of the 1954 movie directed by stanley donen focused on the courting of a group of females by a group of related males",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-96": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Actor": [
+                {
+                  "span": [
+                    48,
+                    58
+                  ],
+                  "value": "jack black"
+                }
+              ],
+              "Genre": [
+                {
+                  "span": [
+                    10,
+                    18
+                  ],
+                  "value": "animated"
+                }
+              ],
+              "Relationship": [
+                {
+                  "span": [
+                    24,
+                    39
+                  ],
+                  "value": "itself a sequel"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    5,
+                    9
+                  ],
+                  "value": "2011"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what 2011 animated film itself a sequel starred jack black as a klumsy but lovable bear",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-97": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Award": [
+                {
+                  "span": [
+                    26,
+                    57
+                  ],
+                  "value": "oscar for best animated feature"
+                }
+              ],
+              "Director": [
+                {
+                  "span": [
+                    5,
+                    13
+                  ],
+                  "value": "miyazaki"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "this miyazaki film won an oscar for best animated feature",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-98": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Genre": [
+                {
+                  "span": [
+                    18,
+                    24
+                  ],
+                  "value": "horror"
+                }
+              ],
+              "Year": [
+                {
+                  "span": [
+                    13,
+                    17
+                  ],
+                  "value": "1968"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is this 1968 horror movie that sparked the zombie craze",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-99": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Plot": [
+                {
+                  "span": [
+                    24,
+                    88
+                  ],
+                  "value": "the bear who has friends that are a rabbit kangaroo and a tigger"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the movie about the bear who has friends that are a rabbit kangaroo and a tigger",
+        "turn_id": 0
+      }
+    ]
+  }
+}

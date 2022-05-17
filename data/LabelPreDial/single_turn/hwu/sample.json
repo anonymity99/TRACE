@@ -1,0 +1,1802 @@
+{
+  "hwu-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what alarms do i have set right now",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "checkout today alarm of meeting",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what alarms have i set for tomorrow",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-100": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "any alarms currently listed",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1000": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "do remove next event from the calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1001": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "delete all events and content from my calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1002": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "no lunch date tomorrow",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1003": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "delete my next meeting",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1004": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "delete the monthly recurring team meeting till june",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1005": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "i will no longer be joining mom for lunch tomorrow",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1006": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "destroy all events",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1007": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "check the events on calendar and delete the next event",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1008": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "cancels lunch at the restaurant booked for march twenty five",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1009": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "cancel dentist appointment for this week",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-101": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "did i remember to set a reminder alarm for my next doctor's appointment",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1010": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "change my plan erase my next event",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1011": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "cancel the plan of party",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1012": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "reset all events in calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1013": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "erase all content in my calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1014": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "this event needs to be deleted",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1015": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "erase my appointment on the twelfth from my calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1016": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "remove twenty fourth march meeting from schedule",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1017": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "i want all my events deleted",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1018": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "can you empty my calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1019": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "delete all of my appointments with dr smith this week",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-102": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what time is set for my wake up alarm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1020": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "please remove dinner date scheduled for this friday at nine pm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1021": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "delete my appointment tomorrow",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1022": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "remove dinner with mike from my calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1023": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "delete my dr k appointment in march",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1024": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "please erase the next birthday event",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1025": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "make my calendar empty",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1026": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "cancel sam's party",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1027": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "please delete this event",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1028": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "delete all events in calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1029": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "i am no longer attending the wedding on the tenth so remove it from my calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-103": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what alarms are set for this week",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1030": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "delete every event",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1031": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "delete the scheduled meeting on fourth october twelve pm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1032": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 7
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_remove": {}
+          }
+        },
+        "role": "user",
+        "text": "open calendar and erase all events for all months",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1033": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "write down that i am going to meet with jenny on the third okay",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1034": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "on third april we will go to watch j llb movie set it",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1035": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "reminder about meeting from eight am to twelve pm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1036": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "new reminder at three pm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1037": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "set rotating event",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1038": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "i have a meeting at noon today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1039": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "schedule lunch at tomo in arcata california tomorrow at noon",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-104": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what is on my alarm schedule",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1040": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "add event to calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1041": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "set a reminder for two days prior of the event",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1042": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "remind me everyday at two pm for lunch",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1043": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "remind me to eat when i get home",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1044": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "i need to set up a meeting with the ceo tomorrow",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1045": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "create a meeting event in my calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1046": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "make appointment for next friday",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1047": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "set a reminder for my shopping trip tomorrow at five pm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1048": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "remind me every year on this date of",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1049": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "set reminder notification for three o'clock",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-105": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "show me all of my active alarms",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1050": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "reminders",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1051": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "notify me an hour before my two pm appointment at the car dealership",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1052": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "let me know when my meetings are on monday",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1053": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "set a reminder for john's birthday next week",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1054": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "every wednesday night at five pm remind me to meet phil",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1055": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "set a meeting with hongbin",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1056": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "invite people to the calendar event",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1057": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "add practice to calendar on feb four at king's park at two pm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1058": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "set a two day notification before maria's birthday please",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1059": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "let me know of the meeting on tuesday",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-106": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what alarms are currently set",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1060": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "meeting update my calendar to reflect meeting",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1061": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "remind me at the start of each month",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1062": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "add my car payment on the twelfth in my calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1063": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "on february fourteenth make dinner reservations at the restaurant",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1064": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "repeating event meeting on mondays",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1065": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "please set reminder",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1066": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "remind me if i miss my evening walk routine",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1067": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "please remind me about the event later five pm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1068": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "schedule a reminder on fifteenth march and input name as meeting",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1069": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me when my next doctors appointment is",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-107": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "review the alarms i have",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1070": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "meeting this friday",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1071": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "set a reminder on fifteenth march as meeting",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1072": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "add a reminder to april fourth to go to the dentist",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1073": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "set a reminder for twelve thirty meeting with the boss",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1074": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "remind me of my appointment on the fifteenth",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1075": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "schedule a meeting with reeta today evening at five pm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1076": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "open calendar schedule event meeting",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1077": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "can you remind me of sunday gym every saturday evening",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1078": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "remind me about tomorrow meeting at ten am",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1079": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "hi please remind the next meeting with my boss it will be at eleven am next monday",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-108": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "alarm_query": {}
+          }
+        },
+        "role": "user",
+        "text": "what's the alarm situation for tomorrow",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1080": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "please remind me for the function at miami tomorrow",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1081": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "put a seven pm meeting time down for march fourteenth",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1082": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "remember dinner on thursday at bistro italia",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1083": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "remind me after a month",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1084": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "in the following week repeat this event at ten am every day",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1085": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "can you notify the event in my calendar",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1086": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "add event baseball practice five pm tonight",
+        "turn_id": 0
+      }
+    ]
+  },
+  "hwu-1087": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "calendar_set": {}
+          }
+        },
+        "role": "user",
+        "text": "remind me of my twelve oclock meeting by eleven thirty",
+        "turn_id": 0
+      }
+    ]
+  }
+}

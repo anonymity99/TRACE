@@ -1,0 +1,1902 @@
+{
+  "train-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "# of caloriesfor 1 cand yginger ?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hi.Melissa. Each Natural Ginger Tummy Drops has 10 calories and if you are a diabetic.3 carbs. It's directions say to take a maximum of 8 pieces a day. Remember this is not like eating hard candy, it is a supplement. So it also says keep away from children so they don't confuse it with hard candy. I used two while flying partly cause my mouth was dry and I wanted assurance I wouldn't get sick, all I did was let it melt in my mouth. I drink diet Ginger ale all the time, yet I hate gingerbread cookies, gingersnap type, these did not have a strong flavor to them. I don't know if I mentioned I went on a short cruise, which the crew said it was the roughest the seas had been in 6 months, I ended up giving some to two employees because they were getting seasick and they helped them too.Hope I answered enough for you, if not ask anything about them, I will answer again. Thanks. Pat",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "is the kotobukiya superman a resin statue?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I am unsure I do not see specifics",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When guitars are hung does it hold the guitar slightly aloft or will it be straight down on the wall?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It hangs roughly an inch or two from the wall,",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-11": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is the U.S. version of this product identical to the Euro version? Sources on internet suggest that the U.S. Fissler has lower max p.s.i. (12v15).",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Fissler I received is 15.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-12": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "If I use this for my ball python's UTH, do I still need a thermometer on this side of the tank or just the cool side?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I use it for my rainbow boa and still use a thermometer on that side and another one on the cool side plus a hygrometer. The thermometer is just to be able to double check the temp to make sure it is correct.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-13": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Would I be able to cut out a pattern on plywood with this. Would it easily follow curves etc",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, It will only do straight line cuts. You'll need either a scroll saw or a jig saw to follow curved patterns. Scroll saw is table mounted and can follow tight radius curves. Jig saw can be table-mounted or hand held and can cut curves of larger radius. For either saw type, to cut tight radii cuts, you'll want a narrow blade (tip of tooth to back edge), for larger radii or straight line cuts, a wider blade is better.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-14": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it compitable with WWindows Vista?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "If it works with Windows 7 it should also with Vista. It's an inexpensive piece of hardware; it's worth a try.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-15": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I'm a real beginner/plan to purchase this for my son so we can both explore the night sky, etc. Is it really easy to setup?/How long will it take?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It's super easy to set up, although it is a plastic housing and adjustment knobs, so it will be touchy to focus just right. The tripod is super cheap, and you will need to invest in something that is heavy and has better manipulation controls than what this ships with. I will say though, the telescope itself is very clear and provides a pretty decent picture. I don't feel that I got a bad deal on it at all and have used it a lot over the last year and some months. Again, the tripod is cheap, but for the price you can't go wrong. Oh, and the carry bag is awesome.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-16": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "will this case fit all samsung chromebooks?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "All 11.6 ones. It fit mine perfectly.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-17": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Will this work on a monopod? Is that long stick in the middle of the head removable?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, you need a flat base. Check the MVH502AH",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-18": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I would get one except for all the negative reports about hard starting. It appears the \"Hyper Coil\" fixes that, but it doesn't come standard?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "All I can say is \"that I have had NO problems with mine\". BUT: Like an 2 cyl. engine. Always use fresh gas. Gas that is older than 30 days, will over time foul up the carburetor. When you store it leave gas in it WITH gas stabilizer. This way the gaskets won't dry rot. And you will be fine. An electric start systems will fail. IF you over heat the starter.Info from ex mechanic. Good luck.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-19": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you set a regular disk rack for drying dishes on this mat?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, that's how I use it.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-2": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does it have word ?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It has Office 4.0.1",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-20": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Compare best 3G/4G internet access plan?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mobile Nation has the best.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-21": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "This phone can be used in Venezuela with movistar sim movilnet or",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-22": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is the muzzle open or closed?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Open",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-23": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "My gas stove has cast iron grates. Do I still need a ring for the wok?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You do not. The ring is only needed if you're cooking on an electric stove.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-24": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is there an expiration date on each bottle of oil?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I see none, looked all over the bottle.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-25": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many times can I use this stamp before I have to refill the ink?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I've used it to stamp 130 Christmas card envelopes the past two years and the ink still looks good!",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-26": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Anybody else have trouble with the charging port? My seems really loose and only charges if I leave it alone when plugged in. Should I send it back?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "one off mine seems to do the same thing.maybe?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-27": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how long till results are visible",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "i've been using it for a while now so i honestly can't remember exactly, but i'm sure results were visible by the time i had finished using the 1st bottle of shampoo. that's w/washing my hair 2-3 times per week. i would not have repurchased this item w/o noticing some results, so i would have to say, give it an entire bottle to notice results.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-28": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "A number of the other vanities on amazon are very small, would this fit a woman who is about 5 foot 9 inches?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I think it would!",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-29": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does it fit with iphone 5s?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes love it",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-3": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is this the 2012 version with the mounted board? Thanks much",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I bought this in 2013 so I assume so. It's very thick stock like you find on most quality board games. If you're saying it was a mat or something before, it's definitely not that. No complaints about the board.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-30": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "will this work if I connect this to a non-wireless usb printer? Thanks",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Unless your printer is wireless I don't think it will work.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-31": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is this finished and or sealed pine or unfinished?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "unfinished But It Is Beautiful!",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-32": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can I fold back the keyboard and use the iPad for when I don't want or need to use the keypad? Thanks",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, you can fold it back, but it doesn't fold back completely, it is kind of awkward.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-33": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "does it cover the entire car including the wheels, does it envelop the car 100%??",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It does not cover the tires on my 2005 mustang but it does cover the entire body.It comes just below the rocker panels and about half way down the tires.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-34": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "are there any pictures in the book",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are no pictures. It is a blank journal.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-35": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how do I connect to wifi? donot buy this it won't connect wifi amzon app store open it's black. I could donwnload my apps",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "turn off airplane mode and turn on wifi then connect to the wireless network that u are using",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-36": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "?How do you delete an accidentally posted post here? ;-)",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You're stuck. Consider going into the witness protection program.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-37": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I have some Nokia phones with built in wireless charging, would this work on them?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "This product does NOT work with ANYTHING that has wireless charging built in to it.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-38": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How large is the shipping box it arrives in?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "6ft by 4 ft. They pack it to the exact length of the actual shed height.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-39": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Will the Natural Light 30-watt unit work on a bright day without sunlight on solar panels.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It depends on how it bright. Brighter, motor speed faster.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-4": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I have a Maine Coon, (beautiful) a shelter cat that is declawed. Could she maneuver this?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes. Mine have claws but when they get impatient, will turn the box upside down so everything falls out.Judy",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-40": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I just have loose skin not cellulite will this work?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "i'd say yes only because ive seen a significant difference with both cellulite and skin firming, but you cant expect for the cream to work on itself, working out will help it",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-41": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does this have an internal hard drive or does it save to the receiver's hdd? Troubleshooting DVR errors and no help from Dish.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "All recordings are saved on the Hopper's hard drive.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-42": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it just me or does wifi keeps disconnecting every few mins?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I've had no complaints about that. Maybe update the drivers.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-43": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "We have tile floors throughout the house with area rugs in the livingroom and family room. Will this machine be effective?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes. It will work great. But make sure you set to the roller mode at all times. It picks up more stuff.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-44": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "WIll someone PLEASE tell me if it has a headphone jack?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mine did not.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-45": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How much can you cook with one can?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Have not really timed it, but at about one hour if at full blast and weather is above 50 degrees. Last week one can lasted me 3 days -- that included heating water for at least 10 cups of coffee. One breakfast of bacon and eggs. Soups for lunch. Dinners on wood fire. Still have some gas left in can. Important -- you have to disconnect fuel can after each use or gas will leak out. Since car camping always take several cans of fuel - just in case. Sorry could not be of more help.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-46": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "does it work with sony mini dvds",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-47": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "is there a way to make it blow cold air without dripping water on it?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I would never drop water on it. It's met to just give you a breeze. It's not an air conditioner.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-48": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you think small bouncy ball would work in it?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-49": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What year did this originally come out?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "probably 15 years ago.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-5": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what dimensions are the G3 WO3000 shipping container ?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Interestingly, I still have my box: 8\"x18\"x42\"",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-50": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does the home this is in need to have a wi-fi connection?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-51": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "We bought this microphone and when we connect it to her iPad it plays the song for a few minutes and then says bye-bye and turns off. Help! Lol",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "We purchased this for our granddaughter in London and have not heard of any problems with it.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-52": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does This Work With Time Warner Internet. I needit for Netflix Hulu & Amazon movies",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It works fine with Time Warner Cable",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-53": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is this hair dye? My natural hair color is blackk w/a blonde dye and now its like light brownish. can i use this?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "This IS a hair dye. you will need to purchase a developer along with it, but it should turn out fine on your hair.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-54": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Will this sight mount on the rail of a Beretta AL391 Urika?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hi, I believe that the M500 Magnetic Base, Front Shotgun Sight will fit. You can give a call at 1-800-589-4315.Hope this helped.Jim East",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-55": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "does it fit 32.5\" cabinet? I know the sink is 32.5\", but the bowl 30 1/6\" right? This should fit 32.5\" cab?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mine is in a 36 inch cabinet, I do not think it would work in a 32.5 in cabinet.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-56": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the recording time using a 128gb sd card?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I have a 64GB card and get about 8 hours.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-57": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is included in the package? Are there extra black and red cartridges or is it just ones that are inside the pen already?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There were not any extras in the one I received.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-58": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How long is the power cord?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It is just under six foot.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-59": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "where can you buy spare parts for this toy?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I DON'T KNOW ABOUT THAT. sORRY",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-6": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Has this product been recently reformulated? The one I have from a few years back does not mention oatmeal extract.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Look at the ingredients (if it has the label, mine was covered up by a UPC sticker) and it should have \"Avena sativa (Oat) Kernel Extract.\" It doesn't specifically say \"oatmeal,\" only Oat Kernel.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-60": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did it ship in the manufacturers box? Buying as Christmas gift and wanted to know if it would spoil the surprise.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes- you can see that it's a hoop",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-61": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What country is the product made in? And is the pestle part wood?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The product is made in Great Britain and the grip end of the handle is wood. The grinding end is ceramic. The product is very well made.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-62": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "does it work with the xbox one console?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Audio works because it still uses an optical port. However, as far as we can tell the mic doesn't work",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-63": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you remove the cable from the back of the unit? If so, can the cable be plugged into the shuffle directly?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No u cannot remove the cable from the back of the unit.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-64": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It was suggested I try this to remove the stains on my tub after shower door removal. Any chance it will really work?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Dap it on and let it sit, the longer the better. It will work.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-65": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is this dryer has both curler? or is it just only one curler?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It has both!",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-66": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What scale is it?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "About twice the size of a matchbox car but it is still awesome.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-67": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "will this printer print from my iphone? will this printer print from my iphone?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Epson uses its own iPrint App for printing. This app has some browser functionality, so isn't a total inconvenience for the iPad user. If you have an iPad, Epson has several printers now, such as the WorkForce 545 and 645, that support Apple's AirPrint: http://www.epson.com/cgi-bin/Store/support/supAdvice.jsp?type=highlights&noteoid;=196563",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-68": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Works on Windows? And, is like a \"NORMAL\" Keyboard? i mean the size is like the old ones? (i like the big keyboards)",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, i use it with my Dell venue 8 pro.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-69": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What song?? Since there is no screen, how do you know what number song you're listening to?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I would be really frustrated by this product. 1GB is a lot of space for there to be no screen. I could maybe make a playlist of 40-50 songs for the gym and that's about it.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-7": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "this will be my first time ordering from your company. Is this really pure peppermint oil and most important is the smell strong peppermint o",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It is pure peppermint oil and the smell is not too strong. I mixed mine with water. 1 part oil to 10 parts water, put in a spray bottle to spray for repeling mice.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-70": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Are they good with bass and will they fit in a 1994 626 mazda ?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Speakers have tiny sound. They are junk, wouldn't recommend!",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-71": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is this the Commuter bag (IB-BA11) or the Mini-commuter bag (IB-BA12)?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "This is the full commuter bag IB-BA1 and the rack as well - IB-RA1.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-72": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How does this compare on fit with the one with the frame?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I didn't try the one with the frame, however, the frameless sealed well with no issue.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-73": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Will this work on my 2013 GMC 3500HD Duramax diesel crew cab???",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes it should, make sure you get the correct adaptor for the key transponder.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-74": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do these work on textured walls? And will they hold up in the bathroom?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes they do very good",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-75": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Will these work with a full size pick-up truck? Is there a maximum weight limit for their use?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "it all depends on the size of the truck like a 3/4 ton probably never tried but its not a big loss they will refund it if it don't work",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-76": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "is it made in USA",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-77": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "why only 40 mg instead of the Dr. Oz recommendation of 350mg",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Our product Potent Organics Phytoceramides has 40mg of Phytoceramides, they delivered from Rise and gluten free. Phytoceramides that we use in our product was clinically proven and they outperform 350 Wheat Based Phytoceramides. In other words our 40mgs of Rise Based Phytoceramides are more effective that 350mg of Wheat based Phytoceramides and its also Gluten Free, their Wheat Based Phytoceramides can't be Wheat Free.Our 40mg Rise delivered Phytoceramides - most effective Phytoceramides type on the market and you getting the best product available at the moment on the market.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-78": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can it secure a tall water bottle?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "My water bottle is around 9in and it secures it",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-79": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does it have brakes?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-8": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "does it scan in color",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, it does not.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-80": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is the spout plastic or metal?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The spout is plastic.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-81": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The photos show 2 openings in front but a laser pointing out of 1. What is the extra opening for?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The batteries",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-82": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How much heat does this unit put out? I am looking to dry the air in a small bathroom but not heat it like an oven.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "This is not a heating unit. It is a dehumidifier which takes moisture out of the air.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-83": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "My daughter is 7 years old and about 4 feet tall. Do you think She could do her pull up - push overs on this in a standard door way?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, you can mount it anywhere within the door frame. If you're putting it in a door everyone uses you may want to check that everyone fits under it before you install.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-84": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "it says 19 count box pack of 6 so i would get 114 servings correct",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Correct",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-85": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can they lock securely (with a key or cable), or is the lock just to stop the wind from lifting the bag lid?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "They came with two small flimsy locks. They're not very secure, don't keep valuables in them.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-86": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how tall is it? it says 12\" but that seems very short",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "From base to top of rim is 12\" with the grate on top about 10\" total height as in picture = 22 inches.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-87": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what are the measurements on this pail?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "5 1/2\" wide at base and 8 1/2\" tall from tip of top handle to bottom of base.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-88": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is this Motorized body?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, it is.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-89": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "With the Delta 3551LF-RB Dryden Two Handle Widespread Lavatory Faucet, Venetian Bronze Does it come with rubbed oil bronze sink stopper?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I ordered this, and yes it did. Very nice.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-9": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Question #2, I assume in the locked position, the handle is horizontal, not cocked forward, yes?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, it folds down to horizontal BUT not totally horizontal. Maybe 10-15deg",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-90": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what's the memmoy size of Graphics Card? 2G or 4G",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2gb on the cheaper model 4gb on the more expensive model 1400 I think is the price for the 4gb model",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-91": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can two units be installed to appear stable?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes they can.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-92": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you think this will fit the Vaio Pro 13? the dimensions are 12.68\" (W) x 0.68\" (H) x 8.50\" (D), I don't know if the H is too small.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The case is made to fit the 13-inch MacBook Air exactly, the dimensions are as follows, Height: 0.11-0.68 inch (0.3-1.7 cm)Width: 12.8 inches (32.5 cm)Depth: 8.94 inches (22.7 cm)Weight: 2.96 pounds (1.35 kg)In my opinion I would think the Viao Pro 13 can fit inside but would be a little loose the width and the weight of the Viao is less.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-93": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can bees get in ?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-94": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "For a more permanent solution, do you super glue the pads along with the sticky adhesive onto the glasses or without the sticky adhesive?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I wouldn't super glue the pads because the adhesive is strong enough to stay put. Hope this helps.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-95": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "has anyone used this on firmer veggies such as white potatoes, turnips, or parsnips? Or would the julienne side be for softer veggies only?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I used it on a yam (sweet potato) and it worked fine. I did use a glove to hold it so I wouldn't cut myself. Cut a piece off a rounded veggie so it \"sits\" more firmly on your cutting board. The first slice of the peeler was hard but it got progressively easier.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-96": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Will this work on a 1973 Schwinn continental? Or any other road bike for that matter?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It doesn't look like your bike has the eyelets on top of the front forks to screw the legs to. I went to Home Depot to purchase some metal clamps with rubber on them (electrical department) to attach the legs to the front fork. It worked fine. I carry a 9 lb dog in the basket and the clamps didn't slip. You can go to www.waldsports.com and contact them.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-97": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "echo 500c transducer coax is about 24\" to short do they make an extension for this?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "They do, look on the garmin website.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-98": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I am upgradig my PC. How does this processor compare to Intel Core-i5 3350P Quad-Core Processor 3.1 Ghz 6 MB Cache LGA 1155 which I'm considering?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Going with this CPU from the I5 would be a small downgrade. If your looking to upgrade onto AMD go with at least a FX 6300 or better If you have the socket to fit. The FX 6300 is a 6 core if you can afford the 8xxx series ( 8 core), that's even better. This is a great CPU but in all honestly it would be a slight downgrade from the i5 you have now.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "train-99": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Are RACKS easily removable? I have fatter bottles (nut magnum) I need to store.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes the silver racks slide in and out with ease.",
+        "turn_id": 1
+      }
+    ]
+  }
+}

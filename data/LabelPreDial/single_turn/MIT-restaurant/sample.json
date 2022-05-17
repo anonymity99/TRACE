@@ -1,0 +1,3437 @@
+{
+  "train-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    25,
+                    38
+                  ],
+                  "value": "inside dining"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    0,
+                    7
+                  ],
+                  "value": "2 start"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "2 start restaurants with inside dining",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "34",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    2,
+                    5
+                  ],
+                  "value": "sub"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    12,
+                    39
+                  ],
+                  "value": "near independence boulevard"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "a sub place near independence boulevard",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-11": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    45,
+                    49
+                  ],
+                  "value": "wine"
+                }
+              ],
+              "Price": [
+                {
+                  "span": [
+                    20,
+                    29
+                  ],
+                  "value": "midpriced"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    40,
+                    44
+                  ],
+                  "value": "good"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    53,
+                    75
+                  ],
+                  "value": "davidos italian palace"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "about how much is a midpriced bottle of good wine at davidos italian palace",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-12": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Hours": [
+                {
+                  "span": [
+                    59,
+                    65
+                  ],
+                  "value": "dinner"
+                }
+              ],
+              "Price": [
+                {
+                  "span": [
+                    66,
+                    76
+                  ],
+                  "value": "per person"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    38,
+                    54
+                  ],
+                  "value": "johns pizza cafe"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "about how much will it cost to eat at johns pizza cafe for dinner per person",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-13": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    14,
+                    21
+                  ],
+                  "value": "nearest"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    22,
+                    36
+                  ],
+                  "value": "cracker barrel"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "adress of the nearest cracker barrel",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-14": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Hours": [
+                {
+                  "span": [
+                    0,
+                    17
+                  ],
+                  "value": "after hour dining"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "after hour dining",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-15": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    16,
+                    32
+                  ],
+                  "value": "bagel and coffee"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "all i want is a bagel and coffee can you direct me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-16": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    14,
+                    20
+                  ],
+                  "value": "salmon"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "all i want is salmon",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-17": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    19,
+                    31
+                  ],
+                  "value": "fresh fruits"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    45,
+                    64
+                  ],
+                  "value": "nearest supermarket"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "all i want is some fresh fruits where is the nearest supermarket",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-18": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    24,
+                    29
+                  ],
+                  "value": "chili"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    19,
+                    23
+                  ],
+                  "value": "good"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "all i want is some good chili can you help me find that",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-19": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    32,
+                    43
+                  ],
+                  "value": "steak house"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    52,
+                    65
+                  ],
+                  "value": "within a mile"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "along my route tell me the next steak house that is within a mile",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-2": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    18,
+                    28
+                  ],
+                  "value": "in my town"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    0,
+                    6
+                  ],
+                  "value": "5 star"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "5 star resturants in my town",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-20": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    8,
+                    15
+                  ],
+                  "value": "parking"
+                }
+              ],
+              "Cuisine": [
+                {
+                  "span": [
+                    16,
+                    22
+                  ],
+                  "value": "indian"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "alot of parking indian food",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-21": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    16,
+                    22
+                  ],
+                  "value": "burger"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    11,
+                    15
+                  ],
+                  "value": "good"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    46,
+                    57
+                  ],
+                  "value": "burger king"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "although a good burger would be good time for burger king",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-22": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Hours": [
+                {
+                  "span": [
+                    43,
+                    50
+                  ],
+                  "value": "tonight"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    35,
+                    42
+                  ],
+                  "value": "mcdills"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "am i ablle to get a reservation at mcdills tonight",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-23": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    0,
+                    8
+                  ],
+                  "value": "american"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    27,
+                    34
+                  ],
+                  "value": "reviews"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "american style restaurants reviews",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-24": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    0,
+                    18
+                  ],
+                  "value": "anniversary dinner"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "anniversary dinner",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-25": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    4,
+                    13
+                  ],
+                  "value": "50s style"
+                }
+              ],
+              "Cuisine": [
+                {
+                  "span": [
+                    14,
+                    20
+                  ],
+                  "value": "diners"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any 50s style diners around",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-26": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    8
+                  ],
+                  "value": "bars"
+                }
+              ],
+              "Hours": [
+                {
+                  "span": [
+                    25,
+                    43
+                  ],
+                  "value": "open before 11 a m"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any bars around that are open before 11 a m",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-27": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    31,
+                    40
+                  ],
+                  "value": "north end"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    4,
+                    11
+                  ],
+                  "value": "beanery"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any beanery restaurants at the north end",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-28": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    11
+                  ],
+                  "value": "beanery"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    27,
+                    38
+                  ],
+                  "value": "westborough"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any beanery restaurants on westborough",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-29": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    34,
+                    41
+                  ],
+                  "value": "brewpub"
+                }
+              ],
+              "Dish": [
+                {
+                  "span": [
+                    4,
+                    8
+                  ],
+                  "value": "beef"
+                }
+              ],
+              "Price": [
+                {
+                  "span": [
+                    46,
+                    51
+                  ],
+                  "value": "great"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any beef cuisine restaurants with brewpub and great prices",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-3": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Price": [
+                {
+                  "span": [
+                    24,
+                    34
+                  ],
+                  "value": "reasonable"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    3,
+                    12
+                  ],
+                  "value": "hong kong"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "98 hong kong restaurant reasonable prices",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-30": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    4,
+                    16
+                  ],
+                  "value": "buffet style"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    28,
+                    38
+                  ],
+                  "value": "in my area"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any buffet style restaurant in my area",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-31": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    27,
+                    41
+                  ],
+                  "value": "great portions"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any business eateries with great portions",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-32": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    21,
+                    32
+                  ],
+                  "value": "around here"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    4,
+                    8
+                  ],
+                  "value": "busy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any busy restaurants around here",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-33": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    17
+                  ],
+                  "value": "cali eateries"
+                }
+              ],
+              "Hours": [
+                {
+                  "span": [
+                    18,
+                    31
+                  ],
+                  "value": "open at 11 am"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any cali eateries open at 11 am",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-34": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    43,
+                    54
+                  ],
+                  "value": "fine dining"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    71,
+                    95
+                  ],
+                  "value": "top rated on tripadvisor"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any chance i can get a reservation at that fine dining place thats the top rated on tripadvisor",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-35": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    20,
+                    30
+                  ],
+                  "value": "middleboro"
+                }
+              ],
+              "Price": [
+                {
+                  "span": [
+                    4,
+                    9
+                  ],
+                  "value": "cheap"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any cheap places on middleboro",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-36": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Hours": [
+                {
+                  "span": [
+                    22,
+                    39
+                  ],
+                  "value": "open before 8 a m"
+                }
+              ],
+              "Price": [
+                {
+                  "span": [
+                    4,
+                    9
+                  ],
+                  "value": "cheap"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any cheap restaurants open before 8 a m",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-37": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    10,
+                    17
+                  ],
+                  "value": "spanish"
+                }
+              ],
+              "Price": [
+                {
+                  "span": [
+                    4,
+                    9
+                  ],
+                  "value": "cheap"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any cheap spanish places",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-38": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    31,
+                    42
+                  ],
+                  "value": "around here"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    4,
+                    18
+                  ],
+                  "value": "crowd pleasing"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any crowd pleasing restaurants around here",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-39": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    14,
+                    31
+                  ],
+                  "value": "catering services"
+                }
+              ],
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    8
+                  ],
+                  "value": "deli"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any deli with catering services",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-4": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Hours": [
+                {
+                  "span": [
+                    23,
+                    38
+                  ],
+                  "value": "open till 2 a m"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    39,
+                    54
+                  ],
+                  "value": "passims kitchen"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "a great lunch spot but open till 2 a m passims kitchen",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-40": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    10
+                  ],
+                  "value": "family"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    22,
+                    28
+                  ],
+                  "value": "nearby"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any family restaurant nearby",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-41": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    13
+                  ],
+                  "value": "fast food"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    14,
+                    20
+                  ],
+                  "value": "nearby"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any fast food nearby",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-42": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    13
+                  ],
+                  "value": "fast food"
+                }
+              ],
+              "Hours": [
+                {
+                  "span": [
+                    21,
+                    35
+                  ],
+                  "value": "open this late"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any fast food places open this late",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-43": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    13
+                  ],
+                  "value": "fast food"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    26,
+                    32
+                  ],
+                  "value": "nearby"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any fast food restaurants nearby",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-44": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    12
+                  ],
+                  "value": "fastfood"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    13,
+                    19
+                  ],
+                  "value": "nearby"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any fastfood nearby",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-45": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    9,
+                    16
+                  ],
+                  "value": "low fat"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any food low fat food resteraunt",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-46": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    9,
+                    23
+                  ],
+                  "value": "within 5 miles"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any food within 5 miles",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-47": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    38,
+                    48
+                  ],
+                  "value": "no smoking"
+                }
+              ],
+              "Cuisine": [
+                {
+                  "span": [
+                    19,
+                    25
+                  ],
+                  "value": "diners"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any german cuisine diners around with no smoking permitted",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-48": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    9,
+                    18
+                  ],
+                  "value": "ice cream"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    26,
+                    32
+                  ],
+                  "value": "around"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    4,
+                    8
+                  ],
+                  "value": "good"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any good ice cream places around",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-49": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    9,
+                    21
+                  ],
+                  "value": "steak houses"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    22,
+                    28
+                  ],
+                  "value": "around"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    4,
+                    8
+                  ],
+                  "value": "good"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any good steak houses around me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-5": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    20,
+                    40
+                  ],
+                  "value": "soft serve ice cream"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "a place that serves soft serve ice cream",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-50": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    10,
+                    16
+                  ],
+                  "value": "around"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    4,
+                    9
+                  ],
+                  "value": "ihops"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any ihops around",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-51": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    17,
+                    25
+                  ],
+                  "value": "brownies"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    26,
+                    37
+                  ],
+                  "value": "around here"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    4,
+                    16
+                  ],
+                  "value": "inernational"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any inernational brownies around here",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-52": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    4,
+                    16
+                  ],
+                  "value": "kid friendly"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    29,
+                    40
+                  ],
+                  "value": "around here"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any kid friendly restaurants around here",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-53": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    15,
+                    21
+                  ],
+                  "value": "diners"
+                }
+              ],
+              "Dish": [
+                {
+                  "span": [
+                    32,
+                    36
+                  ],
+                  "value": "sake"
+                }
+              ],
+              "Hours": [
+                {
+                  "span": [
+                    4,
+                    14
+                  ],
+                  "value": "late night"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any late night diners featuring sake",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-54": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    4,
+                    16
+                  ],
+                  "value": "nice dine in"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    29,
+                    41
+                  ],
+                  "value": "next to here"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any nice dine in restaurants next to here",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-55": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    25,
+                    35
+                  ],
+                  "value": "in harvard"
+                }
+              ],
+              "Price": [
+                {
+                  "span": [
+                    4,
+                    10
+                  ],
+                  "value": "nicely"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    41,
+                    54
+                  ],
+                  "value": "nice toppings"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any nicely priced places in harvard with nice toppings",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-56": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    37,
+                    46
+                  ],
+                  "value": "carry out"
+                }
+              ],
+              "Hours": [
+                {
+                  "span": [
+                    47,
+                    66
+                  ],
+                  "value": "until at least 9 pm"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    11,
+                    18
+                  ],
+                  "value": "landrys"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any of the landrys restaurants offer carry out until at least 9 pm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-57": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    8,
+                    11
+                  ],
+                  "value": "hoa"
+                }
+              ],
+              "Hours": [
+                {
+                  "span": [
+                    29,
+                    46
+                  ],
+                  "value": "late night dining"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any pho hoa restaurants with late night dining",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-58": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    29,
+                    38
+                  ],
+                  "value": "sandwichs"
+                }
+              ],
+              "Hours": [
+                {
+                  "span": [
+                    48,
+                    53
+                  ],
+                  "value": "lunch"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    10,
+                    16
+                  ],
+                  "value": "around"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any place around that serves sandwichs on their lunch menu",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-59": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    29,
+                    34
+                  ],
+                  "value": "vegan"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any place around that serves vegan food options",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-6": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    26,
+                    36
+                  ],
+                  "value": "for groups"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    21,
+                    25
+                  ],
+                  "value": "good"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "a restaurant that is good for groups",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-60": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    22,
+                    28
+                  ],
+                  "value": "nearby"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    10,
+                    14
+                  ],
+                  "value": "good"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any place good to eat nearby",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-61": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    35,
+                    51
+                  ],
+                  "value": "travelers checks"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    17,
+                    23
+                  ],
+                  "value": "nearby"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any place to eat nearby that takes travelers checks",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-62": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    33,
+                    38
+                  ],
+                  "value": "chips"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    11,
+                    26
+                  ],
+                  "value": "along this road"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any places along this road serve chips",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-63": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    60,
+                    80
+                  ],
+                  "value": "see some celebrities"
+                }
+              ],
+              "Dish": [
+                {
+                  "span": [
+                    45,
+                    55
+                  ],
+                  "value": "potato pie"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    14,
+                    28
+                  ],
+                  "value": "harvard square"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any places in harvard square where i can get potato pie and see some celebrities",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-64": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    51,
+                    63
+                  ],
+                  "value": "group dining"
+                }
+              ],
+              "Cuisine": [
+                {
+                  "span": [
+                    22,
+                    29
+                  ],
+                  "value": "chowder"
+                }
+              ],
+              "Price": [
+                {
+                  "span": [
+                    4,
+                    14
+                  ],
+                  "value": "reasonable"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any reasonable priced chowder restaurants offering group dining",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-65": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    36,
+                    41
+                  ],
+                  "value": "vegan"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    15,
+                    23
+                  ],
+                  "value": "close by"
+                }
+              ],
+              "Price": [
+                {
+                  "span": [
+                    55,
+                    65
+                  ],
+                  "value": "affordable"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any restaurant close by that serves vegan dish and its affordable",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-66": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Hours": [
+                {
+                  "span": [
+                    20,
+                    34
+                  ],
+                  "value": "opens 24 hours"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any restaurant that opens 24 hours",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-67": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    33,
+                    39
+                  ],
+                  "value": "brunch"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    43,
+                    58
+                  ],
+                  "value": "hovendon avenue"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any restaurants around featuring brunch on hovendon avenue",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-68": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    49,
+                    62
+                  ],
+                  "value": "private rooms"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    16,
+                    43
+                  ],
+                  "value": "around four miles from here"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any restaurants around four miles from here with private rooms",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-69": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    23,
+                    40
+                  ],
+                  "value": "government center"
+                }
+              ],
+              "Price": [
+                {
+                  "span": [
+                    46,
+                    51
+                  ],
+                  "value": "great"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any restaurants around government center with great prices",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-7": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    2,
+                    7
+                  ],
+                  "value": "salad"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "a salad would make my day",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-70": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    53,
+                    69
+                  ],
+                  "value": "great atmosphere"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    16,
+                    33
+                  ],
+                  "value": "around sacramento"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any restaurants around sacramento with fireplace and great atmosphere",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-71": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    34,
+                    41
+                  ],
+                  "value": "organic"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    16,
+                    22
+                  ],
+                  "value": "around"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any restaurants around that serve organic foods",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-72": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    16,
+                    27
+                  ],
+                  "value": "take checks"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any restaurants take checks",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-73": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    51,
+                    56
+                  ],
+                  "value": "patio"
+                }
+              ],
+              "Dish": [
+                {
+                  "span": [
+                    27,
+                    39
+                  ],
+                  "value": "french fries"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    57,
+                    63
+                  ],
+                  "value": "nearby"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any restaurants that serve french fries and have a patio nearby",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-74": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    47,
+                    62
+                  ],
+                  "value": "romantic dining"
+                }
+              ],
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    16
+                  ],
+                  "value": "southwestern"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    63,
+                    69
+                  ],
+                  "value": "nearby"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any southwestern cuisine restaurants featuring romantic dining nearby",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-75": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    11
+                  ],
+                  "value": "spanish"
+                }
+              ],
+              "Hours": [
+                {
+                  "span": [
+                    41,
+                    60
+                  ],
+                  "value": "open in the morning"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    27,
+                    40
+                  ],
+                  "value": "jamaica plain"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any spanish restaurants in jamaica plain open in the morning",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-76": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Rating": [
+                {
+                  "span": [
+                    4,
+                    15
+                  ],
+                  "value": "suggestions"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any suggestions on what to eat",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-77": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    22,
+                    36
+                  ],
+                  "value": "drink specials"
+                }
+              ],
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    9
+                  ],
+                  "value": "tapas"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any tapas places with drink specials",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-78": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    4,
+                    10
+                  ],
+                  "value": "unique"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "any unique foods here",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-79": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    14,
+                    29
+                  ],
+                  "value": "boardwalk fries"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    30,
+                    41
+                  ],
+                  "value": "around here"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "anybody serve boardwalk fries around here",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-8": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    2,
+                    10
+                  ],
+                  "value": "smoothie"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "a smoothie would hit the spot",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-80": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    29,
+                    39
+                  ],
+                  "value": "pita bread"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    46,
+                    67
+                  ],
+                  "value": "not more than 4 miles"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "anyplace i can get some good pita bread thats not more than 4 miles out",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-81": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    21,
+                    36
+                  ],
+                  "value": "within 10 miles"
+                }
+              ],
+              "Rating": [
+                {
+                  "span": [
+                    9,
+                    13
+                  ],
+                  "value": "good"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "anything good to eat within 10 miles",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-82": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    14,
+                    27
+                  ],
+                  "value": "group seating"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "anything with group seating",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-83": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    37,
+                    48
+                  ],
+                  "value": "noodle dish"
+                }
+              ],
+              "Price": [
+                {
+                  "span": [
+                    31,
+                    36
+                  ],
+                  "value": "cheap"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "anywhere i can get a tasty and cheap noodle dish",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-84": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    15,
+                    26
+                  ],
+                  "value": "not crowded"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "anywhere thats not crowded before the game where i can get a bite",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-85": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    19,
+                    26
+                  ],
+                  "value": "in town"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    0,
+                    8
+                  ],
+                  "value": "apple bs"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "apple bs resturant in town",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-86": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    0,
+                    6
+                  ],
+                  "value": "arabic"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    15,
+                    22
+                  ],
+                  "value": "near me"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "arabic cuisine near me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-87": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    8,
+                    16
+                  ],
+                  "value": "doughnut"
+                }
+              ],
+              "Hours": [
+                {
+                  "span": [
+                    23,
+                    37
+                  ],
+                  "value": "open right now"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are any doughnut shops open right now",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-88": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    8,
+                    18
+                  ],
+                  "value": "vegetarian"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    31,
+                    46
+                  ],
+                  "value": "within 5 blocks"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are any vegetarian restaurants within 5 blocks of here",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-89": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    4,
+                    20
+                  ],
+                  "value": "children allowed"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    24,
+                    33
+                  ],
+                  "value": "mi piacis"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are children allowed in mi piacis",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-9": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Dish": [
+                {
+                  "span": [
+                    2,
+                    7
+                  ],
+                  "value": "steak"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "a steak would be nice",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-90": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    27,
+                    44
+                  ],
+                  "value": "aromas coffee bar"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are rivertown coffee co or aromas coffee bar expensive",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-91": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    27,
+                    39
+                  ],
+                  "value": "portions big"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    4,
+                    14
+                  ],
+                  "value": "sebastians"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are sebastians restaurants portions big",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-92": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    13,
+                    18
+                  ],
+                  "value": "sushi"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    38,
+                    56
+                  ],
+                  "value": "north side of town"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are than any sushi restaurants on the north side of town and i need to know their phone number and directions",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-93": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Cuisine": [
+                {
+                  "span": [
+                    12,
+                    22
+                  ],
+                  "value": "vegetarian"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    38,
+                    52
+                  ],
+                  "value": "cleveland park"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are the any vegetarian restaurants in cleveland park",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-94": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "are the proportions big or small",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-95": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    36,
+                    40
+                  ],
+                  "value": "gona"
+                }
+              ],
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    25,
+                    32
+                  ],
+                  "value": "chichis"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are the reviews good for chichis in gona",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-96": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Restaurant_Name": [
+                {
+                  "span": [
+                    25,
+                    47
+                  ],
+                  "value": "donovans rooftop grill"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are the reviews good for donovans rooftop grill",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-97": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Amenity": [
+                {
+                  "span": [
+                    8,
+                    26
+                  ],
+                  "value": "servers attractive"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are the servers attractive",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-98": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Location": [
+                {
+                  "span": [
+                    36,
+                    44
+                  ],
+                  "value": "location"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are their any places to eat near my location",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-99": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "Hours": [
+                {
+                  "span": [
+                    45,
+                    61
+                  ],
+                  "value": "open until 11 pm"
+                }
+              ],
+              "Location": [
+                {
+                  "span": [
+                    36,
+                    44
+                  ],
+                  "value": "kingston"
+                }
+              ],
+              "Price": [
+                {
+                  "span": [
+                    10,
+                    20
+                  ],
+                  "value": "affordable"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are there affordable restaurants in kingston open until 11 pm",
+        "turn_id": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,3499 @@
+{
+  "train-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    47,
+                    58
+                  ],
+                  "value": "Mississippi"
+                }
+              ],
+              "SL_METHOD_TRAVEL": [
+                {
+                  "span": [
+                    25,
+                    30
+                  ],
+                  "value": "drive"
+                }
+              ],
+              "SL_SOURCE": [
+                {
+                  "span": [
+                    36,
+                    43
+                  ],
+                  "value": "Chicago"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How long will it take to drive from Chicago to Mississippi",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_UNSUPPORTED_NAVIGATION": {}
+          }
+        },
+        "role": "user",
+        "text": "Will it take shorter to get to the White House by bus or taxi ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    67,
+                    75
+                  ],
+                  "value": "BROOKLYN"
+                }
+              ],
+              "SL_PATH_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    31,
+                    52
+                  ],
+                  "value": "THE VERRAZZANO BRIDGE"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "IS THERE TRAFFIC CONGESTION ON THE VERRAZZANO BRIDGE ON THE WAY TO BROOKLYN",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-11": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    0,
+                    12
+                  ],
+                  "value": "Music events"
+                }
+              ],
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    28,
+                    40
+                  ],
+                  "value": "this weekend"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    16,
+                    27
+                  ],
+                  "value": "Minneapolis"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Music events in Minneapolis this weekend",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-12": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DIRECTIONS": {
+              "SL_DESTINATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    34,
+                    54
+                  ],
+                  "value": "the portland airport"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What 's the best route to take to the portland airport",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-13": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    45,
+                    50
+                  ],
+                  "value": "today"
+                }
+              ],
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    35,
+                    44
+                  ],
+                  "value": "St George"
+                }
+              ],
+              "SL_METHOD_TRAVEL": [
+                {
+                  "span": [
+                    26,
+                    31
+                  ],
+                  "value": "drive"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Is there any traffic if I drive to St George today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-14": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DESTINATION_IN_GET_LOCATION_HOME_SL_TYPE_RELATION": [
+                {
+                  "span": [
+                    26,
+                    29
+                  ],
+                  "value": "Dad"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How is traffic heading to Dad",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-15": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    33,
+                    40
+                  ],
+                  "value": "tonight"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    19,
+                    32
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "whats happening in san francisco tonight",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-16": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    32,
+                    44
+                  ],
+                  "value": "freemont ave"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Are there downed power lines on freemont ave that might make me late to the movie ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-17": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    5,
+                    10
+                  ],
+                  "value": "shows"
+                }
+              ],
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    48,
+                    56
+                  ],
+                  "value": "his week"
+                }
+              ],
+              "SL_LOCATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    26,
+                    44
+                  ],
+                  "value": "the House of Blues"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What shows are playing at the House of Blues we his week",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-18": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_ARRIVAL": {
+              "SL_DATE_TIME_DEPARTURE": [
+                {
+                  "span": [
+                    14,
+                    17
+                  ],
+                  "value": "now"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    47,
+                    58
+                  ],
+                  "value": "Fenway Park"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "If I take off now what time should I arrive at Fenway Park ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-19": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    54,
+                    61
+                  ],
+                  "value": "Memphis"
+                }
+              ],
+              "SL_METHOD_TRAVEL": [
+                {
+                  "span": [
+                    21,
+                    26
+                  ],
+                  "value": "drive"
+                }
+              ],
+              "SL_SOURCE": [
+                {
+                  "span": [
+                    40,
+                    49
+                  ],
+                  "value": "Knoxville"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How many hours is it drive time between Knoxville and Memphis ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-2": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_ARRIVAL": {
+              "SL_DATE_TIME_ARRIVAL": [
+                {
+                  "span": [
+                    28,
+                    35
+                  ],
+                  "value": "by noon"
+                }
+              ],
+              "SL_DATE_TIME_DEPARTURE": [
+                {
+                  "span": [
+                    47,
+                    50
+                  ],
+                  "value": "now"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_SL_CATEGORY_LOCATION": [
+                {
+                  "span": [
+                    18,
+                    27
+                  ],
+                  "value": "the beach"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "will I make it to the beach by noon if I leave now",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-20": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DIRECTIONS": {
+              "SL_DATE_TIME_DEPARTURE": [
+                {
+                  "span": [
+                    23,
+                    28
+                  ],
+                  "value": "today"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_WORK": [
+                {
+                  "span": [
+                    18,
+                    22
+                  ],
+                  "value": "work"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "best way to reach work today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-21": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    16,
+                    23
+                  ],
+                  "value": "meeting"
+                }
+              ],
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    9,
+                    15
+                  ],
+                  "value": "todays"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    27,
+                    33
+                  ],
+                  "value": "tacoma"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "where is todays meeting in tacoma",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-22": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DIRECTIONS": {
+              "SL_DESTINATION_IN_GET_LOCATION_SL_CATEGORY_LOCATION": [
+                {
+                  "span": [
+                    30,
+                    44
+                  ],
+                  "value": "public parking"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_SL_LOCATION_MODIFIER": [
+                {
+                  "span": [
+                    22,
+                    29
+                  ],
+                  "value": "nearest"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_SL_LOCATION_MODIFIER_IN_GET_LOCATION_SL_LOCATION": [
+                {
+                  "span": [
+                    50,
+                    68
+                  ],
+                  "value": "S Beritania Street"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_SL_LOCATION_MODIFIER_IN_GET_LOCATION_SL_SEARCH_RADIUS": [
+                {
+                  "span": [
+                    22,
+                    26
+                  ],
+                  "value": "near"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Look up directions to nearest public parking near S Beritania Street",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-23": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_UNSUPPORTED": {}
+          }
+        },
+        "role": "user",
+        "text": "I bought a new car",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-24": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DIRECTIONS": {
+              "SL_DESTINATION_IN_GET_LOCATION_SL_CATEGORY_LOCATION": [
+                {
+                  "span": [
+                    9,
+                    17
+                  ],
+                  "value": "the mall"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Route to the mall",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-25": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    0,
+                    16
+                  ],
+                  "value": "star wars events"
+                }
+              ],
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    25,
+                    30
+                  ],
+                  "value": "today"
+                }
+              ],
+              "SL_LOCATION_IN_GET_LOCATION_SL_LOCATION_USER": [
+                {
+                  "span": [
+                    22,
+                    24
+                  ],
+                  "value": "me"
+                }
+              ],
+              "SL_LOCATION_IN_GET_LOCATION_SL_SEARCH_RADIUS": [
+                {
+                  "span": [
+                    17,
+                    21
+                  ],
+                  "value": "near"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "star wars events near me today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-26": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_LOCATION": {
+              "SL_CATEGORY_LOCATION": [
+                {
+                  "span": [
+                    20,
+                    31
+                  ],
+                  "value": "gas station"
+                }
+              ],
+              "SL_LOCATION_MODIFIER": [
+                {
+                  "span": [
+                    12,
+                    19
+                  ],
+                  "value": "nearest"
+                }
+              ],
+              "SL_LOCATION_MODIFIER_IN_GET_LOCATION_SL_LOCATION": [
+                {
+                  "span": [
+                    39,
+                    52
+                  ],
+                  "value": "5th ave north"
+                }
+              ],
+              "SL_LOCATION_MODIFIER_IN_GET_LOCATION_SL_SEARCH_RADIUS": [
+                {
+                  "span": [
+                    32,
+                    38
+                  ],
+                  "value": "off of"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find me the nearest gas station off of 5th ave north .",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-27": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_ROAD_CONDITION": {
+              "SL_DESTINATION_IN_GET_EVENT_SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    37,
+                    57
+                  ],
+                  "value": "the rugby tournament"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_DATE_TIME": [
+                {
+                  "span": [
+                    58,
+                    63
+                  ],
+                  "value": "today"
+                }
+              ],
+              "SL_ROAD_CONDITION": [
+                {
+                  "span": [
+                    3,
+                    11
+                  ],
+                  "value": "the rain"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Is the rain making it hard to get to the rugby tournament today ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-28": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DESTINATION_IN_GET_LOCATION_WORK": [
+                {
+                  "span": [
+                    39,
+                    43
+                  ],
+                  "value": "work"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What 's the traffic like heading in to work",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-29": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    41,
+                    61
+                  ],
+                  "value": "on the third weekend"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    33,
+                    40
+                  ],
+                  "value": "Atlanta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What types of things can I do in Atlanta on the third weekend",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-3": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DEPARTURE": {
+              "SL_DATE_TIME_ARRIVAL": [
+                {
+                  "span": [
+                    57,
+                    82
+                  ],
+                  "value": "when it opens on Saturday"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    37,
+                    56
+                  ],
+                  "value": "Hamilton Mall right"
+                }
+              ],
+              "SL_SOURCE_IN_GET_LOCATION_HOME_SL_CONTACT": [
+                {
+                  "span": [
+                    20,
+                    22
+                  ],
+                  "value": "my"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "When should I leave my to get to the Hamilton Mall right when it opens on Saturday",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-30": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    32,
+                    35
+                  ],
+                  "value": "D.C"
+                }
+              ],
+              "SL_SOURCE": [
+                {
+                  "span": [
+                    41,
+                    50
+                  ],
+                  "value": "baltimore"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how long will it take to get to D.C from baltimore",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-31": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    10,
+                    19
+                  ],
+                  "value": "Wadsworth"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Events in Wadsworth",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-32": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DISTANCE": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    40,
+                    47
+                  ],
+                  "value": "Anaheim"
+                }
+              ],
+              "SL_SOURCE": [
+                {
+                  "span": [
+                    24,
+                    35
+                  ],
+                  "value": "Los Angeles"
+                }
+              ],
+              "SL_UNIT_DISTANCE": [
+                {
+                  "span": [
+                    9,
+                    14
+                  ],
+                  "value": "miles"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How many miles apart is Los Angeles and Anaheim",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-33": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_ATTRIBUTE_EVENT": [
+                {
+                  "span": [
+                    22,
+                    30
+                  ],
+                  "value": "families"
+                }
+              ],
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    31,
+                    43
+                  ],
+                  "value": "this weekend"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what 's happening for families this weekend",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-34": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DISTANCE": {
+              "SL_DESTINATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    11,
+                    29
+                  ],
+                  "value": "the history museum"
+                }
+              ],
+              "SL_SOURCE_IN_GET_LOCATION_WORK_SL_CONTACT": [
+                {
+                  "span": [
+                    35,
+                    39
+                  ],
+                  "value": "mike"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how far is the history museum from mike ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-35": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DESTINATION_IN_GET_LOCATION_HOME_SL_TYPE_RELATION": [
+                {
+                  "span": [
+                    24,
+                    31
+                  ],
+                  "value": "grandma"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how long is the trip to grandma",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-36": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DESTINATION_IN_GET_LOCATION_SL_LOCATION_MODIFIER": [
+                {
+                  "span": [
+                    0,
+                    0
+                  ],
+                  "value": ""
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    35,
+                    45
+                  ],
+                  "value": "the Target"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How long will it take me to get to the Target Centre Street Abington",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-37": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_UNSUPPORTED_NAVIGATION": {}
+          }
+        },
+        "role": "user",
+        "text": "Can I get heavy traffic alerts when there is a back up on my route to work",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-38": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    38,
+                    52
+                  ],
+                  "value": "this afternoon"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    34,
+                    37
+                  ],
+                  "value": "JFK"
+                }
+              ],
+              "SL_SOURCE": [
+                {
+                  "span": [
+                    21,
+                    30
+                  ],
+                  "value": "Manhattan"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Traffic estimate for Manhattan to JFK this afternoon",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-39": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    32,
+                    44
+                  ],
+                  "value": "this morning"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what are the roads looking like this morning",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-4": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DESTINATION_IN_GET_LOCATION_HOME": [
+                {
+                  "span": [
+                    54,
+                    58
+                  ],
+                  "value": "home"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "I need to know if there 's a lot of traffic on my way home",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-40": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    36,
+                    50
+                  ],
+                  "value": "my destination"
+                }
+              ],
+              "SL_METHOD_TRAVEL": [
+                {
+                  "span": [
+                    18,
+                    21
+                  ],
+                  "value": "bus"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how long will the bus take to reach my destination",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-41": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DESTINATION_IN_GET_LOCATION_SL_CATEGORY_LOCATION": [
+                {
+                  "span": [
+                    39,
+                    48
+                  ],
+                  "value": "the beach"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How long is it going to take to get to the beach with traffic",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-42": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    34,
+                    46
+                  ],
+                  "value": "this weekend"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    27,
+                    33
+                  ],
+                  "value": "Boston"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Find me something to do in Boston this weekend",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-43": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    0,
+                    19
+                  ],
+                  "value": "Photography classes"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    23,
+                    28
+                  ],
+                  "value": "Ukiah"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Photography classes in Ukiah",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-44": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DISTANCE": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    29,
+                    40
+                  ],
+                  "value": "Los Angeles"
+                }
+              ],
+              "SL_SOURCE": [
+                {
+                  "span": [
+                    19,
+                    25
+                  ],
+                  "value": "Denver"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How far is it from Denver to Los Angeles",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-45": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    19,
+                    24
+                  ],
+                  "value": "bands"
+                }
+              ],
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    49,
+                    58
+                  ],
+                  "value": "this week"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    40,
+                    48
+                  ],
+                  "value": "New York"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Are there any good bands coming through New York this week",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-46": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    0,
+                    17
+                  ],
+                  "value": "christmas parties"
+                }
+              ],
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    18,
+                    31
+                  ],
+                  "value": "this december"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "christmas parties this december",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-47": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DIRECTIONS": {
+              "SL_DESTINATION_IN_GET_LOCATION_WORK": [
+                {
+                  "span": [
+                    11,
+                    17
+                  ],
+                  "value": "office"
+                }
+              ],
+              "SL_PATH": [
+                {
+                  "span": [
+                    35,
+                    44
+                  ],
+                  "value": "mall road"
+                }
+              ],
+              "SL_SOURCE_IN_GET_LOCATION_SL_CATEGORY_LOCATION": [
+                {
+                  "span": [
+                    23,
+                    30
+                  ],
+                  "value": "highway"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Take me to office from highway via mall road",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-48": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DESTINATION_IN_GET_LOCATION_SL_CATEGORY_LOCATION": [
+                {
+                  "span": [
+                    35,
+                    43
+                  ],
+                  "value": "the mall"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how long will it take me to get to the mall",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-49": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    21,
+                    26
+                  ],
+                  "value": "plays"
+                }
+              ],
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    34,
+                    46
+                  ],
+                  "value": "this weekend"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    50,
+                    58
+                  ],
+                  "value": "San Jose"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Is there any holiday plays to see this weekend in San Jose",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-5": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DIRECTIONS": {
+              "SL_DESTINATION_IN_GET_LOCATION_HOME": [
+                {
+                  "span": [
+                    25,
+                    29
+                  ],
+                  "value": "home"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What is the shortest way home",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-50": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DESTINATION_IN_GET_EVENT_SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    45,
+                    52
+                  ],
+                  "value": "meeting"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_DATE_TIME": [
+                {
+                  "span": [
+                    40,
+                    44
+                  ],
+                  "value": "4 pm"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_ORGANIZER_EVENT": [
+                {
+                  "span": [
+                    37,
+                    39
+                  ],
+                  "value": "my"
+                }
+              ],
+              "SL_METHOD_TRAVEL": [
+                {
+                  "span": [
+                    28,
+                    33
+                  ],
+                  "value": "drive"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how long will it take me to drive to my 4 pm meeting",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-51": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    24,
+                    31
+                  ],
+                  "value": "Parades"
+                }
+              ],
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    38,
+                    49
+                  ],
+                  "value": "in December"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    35,
+                    37
+                  ],
+                  "value": "NH"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Are there any Christmas Parades in NH in December",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-52": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    36,
+                    48
+                  ],
+                  "value": "this weekend"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    25,
+                    35
+                  ],
+                  "value": "Birmingham"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Help me find an event in Birmingham this weekend",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-53": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    16,
+                    18
+                  ],
+                  "value": "RI"
+                }
+              ],
+              "SL_PATH": [
+                {
+                  "span": [
+                    26,
+                    35
+                  ],
+                  "value": "Route 128"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Get the time to RI taking Route 128",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-54": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    38,
+                    56
+                  ],
+                  "value": "on New year 's Eve"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    30,
+                    37
+                  ],
+                  "value": "Atlanta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Tell me about things to do in Atlanta on New year 's Eve",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-55": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DATE_TIME_DEPARTURE": [
+                {
+                  "span": [
+                    51,
+                    56
+                  ],
+                  "value": "today"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    34,
+                    50
+                  ],
+                  "value": "the OSF hospital"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How long will it take me to reach the OSF hospital today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-56": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_ATTRIBUTE_EVENT": [
+                {
+                  "span": [
+                    33,
+                    45
+                  ],
+                  "value": "pet friendly"
+                }
+              ],
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    23,
+                    32
+                  ],
+                  "value": "festivals"
+                }
+              ],
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    8,
+                    22
+                  ],
+                  "value": "Fourth of July"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Are any Fourth of July festivals pet friendly",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-57": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    40,
+                    52
+                  ],
+                  "value": "this morning"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    24,
+                    39
+                  ],
+                  "value": "Madison Heights"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Any events available in Madison Heights this morning",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-58": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    27,
+                    36
+                  ],
+                  "value": "for today"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Give me the traffic report for today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-59": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_UNSUPPORTED_NAVIGATION": {}
+          }
+        },
+        "role": "user",
+        "text": "What is the least gas consuming route ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-6": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    37,
+                    49
+                  ],
+                  "value": "fort collins"
+                }
+              ],
+              "SL_METHOD_TRAVEL": [
+                {
+                  "span": [
+                    28,
+                    33
+                  ],
+                  "value": "drive"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how long will it take me to drive to fort collins",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-60": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    17,
+                    29
+                  ],
+                  "value": "for tomorrow"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What is going on for tomorrow",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-61": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DATE_TIME_DEPARTURE": [
+                {
+                  "span": [
+                    35,
+                    40
+                  ],
+                  "value": "today"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_HOME": [
+                {
+                  "span": [
+                    30,
+                    34
+                  ],
+                  "value": "home"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "will traffic delay me getting home today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-62": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {}
+          }
+        },
+        "role": "user",
+        "text": "Will I hit traffic on this route",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-63": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    50,
+                    55
+                  ],
+                  "value": "today"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    46,
+                    49
+                  ],
+                  "value": "MIS"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How long is the traffic backed up to get into MIS today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-64": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DESTINATION_IN_GET_LOCATION_HOME": [
+                {
+                  "span": [
+                    38,
+                    42
+                  ],
+                  "value": "home"
+                }
+              ],
+              "SL_PATH": [
+                {
+                  "span": [
+                    27,
+                    37
+                  ],
+                  "value": "my commute"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Are there any accidents on my commute home",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-65": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_ARRIVAL": {
+              "SL_DATE_TIME_ARRIVAL": [
+                {
+                  "span": [
+                    44,
+                    51
+                  ],
+                  "value": "by 1 pm"
+                }
+              ],
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    36,
+                    43
+                  ],
+                  "value": "Montauk"
+                }
+              ],
+              "SL_SOURCE_IN_GET_LOCATION_SL_LOCATION_USER": [
+                {
+                  "span": [
+                    28,
+                    32
+                  ],
+                  "value": "here"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Would I be able to get from here to Montauk by 1 pm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-66": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_ARRIVAL": {
+              "SL_DESTINATION_IN_GET_LOCATION_HOME": [
+                {
+                  "span": [
+                    21,
+                    25
+                  ],
+                  "value": "home"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "when should I arrive home based on the traffic",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-67": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_UNSUPPORTED_NAVIGATION": {}
+          }
+        },
+        "role": "user",
+        "text": "is there still parking available in the free parking lot at Qualcomm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-68": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DIRECTIONS": {
+              "SL_DESTINATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    22,
+                    26
+                  ],
+                  "value": "ACME"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Give me directions to ACME",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-69": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DIRECTIONS": {
+              "SL_DESTINATION_IN_GET_EVENT": [
+                {
+                  "span": [
+                    8,
+                    11
+                  ],
+                  "value": "the"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    51,
+                    58
+                  ],
+                  "value": "concert"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_NAME_EVENT": [
+                {
+                  "span": [
+                    38,
+                    50
+                  ],
+                  "value": "fall out boy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what 's the fastest way to get to the fall out boy concert ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-7": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DATE_TIME_DEPARTURE": [
+                {
+                  "span": [
+                    70,
+                    76
+                  ],
+                  "value": "at 8AM"
+                }
+              ],
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    40,
+                    46
+                  ],
+                  "value": "jeddah"
+                }
+              ],
+              "SL_METHOD_TRAVEL": [
+                {
+                  "span": [
+                    33,
+                    36
+                  ],
+                  "value": "bus"
+                }
+              ],
+              "SL_SOURCE": [
+                {
+                  "span": [
+                    52,
+                    58
+                  ],
+                  "value": "madina"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how long would it take to ride a bus to jeddah from madina travelling at 8AM ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-70": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DEPARTURE": {
+              "SL_DATE_TIME_ARRIVAL": [
+                {
+                  "span": [
+                    70,
+                    76
+                  ],
+                  "value": "7 pm ?"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    63,
+                    69
+                  ],
+                  "value": "before"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_ORGANIZER_EVENT": [
+                {
+                  "span": [
+                    50,
+                    54
+                  ],
+                  "value": "Heba"
+                }
+              ],
+              "SL_SOURCE_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    25,
+                    40
+                  ],
+                  "value": "Kris hair salon"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What time should I leave Kris hair salon to reach Heba wedding before 7 pm ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-71": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    17,
+                    22
+                  ],
+                  "value": "today"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What is going on today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-72": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_UPDATE_DIRECTIONS": {
+              "SL_OBSTRUCTION_AVOID": [
+                {
+                  "span": [
+                    32,
+                    44
+                  ],
+                  "value": "this traffic"
+                }
+              ],
+              "SL_PATH": [
+                {
+                  "span": [
+                    11,
+                    17
+                  ],
+                  "value": "detour"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Is there a detour to get out of this traffic",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-73": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DESTINATION_IN_GET_EVENT_SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    35,
+                    55
+                  ],
+                  "value": "the Hangout Festival"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_LOCATION": [
+                {
+                  "span": [
+                    61,
+                    77
+                  ],
+                  "value": "Shores , AL from"
+                }
+              ],
+              "SL_SOURCE_IN_GET_LOCATION_HOME_SL_CONTACT": [
+                {
+                  "span": [
+                    81,
+                    82
+                  ],
+                  "value": "?"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How long will it take me to get to the Hangout Festival Gulf Shores , AL from my ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-74": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_LOCATION_IN_GET_LOCATION_SL_LOCATION_USER": [
+                {
+                  "span": [
+                    24,
+                    31
+                  ],
+                  "value": "my area"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how heavy is traffic in my area",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-75": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_UNSUPPORTED_NAVIGATION": {}
+          }
+        },
+        "role": "user",
+        "text": "any police activity on main street today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-76": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DEPARTURE": {
+              "SL_DESTINATION_IN_GET_EVENT_SL_ATTENDEE_EVENT": [
+                {
+                  "span": [
+                    44,
+                    46
+                  ],
+                  "value": "my"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    52,
+                    59
+                  ],
+                  "value": "meeting"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_DATE_TIME": [
+                {
+                  "span": [
+                    47,
+                    51
+                  ],
+                  "value": "3 pm"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_LOCATION": [
+                {
+                  "span": [
+                    66,
+                    72
+                  ],
+                  "value": "Lyon ,"
+                }
+              ],
+              "SL_PATH_AVOID": [
+                {
+                  "span": [
+                    86,
+                    95
+                  ],
+                  "value": "freeway ."
+                }
+              ],
+              "SL_SOURCE_IN_GET_LOCATION_WORK": [
+                {
+                  "span": [
+                    31,
+                    35
+                  ],
+                  "value": "work"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "When is the latest I can leave work at make my 3 pm meeting South Lyon , avoiding the freeway .",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-77": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    37,
+                    45
+                  ],
+                  "value": "Portland"
+                }
+              ],
+              "SL_SOURCE": [
+                {
+                  "span": [
+                    26,
+                    33
+                  ],
+                  "value": "Newport"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What 's traffic like from Newport to Portland",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-78": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    11,
+                    27
+                  ],
+                  "value": "Thursday morning"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_HOME_SL_CONTACT_RELATED": [
+                {
+                  "span": [
+                    38,
+                    40
+                  ],
+                  "value": "my"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_HOME_SL_TYPE_RELATION": [
+                {
+                  "span": [
+                    41,
+                    49
+                  ],
+                  "value": "brothers"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "If I leave Thursday morning to get to my brothers how much traffic can I expect to have ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-79": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DEPARTURE": {
+              "SL_DATE_TIME_ARRIVAL": [
+                {
+                  "span": [
+                    58,
+                    65
+                  ],
+                  "value": "by 7 pm"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT": [
+                {
+                  "span": [
+                    39,
+                    52
+                  ],
+                  "value": "the Alahly 's"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    53,
+                    57
+                  ],
+                  "value": "game"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_NAME_EVENT": [
+                {
+                  "span": [
+                    43,
+                    49
+                  ],
+                  "value": "Alahly"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What time should I leave to make it to the Alahly 's game by 7 pm ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-8": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_LOCATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    37,
+                    59
+                  ],
+                  "value": "Liberty Science Center"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Can you tell me what is happening at Liberty Science Center",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-80": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DISTANCE": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    35,
+                    48
+                  ],
+                  "value": "Ocean Isle NC"
+                }
+              ],
+              "SL_SOURCE": [
+                {
+                  "span": [
+                    19,
+                    31
+                  ],
+                  "value": "Asheville NC"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How far is it from Asheville NC to Ocean Isle NC",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-81": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    28,
+                    38
+                  ],
+                  "value": "Schaumburg"
+                }
+              ],
+              "SL_SOURCE_IN_GET_LOCATION_SL_LOCATION_USER": [
+                {
+                  "span": [
+                    20,
+                    24
+                  ],
+                  "value": "here"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how is traffic from here to Schaumburg",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-82": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DISTANCE": {
+              "SL_DESTINATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    24,
+                    39
+                  ],
+                  "value": "east hills mall"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the distance to east hills mall",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-83": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_UNSUPPORTED_NAVIGATION": {}
+          }
+        },
+        "role": "user",
+        "text": "Is this highway to lanes the whole way",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-84": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_UNSUPPORTED_NAVIGATION": {}
+          }
+        },
+        "role": "user",
+        "text": "Should I walk to Borough Market or take a cab from here ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-85": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT_ATTENDEE": {
+              "SL_ATTENDEE_EVENT": [
+                {
+                  "span": [
+                    3,
+                    7
+                  ],
+                  "value": "Jack"
+                }
+              ],
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    17,
+                    28
+                  ],
+                  "value": "the concert"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Is Jack going to the concert",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-86": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    0,
+                    19
+                  ],
+                  "value": "Wine tasting events"
+                }
+              ],
+              "SL_LOCATION_IN_GET_LOCATION_SL_LOCATION_USER": [
+                {
+                  "span": [
+                    25,
+                    27
+                  ],
+                  "value": "me"
+                }
+              ],
+              "SL_LOCATION_IN_GET_LOCATION_SL_SEARCH_RADIUS": [
+                {
+                  "span": [
+                    20,
+                    24
+                  ],
+                  "value": "near"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Wine tasting events near me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-87": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DISTANCE": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    45,
+                    56
+                  ],
+                  "value": "new orleans"
+                }
+              ],
+              "SL_SOURCE": [
+                {
+                  "span": [
+                    29,
+                    40
+                  ],
+                  "value": "bolingbrook"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the distance between bolingbrook and new orleans",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-88": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_UPDATE_DIRECTIONS": {}
+          }
+        },
+        "role": "user",
+        "text": "Show me a faster route",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-89": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DEPARTURE": {
+              "SL_DESTINATION_IN_GET_EVENT_SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    0,
+                    6
+                  ],
+                  "value": "Dinner"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_EVENT_SL_DATE_TIME": [
+                {
+                  "span": [
+                    10,
+                    16
+                  ],
+                  "value": "5 pm ,"
+                }
+              ],
+              "SL_PATH": [
+                {
+                  "span": [
+                    42,
+                    46
+                  ],
+                  "value": "what"
+                }
+              ],
+              "SL_SOURCE_IN_GET_LOCATION_HOME": [
+                {
+                  "span": [
+                    71,
+                    78
+                  ],
+                  "value": "house ?"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Dinner at 5 pm , if I am travelling on 64 what time should I leave the house ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-9": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DESTINATION_IN_GET_LOCATION_SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    11,
+                    25
+                  ],
+                  "value": "Midway Airport"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "traffic to Midway Airport",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-90": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    41,
+                    49
+                  ],
+                  "value": "downtown"
+                }
+              ],
+              "SL_SOURCE_IN_GET_LOCATION_SL_LOCATION_USER": [
+                {
+                  "span": [
+                    5,
+                    9
+                  ],
+                  "value": "here"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "are there any slowdowns between here and downtown",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-91": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DIRECTIONS": {
+              "SL_DATE_TIME_DEPARTURE": [
+                {
+                  "span": [
+                    51,
+                    63
+                  ],
+                  "value": "this morning"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_WORK": [
+                {
+                  "span": [
+                    46,
+                    50
+                  ],
+                  "value": "work"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Which route is the quickest to take to get to work this morning",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-92": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_UNSUPPORTED_NAVIGATION": {}
+          }
+        },
+        "role": "user",
+        "text": "If I get off at route 9 and switch to fortlane rd will I get there quicker",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-93": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_UNSUPPORTED": {}
+          }
+        },
+        "role": "user",
+        "text": "Will there be a white Christmas",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-94": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_ESTIMATED_DURATION": {
+              "SL_DATE_TIME_DEPARTURE": [
+                {
+                  "span": [
+                    39,
+                    48
+                  ],
+                  "value": "right now"
+                }
+              ],
+              "SL_DESTINATION_IN_GET_LOCATION_HOME_SL_CONTACT": [
+                {
+                  "span": [
+                    19,
+                    24
+                  ],
+                  "value": "Lance"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How long to get to Lance 's if I leave right now ?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-95": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    14,
+                    29
+                  ],
+                  "value": "sporting events"
+                }
+              ],
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    42,
+                    47
+                  ],
+                  "value": "today"
+                }
+              ],
+              "SL_LOCATION": [
+                {
+                  "span": [
+                    33,
+                    41
+                  ],
+                  "value": "San Jose"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Are there any sporting events in San Jose today",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-96": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_EVENT": {
+              "SL_ATTRIBUTE_EVENT": [
+                {
+                  "span": [
+                    0,
+                    4
+                  ],
+                  "value": "Free"
+                }
+              ],
+              "SL_CATEGORY_EVENT": [
+                {
+                  "span": [
+                    15,
+                    21
+                  ],
+                  "value": "lights"
+                }
+              ],
+              "SL_DATE_TIME": [
+                {
+                  "span": [
+                    5,
+                    14
+                  ],
+                  "value": "Christmas"
+                }
+              ],
+              "SL_LOCATION_IN_GET_LOCATION_SL_LOCATION_USER": [
+                {
+                  "span": [
+                    34,
+                    36
+                  ],
+                  "value": "me"
+                }
+              ],
+              "SL_LOCATION_IN_GET_LOCATION_SL_SEARCH_RADIUS": [
+                {
+                  "span": [
+                    29,
+                    33
+                  ],
+                  "value": "near"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Free Christmas lights to see near me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-97": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_LOCATION": {
+              "SL_LOCATION_MODIFIER_IN_GET_LOCATION_SL_LOCATION_IN_GET_LOCATION_HOME_SL_CONTACT": [
+                {
+                  "span": [
+                    24,
+                    26
+                  ],
+                  "value": "my"
+                }
+              ],
+              "SL_LOCATION_MODIFIER_IN_GET_LOCATION_SL_SEARCH_RADIUS": [
+                {
+                  "span": [
+                    19,
+                    23
+                  ],
+                  "value": "near"
+                }
+              ],
+              "SL_POINT_ON_MAP": [
+                {
+                  "span": [
+                    0,
+                    9
+                  ],
+                  "value": "City hall"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "City hall location near my",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-98": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_INFO_TRAFFIC": {
+              "SL_LOCATION_IN_GET_LOCATION_SL_LOCATION": [
+                {
+                  "span": [
+                    30,
+                    39
+                  ],
+                  "value": "Asheville"
+                }
+              ],
+              "SL_LOCATION_IN_GET_LOCATION_SL_SEARCH_RADIUS": [
+                {
+                  "span": [
+                    25,
+                    29
+                  ],
+                  "value": "near"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What is the traffic like near Asheville",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-99": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "IN_GET_DIRECTIONS": {
+              "SL_DESTINATION": [
+                {
+                  "span": [
+                    31,
+                    39
+                  ],
+                  "value": "downtown"
+                }
+              ],
+              "SL_OBSTRUCTION_AVOID": [
+                {
+                  "span": [
+                    23,
+                    30
+                  ],
+                  "value": "traffic"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "fastest route to avoid traffic downtown",
+        "turn_id": 0
+      }
+    ]
+  }
+}

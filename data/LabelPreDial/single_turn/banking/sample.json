@@ -1,0 +1,1802 @@
+{
+  "banking-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_arrival": {}
+          }
+        },
+        "role": "user",
+        "text": "I am still waiting on my card?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_arrival": {}
+          }
+        },
+        "role": "user",
+        "text": "What can I do if my card still hasn't arrived after 2 weeks?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_arrival": {}
+          }
+        },
+        "role": "user",
+        "text": "Why has my new card still not come?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-100": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_arrival": {}
+          }
+        },
+        "role": "user",
+        "text": "I still haven't gotten my new card.  When will it get here?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1000": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "How can I Use thereto-top option?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1001": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "when i travel can it top up automatically",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1002": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Is there an auto top up option?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1003": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Where do I find the auto top- up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1004": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "How can I add money automatically?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1005": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Where can I located the auto-top up option?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1006": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "I'm going to travel, can I have it add money automatically in certain intervals?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1007": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "I will be traveling and want money to be added automatically in certain intervals. Is this possible?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1008": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Do I have to manually top up once I'm too low?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1009": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "How will I know when I can use the auto top-up feature?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-101": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_arrival": {}
+          }
+        },
+        "role": "user",
+        "text": "Do you have a tracking number for the card I was sent?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1010": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "What are the auto-top up policies?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1011": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can I auto-top up?  How do I do it?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1012": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "How do I get refills to my card when I'm traveling?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1013": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "What is the limit on Auto top?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1014": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "How do I auto top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1015": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can it add money automatically while travelling",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1016": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Is auto top up a provided service?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1017": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "When the time is right will this automatically replenish my balance?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1018": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Will money be added automatically when necessary?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1019": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can I automatically top-up when traveling?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-102": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_arrival": {}
+          }
+        },
+        "role": "user",
+        "text": "How do I track the card you sent to me?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1020": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "What is the maximum for auto top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1021": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Is there a way to top-up when it reaches a certain balance?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1022": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can I set the account to auto top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1023": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "I am traveling, what can I do to set up auto top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1024": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "What are my options for topping up, automatic and/or manual?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1025": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "When I travel, can it automatically add money in certain intervals?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1026": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Is auto top up available?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1027": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "When I'm traveling is it possible to add money automatically at certain time points?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1028": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Do you offer auto top ups?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1029": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Is there a limit on auto top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-103": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_arrival": {}
+          }
+        },
+        "role": "user",
+        "text": "Is my new bank card on the way and is there a way to track it?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1030": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "I'm trying to activate the auto-top up function. Where is it?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1031": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "How do I top-up automatically?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1032": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "How do i access the auto top-up option?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1033": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Where can I find the auto-top up feature?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1034": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "If my funds are running low, will the app top up automatically?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1035": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Is there a function where I can top-up automatically?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1036": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can I use an auto top-up option?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1037": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can topping up be automatic?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1038": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can I auto top up multiple times?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1039": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Do you have an option for auto top up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-104": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_arrival": {}
+          }
+        },
+        "role": "user",
+        "text": "Could you send me and up date on the arrival of my card?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1040": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "How do I activate auto top-up when traveling?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1041": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Where can I find the auto-top option?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1042": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "What is the maximum times I can auto top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1043": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "How many times can I auto top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1044": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "What, if any, is the limit  for auto top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1045": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Will the system automatically top up itself?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1046": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can I get an auto Top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1047": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Where do I find the auto top up option?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1048": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "What are the restrictions on auto top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1049": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "How can I setup automatic top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-105": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_arrival": {}
+          }
+        },
+        "role": "user",
+        "text": "How long does it take to recieve my new card?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1050": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can it automatically top up my account?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1051": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can I top-up automatically?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1052": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "I heard you have an auto-top up option, where do I find that?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1053": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Where do I access the auto top-up function?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1054": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "What about a auto top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1055": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "how can i get it to add money automatically while travelling",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1056": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "What about an auto top-up, is that a option?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1057": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can I setup top ups in advance?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1058": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "where can i located the auto top up function?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1059": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Is there a way to set up an auto top-up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-106": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_arrival": {}
+          }
+        },
+        "role": "user",
+        "text": "My card has not come in the mail yet.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1060": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "I have a trip coming up and want to add money automatically.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1061": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can it add money every so often automatically while I travel?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1062": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Will the system automatically update once there is no more money left?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1063": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "When traveling, is it possible for it to add money at specific time intervals?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1064": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "How do I top-up while traveling?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1065": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "auto-top up option can be found where?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1066": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Do I have to manually top-up my account each time or will it do it on its own?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1067": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can I auto top-up as much as I want?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1068": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Can I add money in intervals to my account?  I will be traveling.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1069": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Is there a limit to auto top?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-107": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_arrival": {}
+          }
+        },
+        "role": "user",
+        "text": "What's the card you sent me's tracking number?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1070": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "My funds are low, can I auto top up?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1071": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "I know there's an auto-top option but I can not locate it when I look?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1072": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 8
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "automatic_top_up": {}
+          }
+        },
+        "role": "user",
+        "text": "Is it possible to top-up automatically?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1073": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "I can't use my card because it is not working.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1074": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "I can't seem to be able to use my card",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1075": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "My card isn't working at all, I need assistance. It's really frustrating.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1076": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "Can you tell me what the problem with my card is? It was declined at a restaurant today.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1077": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "How do I fix a broken card?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1078": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "My card was working but now it doesn't.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1079": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "I cannot seem to use my card.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-108": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 0
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_arrival": {}
+          }
+        },
+        "role": "user",
+        "text": "i havent got my card",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1080": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "I think my card is broke it's not working anymore",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1081": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "I have not been able to use this card.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1082": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "What do I do if i accidentally broke my card?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1083": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "How come my card doesn't work anymore?",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1084": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "For a week now, I have tried to use my card and it is still not working.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1085": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "My actual card isn't functioning.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1086": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "I can't get the card itself to work.",
+        "turn_id": 0
+      }
+    ]
+  },
+  "banking-1087": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 9
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "card_not_working": {}
+          }
+        },
+        "role": "user",
+        "text": "What should I do if my card doesn't work?",
+        "turn_id": 0
+      }
+    ]
+  }
+}

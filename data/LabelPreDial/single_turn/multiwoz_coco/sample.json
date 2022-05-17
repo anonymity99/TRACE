@@ -1,0 +1,3718 @@
+{
+  "MUL0586.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "day": [
+                {
+                  "span": null,
+                  "value": "march 13th"
+                }
+              ],
+              "leaveat": [
+                {
+                  "span": null,
+                  "value": "18:06"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "greetings, i need a train leaving on march 13th after 18:06.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL0586.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "of course, how many tickets would you like me to book?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "attraction": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "west"
+                }
+              ],
+              "type": [
+                {
+                  "span": null,
+                  "value": "historical landmark"
+                }
+              ]
+            }
+          },
+          "train": {
+            "DEFAULT_INTENT": {
+              "book people": [
+                {
+                  "span": null,
+                  "value": "21"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like to book a train for 21 people. i would like to go to a historical landmark in the west.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL0784.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "arriveby": [
+                {
+                  "span": null,
+                  "value": "11:50 am"
+                }
+              ],
+              "destination": [
+                {
+                  "span": null,
+                  "value": "menlo park"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'm looking for a train that goes to menlo park and arrives by 11:50 am.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL0784.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "certainly, where will you be departing from?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "day": [
+                {
+                  "span": null,
+                  "value": "march 13th"
+                }
+              ],
+              "departure": [
+                {
+                  "span": null,
+                  "value": "blossom hill"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i will be departing from blossom hill on march 13th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL0784.json10": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "could you clarify if you need the reservation for 1 or 2 people please?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book people": [
+                {
+                  "span": null,
+                  "value": "2"
+                }
+              ],
+              "stars": [
+                {
+                  "span": null,
+                  "value": "0"
+                }
+              ],
+              "type": [
+                {
+                  "span": null,
+                  "value": "hotel"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like to make a reservation for 2 people and i would like a 0 star hotel.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL0784.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "the fare is 10.10 gbp per ticket.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "west"
+                }
+              ]
+            }
+          },
+          "train": {
+            "DEFAULT_INTENT": {
+              "book people": [
+                {
+                  "span": null,
+                  "value": "29"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i also need a train. the train should be for 29 people and should be on the west side.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL0784.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i've booked your tickets for the 7:29 train from bishops stortford, reference zht6r80s. can you give me more information about the type of hotel you'd like?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "parking": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ],
+              "pricerange": [
+                {
+                  "span": null,
+                  "value": "moderate"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need a moderate hotel with free parking.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL0784.json8": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "ok, great. will it be the same two people as on the train and starting on monday? or do you have different needs for lodging?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book people": [
+                {
+                  "span": null,
+                  "value": "20"
+                }
+              ],
+              "stars": [
+                {
+                  "span": null,
+                  "value": "0"
+                }
+              ],
+              "type": [
+                {
+                  "span": null,
+                  "value": "hotel"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'd like a hotel with a 0 star rating please. i need a booking for 20 people.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL0784.json9": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i'd be happy to book that for you, what day will you be arriving on, and for how many nights?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "monday"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "23"
+                }
+              ],
+              "book stay": [
+                {
+                  "span": null,
+                  "value": "28"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "23 person 28 nights please",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL0886.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "attraction": {
+            "DEFAULT_INTENT": {
+              "type": [
+                {
+                  "span": null,
+                  "value": "historical landmark"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'm looking for a historical landmark.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL0886.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "there are 18 colleges i have found, would you prefer one in town centre or in the west?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "attraction": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "centre"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "las vegas strip"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am looking for a place called las vegas strip in the centre.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL0886.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "sure, we have thirteen options, 10 of which are free. may i suggest king's college, or hughes hall?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "attraction": {
+            "DEFAULT_INTENT": {
+              "name": [
+                {
+                  "span": null,
+                  "value": "niagara falls"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am looking for a place called niagara falls.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL0886.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "sure, the post code to king's college is cb21st, the entrance fee is free, and phone number 01223331100",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "south"
+                }
+              ],
+              "food": [
+                {
+                  "span": null,
+                  "value": "ramen"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "can you find an ramen restaurant for me that is also in the town south?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL1474.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "north"
+                }
+              ],
+              "book day": [
+                {
+                  "span": null,
+                  "value": "monday"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "buddha bowls"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am looking for a restaurant called buddha bowls in the north part of town. can you book it for monday?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL1474.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i'm happy to help! there are a great deal of restaurants there. what type of food did you have in mind?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "thursday"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "sushiya express"
+                }
+              ],
+              "pricerange": [
+                {
+                  "span": null,
+                  "value": "moderate"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'd like to eat at a restaurant called sushiya express in the moderate price range. i need it for thursday.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL1474.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "sure, they're located at 51 trumpington street city centre. can i help you with anything else today?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "departure": [
+                {
+                  "span": null,
+                  "value": "lawrence"
+                }
+              ],
+              "destination": [
+                {
+                  "span": null,
+                  "value": "san antonio"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "yes, i need a train from lawrence to san antonio.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL1474.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "certainly. can you tell me what day you would like to travel?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "arriveby": [
+                {
+                  "span": null,
+                  "value": "11:40 am"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "28"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "the train should arrive by 11:40 am and book for 28 people and give me the reference number please",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL1474.json5": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i'd be happy to, but can you tell me which day you'd like to travel on?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "day": [
+                {
+                  "span": null,
+                  "value": "march 20th"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like to leave on march 20th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL1790.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "day": [
+                {
+                  "span": null,
+                  "value": "march 14th"
+                }
+              ],
+              "departure": [
+                {
+                  "span": null,
+                  "value": "san martin"
+                }
+              ],
+              "destination": [
+                {
+                  "span": null,
+                  "value": "palo alto"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need a train from san martin to palo alto on march 14th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL1790.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "sorry about that,what time would you like to depart?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "leaveat": [
+                {
+                  "span": null,
+                  "value": "19:01"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like to leave after 19:01.  also, i would like to know the fare.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL1790.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "tr4005 departs peterborough at 18:19 and arrives in cambridge at 19:09. total travel time is 50 minutes, and the fare is 13.20 gbp per person.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "attraction": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "east"
+                }
+              ],
+              "type": [
+                {
+                  "span": null,
+                  "value": "art gallery"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "great, thank you. now, i need some information on art gallery i can visit in the east of town.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2105.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "south"
+                }
+              ],
+              "internet": [
+                {
+                  "span": null,
+                  "value": "no"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "hi. i'm looking for a hotel in the south.  the internet is not needed.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2105.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "the express by holiday inn cambridge is in the area and has free parking, would you like more information?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "name": [
+                {
+                  "span": null,
+                  "value": "express by holiday inn cambridge"
+                }
+              ],
+              "stars": [
+                {
+                  "span": null,
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "yes, i'm looking for a hotel called the express by holiday inn cambridge. i'm looking for a 1 star hotel.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2105.json5": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "the allenbell is a guesthouse on the east.  the addres sis 517a coldham lane post code cb13js.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "departure": [
+                {
+                  "span": null,
+                  "value": "blossom hill"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "thank you. i also need a train from the blossom hill.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2105.json6": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "what is your destination? and do you have any preference for day, departure or arrival time?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "taxi": {
+            "DEFAULT_INTENT": {
+              "arriveby": [
+                {
+                  "span": null,
+                  "value": "2:44 am"
+                }
+              ],
+              "leaveat": [
+                {
+                  "span": null,
+                  "value": "2:16 am"
+                }
+              ]
+            }
+          },
+          "train": {
+            "DEFAULT_INTENT": {
+              "arriveby": [
+                {
+                  "span": null,
+                  "value": "dontcare"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "21"
+                }
+              ],
+              "departure": [
+                {
+                  "span": null,
+                  "value": "san martin"
+                }
+              ],
+              "destination": [
+                {
+                  "span": null,
+                  "value": "san antonio"
+                }
+              ],
+              "leaveat": [
+                {
+                  "span": null,
+                  "value": "dontcare"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i want to go from san martin to san antonio, no preference for time but i need to book for 21 people.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2105.json7": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "there are trains that run every two hours every day starting at 5:50. do you know what day you'd like to travel?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "arriveby": [
+                {
+                  "span": null,
+                  "value": "17:41"
+                }
+              ],
+              "day": [
+                {
+                  "span": null,
+                  "value": "march 15th"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like to leave on march 15th and arrive by 17:41.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2168.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "arriveby": [
+                {
+                  "span": null,
+                  "value": "5:27 pm"
+                }
+              ],
+              "destination": [
+                {
+                  "span": null,
+                  "value": "mountain view"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am looking for a train. the train should arrive by 5:27 pm and should go to mountain view.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2168.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "there are over 1,000 trains like that.  where will you be departing from?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "departure": [
+                {
+                  "span": null,
+                  "value": "morgan hill"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i will be departing from morgan hill.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2168.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "can you confirm your desired travel day?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "day": [
+                {
+                  "span": null,
+                  "value": "march 12th"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need to leave on march 12th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2168.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i show a train leaving birmingham new street at 17:40 and arriving at 20:23 on wednesday.  will this work for you?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "book people": [
+                {
+                  "span": null,
+                  "value": "27"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "that will, yes. please make a booking for 27 people please.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2168.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i've booked your train tickets, and your reference number is a9nhso9y.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "internet": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ],
+              "stars": [
+                {
+                  "span": null,
+                  "value": "5"
+                }
+              ],
+              "type": [
+                {
+                  "span": null,
+                  "value": "none"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "thanks so much. i would also need a place to say. i am looking for something with 5 stars and has free wifi.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2168.json5": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "how about the cambridge belfry?  it has all the attributes you requested and a great name!  maybe even a real belfry?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "name": [
+                {
+                  "span": null,
+                  "value": "cambridge belfry"
+                }
+              ],
+              "parking": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ],
+              "pricerange": [
+                {
+                  "span": null,
+                  "value": "cheap"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "yes, i'd like to find a place to stay that has free parking and in the cheap price range.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2168.json6": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "what day would you like your booking for?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "march 15th"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "23"
+                }
+              ],
+              "book stay": [
+                {
+                  "span": null,
+                  "value": "20"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "please book it for march 15th for 23 people and 20 nights, please.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2261.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "internet": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "knights inn"
+                }
+              ],
+              "parking": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'm looking for a hotel called knights inn that has free parking and free wifi.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2261.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "yes! city centre north b and b is an inexpensively-priced guesthouse in the north of town at 328a histon road. would you like to book a room?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book people": [
+                {
+                  "span": null,
+                  "value": "23"
+                }
+              ],
+              "book stay": [
+                {
+                  "span": null,
+                  "value": "20"
+                }
+              ],
+              "internet": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "yes, i would like to book for 23 people for 20 nights. i also need a hotel with free wifi.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2261.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "they weren't able to accommodate those parameters. would you like to try a shorter stay?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book stay": [
+                {
+                  "span": null,
+                  "value": "22"
+                }
+              ],
+              "internet": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ],
+              "type": [
+                {
+                  "span": null,
+                  "value": "hotel"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "can you try to book a hotel for 22 nights? i also need a hotel with free wifi.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2261.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "the booking for city centre north b&b has been made, your reference number is 0fafy5pp.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "departure": [
+                {
+                  "span": null,
+                  "value": "gilroy"
+                }
+              ],
+              "destination": [
+                {
+                  "span": null,
+                  "value": "san mateo"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i also need a train from gilroy to san mateo.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2261.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i can find one for you. can you tell me what day you would like to travel, please?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "arriveby": [
+                {
+                  "span": null,
+                  "value": "7:00 pm"
+                }
+              ],
+              "day": [
+                {
+                  "span": null,
+                  "value": "march 16th"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like to leave on march 16th. i need to arrive by 7:00 pm.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2261.json6": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "certainly! how many tickets would you like?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "book people": [
+                {
+                  "span": null,
+                  "value": "22"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need 22 tickets for the same day.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2395.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "there are 79 attractions in the city. do you have a specific type of attraction or specific area of the attraction that you are interested in?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "attraction": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "north"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "kennedy space center"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "kennedy space center is in the north.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2395.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "great! how about all saints church? it has fantastic architecture and free entrance. would you like more information?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "centre"
+                }
+              ],
+              "pricerange": [
+                {
+                  "span": null,
+                  "value": "moderate"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "could i get the address for it? i would also like an moderate place to eat around it.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2395.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "the address is jesus lane. what type of food would you like to eat?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "saturday"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "29"
+                }
+              ],
+              "food": [
+                {
+                  "span": null,
+                  "value": "ramen"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like a ramen for 29 people on saturday.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "MUL2395.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "unfortunately, there are no expensive caribbean restaurants in that area. would you like me to check a different type of cuisine, or another area?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "friday"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "24"
+                }
+              ],
+              "food": [
+                {
+                  "span": null,
+                  "value": "pasta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how about a restaurant that serves pasta? i need a table for 24 people on friday.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL0151.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "east"
+                }
+              ],
+              "pricerange": [
+                {
+                  "span": null,
+                  "value": "cheap"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "hi, i am currently planning to come to cambridge, and i was looking for a relatively inexpensive place to eat in the east.  what would you suggest?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL0151.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "the gardenia is an excellent and cheap place in the center of town, serving mediterranean cuisine. would you like a table there?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "tuesday"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "27"
+                }
+              ],
+              "book time": [
+                {
+                  "span": null,
+                  "value": "11:55 am"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "the gardenia"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "yes, please book a table for 27 people at 11:55 am on tuesday.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL0151.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "we have two guesthouses and two hotels that meet your needs. the guesthouses are cheap, and the hotels are expensive. do you have a preference?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "stars": [
+                {
+                  "span": null,
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i want a place with a 1 star rating",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL0151.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i have one result. it is el shaddai, which is a cheap guesthouse. do you want to book it?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "internet": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "knights inn"
+                }
+              ],
+              "pricerange": [
+                {
+                  "span": null,
+                  "value": "cheap"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am also looking for a hotel called the knights inn. the hotel should include free wifi and should be in the cheap price range.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1170.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "day": [
+                {
+                  "span": null,
+                  "value": "march 15th"
+                }
+              ],
+              "departure": [
+                {
+                  "span": null,
+                  "value": "lawrence"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am looking for a train leaving from lawrence on march 15th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1170.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "there are 5 trains out of cambridge on wednesday. do you have a departure time in mind?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "destination": [
+                {
+                  "span": null,
+                  "value": "broadway"
+                }
+              ],
+              "leaveat": [
+                {
+                  "span": null,
+                  "value": "7:47 pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'd like to go to broadway and leave after 7:47 pm, i have to attend a meeting beforehand.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1170.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "the price is 16.50 pounds and the train will arrive in peterborough by 13:56 wednesday.  would you like me to book a ticket for you?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "arriveby": [
+                {
+                  "span": null,
+                  "value": "11:40 am"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "1"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "yes, please. i'd like to book a ticket for one person. i'd like to arrive by 11:40 am.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1170.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i booked you one seat on tr1879 departing cambridge for peterborough on wednesday at 13:06, reference: xu1qlhvw. can i help further today?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "attraction": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "east"
+                }
+              ],
+              "type": [
+                {
+                  "span": null,
+                  "value": "art gallery"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am also looking for an art gallery in the east.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1539.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "the address is parkside, cambridge, postcode cb11jg",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "north"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "thanks. would you be able to help me find a place to stay in the north side of town?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1539.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "what price range do you prefer?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "march 15th"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "22"
+                }
+              ],
+              "stars": [
+                {
+                  "span": null,
+                  "value": "5"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like it to have a 5 star rating for 22 people, starting march 15th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1539.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "yes it has wifi. would you like to know anything more?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "march 18th"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "27"
+                }
+              ],
+              "book stay": [
+                {
+                  "span": null,
+                  "value": "26"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "a and b guest house"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "that is sufficient, please book me for 27 people, 26 nights staring on march 18th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1539.json5": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "you've been booked at a and b guesthouse. your reference number is i23q30ph. can i be of further assistance today?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "day": [
+                {
+                  "span": null,
+                  "value": "march 18th"
+                }
+              ],
+              "departure": [
+                {
+                  "span": null,
+                  "value": "lawrence"
+                }
+              ],
+              "destination": [
+                {
+                  "span": null,
+                  "value": "san antonio"
+                }
+              ],
+              "leaveat": [
+                {
+                  "span": null,
+                  "value": "6:37 pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i also need a train from lawrence to san antonio on march 18th. i need to leave after 6:37 pm.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1690.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "departure": [
+                {
+                  "span": null,
+                  "value": "gilroy"
+                }
+              ],
+              "leaveat": [
+                {
+                  "span": null,
+                  "value": "17:11"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need to take a train from gilroy, leaving after 17:11.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1690.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "where would you like to go to?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "destination": [
+                {
+                  "span": null,
+                  "value": "mountain view"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like to go to the mountain view.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1690.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "ok i will book that for you and get you a confirmation number",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "day": [
+                {
+                  "span": null,
+                  "value": "monday"
+                }
+              ],
+              "destination": [
+                {
+                  "span": null,
+                  "value": "hayward park"
+                }
+              ],
+              "leaveat": [
+                {
+                  "span": null,
+                  "value": "7:47 pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i don't need anything booked.  i just need to get the arrival time, travel time and price of a train from norwich to hayward park leaving after 7:47 pm.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1690.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "there are trains arriving at 22:35, 23:35 and 24:35. they are 17.60 pounds and 79 minutes each.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "north"
+                }
+              ],
+              "stars": [
+                {
+                  "span": null,
+                  "value": "4"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "great, thanks! i'm also looking for a 4 star hotel in the north. can you please help with that?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1690.json5": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "there are several that meet your criteria. is there a price range you are interested in?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "march 19th"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "21"
+                }
+              ],
+              "pricerange": [
+                {
+                  "span": null,
+                  "value": "expensive"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "the expensive price range would be great. i would like to book for 21 people on march 19th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL1690.json9": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "what day will you be arriving?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "march 20th"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "4"
+                }
+              ],
+              "book stay": [
+                {
+                  "span": null,
+                  "value": "2"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "the same day... march 20th please.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL2512.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "certainly, we have many fine guest houses and hotels in cambridge. is there anything specific you were looking for, to help narrow it down?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "march 19th"
+                }
+              ],
+              "stars": [
+                {
+                  "span": null,
+                  "value": "0"
+                }
+              ],
+              "type": [
+                {
+                  "span": null,
+                  "value": "hotel"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'm looking for a hotel with a star of 0 and a guesthouse. i would like to book for march 19th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL2512.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "thanks for that information. what area are you looking to stay in?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "dontcare"
+                }
+              ],
+              "pricerange": [
+                {
+                  "span": null,
+                  "value": "moderate"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "the area doesn't matter i would like an moderate hotel if you can find one.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL2512.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "the express by holiday inn cambridge is located in the east and meet your criteria.  shall i book you a room?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "name": [
+                {
+                  "span": null,
+                  "value": "express by holiday inn cambridge"
+                }
+              ],
+              "parking": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "does it have free parking?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL2512.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "for how many people?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book people": [
+                {
+                  "span": null,
+                  "value": "23"
+                }
+              ],
+              "parking": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need a reservation for 23 people. i also need a hotel with free parking.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL2512.json5": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "and how many nights?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book stay": [
+                {
+                  "span": null,
+                  "value": "24"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "24 nights please. and i would need the reference number also.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL2512.json6": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "your room at the express by holiday inn cambridge is all set up for friday. the reference is 7f6zihsz. is there anything else i can help you with today?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "attraction": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "east"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "las vegas strip"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'm also looking for a place to go in the east part of town called las vegas strip.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL2512.json7": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "christ's college is located in the centre at saint andrew's street.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "attraction": {
+            "DEFAULT_INTENT": {
+              "name": [
+                {
+                  "span": null,
+                  "value": "kennedy space center"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "can you give me the postcode for kennedy space center?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL3021.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "arriveby": [
+                {
+                  "span": null,
+                  "value": "11:50 am"
+                }
+              ],
+              "departure": [
+                {
+                  "span": null,
+                  "value": "san martin"
+                }
+              ],
+              "destination": [
+                {
+                  "span": null,
+                  "value": "palo alto"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am looking for a train departing from san martin and arriving at palo alto by 11:50 am.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL3021.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "can you tell me what your departure city and destination are?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "departure": [
+                {
+                  "span": null,
+                  "value": "lawrence"
+                }
+              ],
+              "destination": [
+                {
+                  "span": null,
+                  "value": "mountain view"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am departing from lawrence and going to the mountain view.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL3552.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "south"
+                }
+              ],
+              "book day": [
+                {
+                  "span": null,
+                  "value": "monday"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "rockfire grill"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am looking for a restaurant called rockfire grill in the south part of town. can you book it for monday?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL3552.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i'm sorry, there seems to be an error. can you please restate your request?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "departure": [
+                {
+                  "span": null,
+                  "value": "morgan hill"
+                }
+              ],
+              "destination": [
+                {
+                  "span": null,
+                  "value": "menlo park"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need a train from morgan hill to menlo park.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL3552.json10": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "ok what location?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "east"
+                }
+              ],
+              "book day": [
+                {
+                  "span": null,
+                  "value": "sunday"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "pho bistro"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am looking for a restaurant called pho bistro in the east part of town. can you book it for sunday?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL3552.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "is there a specific day and time you would like to travel at?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "arriveby": [
+                {
+                  "span": null,
+                  "value": "11:45 am"
+                }
+              ],
+              "day": [
+                {
+                  "span": null,
+                  "value": "march 16th"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like to leave on march 16th. i need to arrive by 11:45 am.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL3552.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "the tr9448 arrives at 06:43. would you like me to book a ticket for you?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "book people": [
+                {
+                  "span": null,
+                  "value": "21"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "yes, please book 21 seats.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL3552.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "all set. you are booked for 7 people on tr9448. you reference number is b1q6ddte. can i help with anything else?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "march 14th"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "28"
+                }
+              ],
+              "type": [
+                {
+                  "span": null,
+                  "value": "hotel"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i also need a place to stay. i want to book a hotel for 28 people on march 14th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL3552.json5": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "ok for how many people and when are you planning your stay?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "south"
+                }
+              ],
+              "pricerange": [
+                {
+                  "span": null,
+                  "value": "moderate"
+                }
+              ],
+              "stars": [
+                {
+                  "span": null,
+                  "value": "4"
+                }
+              ],
+              "type": [
+                {
+                  "span": null,
+                  "value": "guesthouse"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like to stay at a moderately priced 4 star guesthouse in the south.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL3552.json6": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "how about el shaddai? fits your request perfectly.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "internet": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "moody moon"
+                }
+              ],
+              "parking": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'm also looking for a hotel called moody moon that includes free parking and free wifi.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL3552.json9": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "okay, is there anything else i can help you with?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "food": [
+                {
+                  "span": null,
+                  "value": "taiwanese"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "yes i need a taiwanese restaurant.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4047.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "sure, what do you need to know?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "west"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "sushiya express"
+                }
+              ],
+              "pricerange": [
+                {
+                  "span": null,
+                  "value": "moderate"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'm looking for a restaurant called sushiya express in the west. i'd like it to be moderately priced.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4047.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "what day and time do you need the reservation for? and how many people in your group?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "monday"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "28"
+                }
+              ],
+              "book time": [
+                {
+                  "span": null,
+                  "value": "5:42 pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need the reservation for 28 person for monday at 5:42 pm.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4047.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "your booking was successful and your table has been reserved! your reference number is 3uh2kqdp. can i do anything else for you today?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "day": [
+                {
+                  "span": null,
+                  "value": "march 17th"
+                }
+              ],
+              "departure": [
+                {
+                  "span": null,
+                  "value": "blossom hill"
+                }
+              ],
+              "destination": [
+                {
+                  "span": null,
+                  "value": "san mateo"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i also need a train from blossom hill to san mateo on march 17th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4047.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "ok, where from and what time do you want to arrive by?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "arriveby": [
+                {
+                  "span": null,
+                  "value": "11:40 am"
+                }
+              ],
+              "departure": [
+                {
+                  "span": null,
+                  "value": "gilroy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am departing from gilroy and want to arrive by 11:40 am.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4047.json5": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i can put you on the tr0035 it will get you there by 08:09. how many tickets do you need?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "train": {
+            "DEFAULT_INTENT": {
+              "book people": [
+                {
+                  "span": null,
+                  "value": "22"
+                }
+              ],
+              "leaveat": [
+                {
+                  "span": null,
+                  "value": "11:15 am"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need tickets for 22 people. i'd like to leave after 11:15 am.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4372.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "west"
+                }
+              ],
+              "book day": [
+                {
+                  "span": null,
+                  "value": "sunday"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "buddha bowls"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am looking for a restaurant called buddha bowls in the west part of town. can you help me book a reservation for sunday?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4372.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "okay, how about the good luck chinese food takeaway?  will that work for you?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "book people": [
+                {
+                  "span": null,
+                  "value": "29"
+                }
+              ],
+              "book time": [
+                {
+                  "span": null,
+                  "value": "18:06"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "good luck"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "that sounds good. can you book a table for 29 at 18:06?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4372.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i'll be happy to help you with that. what day would you like the reservation for?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "sunday"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like the reservation for sunday.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4372.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "your reservation is all set for wednesday. your reference number is 68x7u9ig. is there anything else i can help you with?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "wednesday"
+                }
+              ],
+              "book stay": [
+                {
+                  "span": null,
+                  "value": "28"
+                }
+              ],
+              "internet": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ],
+              "parking": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ],
+              "pricerange": [
+                {
+                  "span": null,
+                  "value": "cheap"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i also need a cheap hotel with free parking and wifi. i need it for 28 nights.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4372.json5": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "ok and for how many days ?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "west"
+                }
+              ],
+              "book stay": [
+                {
+                  "span": null,
+                  "value": "28"
+                }
+              ],
+              "type": [
+                {
+                  "span": null,
+                  "value": "guesthouse"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need a guesthouse in the west. i want to stay for 28 nights.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4899.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "attraction": {
+            "DEFAULT_INTENT": {
+              "type": [
+                {
+                  "span": null,
+                  "value": "beach"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'm looking for places to go in town. i'm looking for a beach.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4899.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "sure. the phone number is 01223304705, and the postcode is cb58hy. is there anything else i can assist you with?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "south"
+                }
+              ],
+              "pricerange": [
+                {
+                  "span": null,
+                  "value": "moderate"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "yes, i need a restuarant. i want something on the south side. moderate.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "PMUL4899.json4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "there are many. what kind of food would you like ?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "food": [
+                {
+                  "span": null,
+                  "value": "taiwanese"
+                }
+              ],
+              "name": [
+                {
+                  "span": null,
+                  "value": "none"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "taiwanese food is my favorite! what's the address for the best one?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "SNG01856.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "march 16th"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "20"
+                }
+              ],
+              "type": [
+                {
+                  "span": null,
+                  "value": "hotel"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like to book a hotel for 20 people on march 16th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "SNG01856.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i found 1 cheap hotel for you that includes parking. do you like me to book it?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "march 14th"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "25"
+                }
+              ],
+              "book stay": [
+                {
+                  "span": null,
+                  "value": "22"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "yes, please. 25 people 22 nights starting on march 14th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "SNG01856.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i am sorry but i wasn't able to book that for you for tuesday. is there another day you would like to stay or perhaps a shorter stay?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "area": [
+                {
+                  "span": null,
+                  "value": "south"
+                }
+              ],
+              "book stay": [
+                {
+                  "span": null,
+                  "value": "24"
+                }
+              ],
+              "internet": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need a hotel in the south with free wifi. it should be for 24 people.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "SNG0548.json0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "name": [
+                {
+                  "span": null,
+                  "value": "buddha bowls"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i am looking for a particular restaurant. it is called buddha bowls.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "SNG0548.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "it's a cheap italian place in the centre at regent street city centre cb21ab. the phone number is 01223323737. would you like more info?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "restaurant": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "monday"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "2"
+                }
+              ],
+              "book time": [
+                {
+                  "span": null,
+                  "value": "6:37 pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "that sounds like just the place! can you book me a table for 2 at 6:37 pm on monday?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "SSNG0348.json1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "there are 13 places to stay in the north. do you have any other criteria?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "march 13th"
+                }
+              ],
+              "book people": [
+                {
+                  "span": null,
+                  "value": "23"
+                }
+              ],
+              "parking": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'd like to book a room for 23 people on march 13th. i need free parking.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "SSNG0348.json2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "i have 5 different gueshouses listed. for what day and for how many please?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "book day": [
+                {
+                  "span": null,
+                  "value": "march 14th"
+                }
+              ],
+              "book stay": [
+                {
+                  "span": null,
+                  "value": "22"
+                }
+              ],
+              "internet": [
+                {
+                  "span": null,
+                  "value": "yes"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like to book for 22 days starting march 14th. i also need free wifi.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "SSNG0348.json3": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {},
+        "role": "system",
+        "text": "there are 11 hotels available actually. would you like to narrow it to a specific price range or star rating?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "hotel": {
+            "DEFAULT_INTENT": {
+              "type": [
+                {
+                  "span": null,
+                  "value": "hotel"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like a hotel, not a guesthouse.",
+        "turn_id": 1
+      }
+    ]
+  }
+}

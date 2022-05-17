@@ -1,0 +1,7551 @@
+{
+  "train-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Find out the average salary of professors?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The average salary of all the instructors is 77600.18819999999.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Find the average salary of the professors of each department?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The result table shows the average salary of all the instructors in each department",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which department has the highest average salary of professors?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Physics is the name of the department that has the highest average salary of instructors.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which department has the lowest average salary of professors?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Accounting is the name of the department that has the lowest average salary of instructors.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "In which department Mr. Mird work for?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The name of the department where the instructor with the name 'Mird' works for is Marketing.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How much is the salary Mr. Mird earns currently?",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The salary of the instructor with the name 'Mird' is 119921.41.",
+        "turn_id": 11
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 12
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "you are welcome! goodbye.",
+        "turn_id": 13
+      }
+    ]
+  },
+  "train-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the station ID for London Waterloo",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The station id for London Waterloo is 1.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What trains go to station ID 1?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The trains that go to station id 1 are shown in the result table.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you give me the names of those trains and tell me when they have service",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The names and the times of the trains that go to station id 1 are shown in the result table.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do those trains go to London Bridge?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, none of these trains go to London Bridge.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many platforms does London Waterloo station have ?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The number of platforms that the station with name London Waterloo station has is 19.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thank you, good bye.",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Provide all the details of the song Tumi robe nirobe?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the information about the song with a name \"Tumi robe nirobe\"",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the maximum and minimum resolution of songs whose duration in 3 minutes?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the maximum and minimum resolutions of songs whose duration is 3 minutes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "List the songs with size more than 4MB ?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the information about songs with file size larger than 4 MB.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "bye",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-11": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the maximum capacity in Lambert?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Did you mean Lamberton?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "yes. my apologies.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "10 is the maximum capacity in the classroom with building Lamberton.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the maximum capacity of all of the rooms?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "120 is the maximum capacity of all of the rooms",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many rooms are there?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 11440 rooms in total.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the average capacity of the rooms?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "44.666666666666664 is the average capacity of the rooms",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which classroom is the smallest?",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the information about the classroom with the smallest capacity.",
+        "turn_id": 11
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What room seats 120 people?",
+        "turn_id": 12
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the information about the classroom with capacity 120.",
+        "turn_id": 13
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 14
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You're welcome! GoodBye.",
+        "turn_id": 15
+      }
+    ]
+  },
+  "train-12": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Please list each gender code with its corresponding amount of guests and sort it in descending order by that count?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are each gender code and the corresponding count of guests sorted by the count in descending order.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the full names of all the people with unknown genders?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the full names of all the people with unknown gender code.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What were their birth dates?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the birth dates of all the people with unknown gender code.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the birth dates of all guests with the letter M in their first or last name?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the birth dates of all guests with the letter M in their first or last name",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-13": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hi! Can you tell me how many unique template IDs there are?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, there are 12 distinct template IDs.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many of those 12 template IDs are used by more than one document?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 2 template ids that are used by more than one document.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Great! Can you show me the corresponding document that used each of those template IDs on the list you just provided me?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The documents that use each of the template_ids that are used by more than one document are shown in the result table.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thanks, good bye",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-14": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the total grant amount of the organizations described as research?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The total grant amount of the organizations described as research is 84129206.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the grant start date of the organizations described as research?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the list of grant start date of the organizations described as research.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Show me organization ids for organizations described as research",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the lost of organization ids for organizations described as research.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-15": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you show me all tracks which were opened after 2000?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you mean the names of all the tracks which were opened after 2000?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The names of all the tracks which were opened after 2000 are listed.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hmm, I want to know the seatings for all the tracks opened after 2000.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The seating of all the tracks opened after 2000 is listed.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Please list the names and seatings for all the tracks opened after 2000, ordered by seating.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The names and seatings for all the tracks opened after 2000, ordered by seating are listed.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-16": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hey there! How're you! Can you provide me with a list of all of the different movie studios?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hello, the list of all the different movie studios is shown in the result table.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Could you filter this list to show just the movie studio which has the largest number of movies?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The movies studio with the largest number of films is 20th Century Fox.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Great! Can you please provide me with the total number of films by 20th Century Fox?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The total number of films by 20th Century Fox is 2.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thank you, good bye.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-17": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many order items there",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 15 order items.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many order id from product id 7",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 1 order with product id 7.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many order id from order item id 2",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 1 order with order item id 7",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "thanks",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-18": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you mean the first and last names of the student with id 1008?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hello, what is the name of the student with student id 1008?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The first and last name of the student with student id 1008 is Jandy Nelson.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is her major?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The major of the student with student id 1008 is 600.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Apologies, I meant to ask his/her major; what is the student's sex?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No worries. The sex of the student with student id 1008 is 'F' (female).",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How old is the student with student id 1008?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The age of the student with student id 1008 is 20.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does she have an advisor?",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, the advisor for the student with student id 1008 is 9172.",
+        "turn_id": 11
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 12
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "goodbye.",
+        "turn_id": 13
+      }
+    ]
+  },
+  "train-19": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the average gross amount of money made in dollars?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The average gross amount of money in dollars is 114827242.38461539.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What films did Nicholas Meyer direct?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is a list of the titles of movies directed by Nicholas Meyer.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did Star Trek II: The Wrath of Khan make more money than the average film?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, Star Trek II: The Wrath of Khan only made 79912963 while the average gross amount for all films is 114827242.38461539.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did any movies directed by Walter Hill make more money than Star Trek II: The Wrath of Khan?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, no movies directed by Walter Hill made more money than Star Trek II: The Wrath of Khan.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What were those movies directed by Walter Hill?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The name of the movie directed by Walter Hill is 48 Hrs.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What studio produced that movie with name 48 Hrs?",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The studio that produced the movie 48 Hrs is Paramount.",
+        "turn_id": 11
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What studio produced Star Trek II: The Wrath of Khan?",
+        "turn_id": 12
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The studio that produced Star Trek II: The Wrath of Khan is Paramount.",
+        "turn_id": 13
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 14
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome!",
+        "turn_id": 15
+      }
+    ]
+  },
+  "train-2": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When did the violin players perform?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The following table shows the dates on which violin players perform",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many violin players were at those performances on average?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you mean the attendance of those performances?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "No, how many violin players were present during the performances?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Each performance is only associated with one violin player from the table.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which violin player attended the most?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you mean the name of the violin player that attended the most number of performances?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, what is the name of the violin player who attended the most number of performances?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The name of the violin player who attended the most number of performances is Hctor Campana.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What about the violin player who attended the least performances?",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The name of the violin player who attended the least number of performances is Wilfredo Ruiz.",
+        "turn_id": 11
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 12
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 13
+      }
+    ]
+  },
+  "train-20": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you show me the origins, the destinations and the flight numbers?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the list of all origins, destinations, and flight numbers.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hmm, I want to know just the destinations and the flight numbers please.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the list of all destinations and their flight numbers.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Please show me the destinations and the number of flights they have.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the list of destinations and the number of flights associated with it. For example, destination of Boston has 1 flight.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which destination has the least number of flights?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Boston has the least number of flights.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-21": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you provide me with the names of the dorms that have both TV Lounge and Study Room as amenities?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The following table shows the names of the dorms that have both TV Lounge and Study Room as amenities.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the Dorm ID of Dorm-plex 2000?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "160 is the Dorm ID of Dorm-plex 2000.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the student capacity of Dorm-plex 2000?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "400 is the student capacity of Dorm-plex 2000.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What genders can be residents of Dorm-plex 2000?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "gender X can be residents of Dorm-plex 2000",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-22": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Find the first name of the students who permanently live in the country Haiti.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the first names of the students who permanently live in the country Haiti",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Please also find the first name of the students who have the cell phone number 09700166582",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the first name of the students who have the cell phone number 09700166582 is Jarvis",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you show me the last name and address for him?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you want his current address or the permanent address?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "current address please",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the last name and the detailed current address of the student who has the cell phone number 09700166582",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Ok. Can you also give me his email address?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the email address of the student who has the cell phone number 09700166582 is jillian26@example.net",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thank you! bye",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-23": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "list all job ids",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the list that contains all job ids.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what are the hire dates for all the jobs?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is a list that contains all the corresponding hire dates.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "list all the phone numbers",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the list that contains all the phone numbers.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-24": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which customers have ordered \"food\"?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "ok, did you want to just return their names?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes. I just want to know the names of which customers have placed orders under the category \"food\"",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the table shows the names of customers who have ordered products named \"food\".",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Of the names listed in the table, which of them have an item status listed as \"cancel\"?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the names of customers who have ordered products named \"food\" also with item \"cancel\" status are George and Devan.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many customers have cancelled orders?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you mean the customers in the previous result?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "yes",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The number of customers who have have once canceled the purchase of the product \"food\" is 2.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You're welcome and bye.",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-25": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are id and name of the products whose price is lower than 600?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The ids and names of the products whose price is lower than 600 are listed.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are id and name of the products whose price is higher than 900?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The ids and names of the products whose price is higher than 900 are listed.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many products have price lower than 600 or higher than 900?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 7 products whose price are lower than 600 or higher than 900.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-26": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the average price of all products?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "153.72 is the average price of all products.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And what is the average price for each company?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is a list of the average price for each manufacturer.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are all companies names?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are all manufacturers' names.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And what are their headquarters?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is a list of manufacturers with their headquarter.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thanks. Bye.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-27": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Top selling artist?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There is no info about the amount sold. Could you please give me another question?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many artists do you have?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 275 artists in total.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are their names?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table that shows the names of all the artists.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many albums does AC/DC have?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 2 albums by the artist whose name is \"AC/DC\".",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And for Metallica?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 10 albums by the artist whose name is \"Metallica\".",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome!",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-28": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what are all games are presented on the table",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What kind of infromation for the games do you want ?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "i want to how many teams on the game",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 3 distinct teams that play games.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "which player are played in highest number of matches",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The player who are played in highest number of matches is Thiago Motta (2)",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "thanks",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "goodbye!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-29": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you give me a list of documents that don't have any images?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you want document code?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I'd like both the document code and document name, please.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the list of documents names and documents codes that contains all the documents that don't have any images.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That's great. Can you tell me the total number of documents that do have images?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 20 documents that do have images.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What types of documents are these?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the type code of documents that contains the type of documents that do have images.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-3": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the films title that direct by Bill Schreiner?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the titles of the films that were directed by Bill Schreiner",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "show director with the largest number of show times in total",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bill Schreiner is the director with the largest number of show times in total",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "show me a list of original air date?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the original air dates of all films",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "bye",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-30": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the First names of students living in smith hall?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the first names of students who are living in the Smith Hall.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Last name of Tracy",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Did you want the last name of the student with first name Tracy?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The student with a first name Tracy has a last name kim.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the city code of student Tracy kim?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The student with full name Tracy Kim has a city code of HKG.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Are there any other Students with city code HKG?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the Student capacity of Smith Hall?",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The dorm named Smith Hall has a student capacity of 85.",
+        "turn_id": 11
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 12
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thanks. bye.",
+        "turn_id": 13
+      }
+    ]
+  },
+  "train-31": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the lowest and highest rating star?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The lowest and highest rating star are 2 and 5 respectively.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the movie id and rating date of the movie with 5 stars?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The movie ids and rating dates of the movies with 5 stars are listed.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Now show me the movie id and rating dates of the movie with 2 stars?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The movie ids and rating dates of the movie with 2 stars are listed.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the earliest rating date?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The earliest rating date is 2011-01-02.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the most recent rating date?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The most recent rating date is 2011-01-30.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-32": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what are the elimination time of wrestlers",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The elimination time of all the wrestlers is listed.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the names of the wrestlers and their elimination times?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The names of all the wrestlers and their elimination times are listed.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the names of wresters and their elimination times whose days held is greater than 50?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The names of the wrestlers with days held more than 50 and their elimination times are listed.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-33": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the name of the customer of customer id 401?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "there is no customer id 401",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the name of the customer of customer code 401",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the customer code 401 is Ahmed",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is address of the customer Ahmed?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "address of the customer Ahmed is 75099 Tremblay Port Apt. 163 South Norrisland, SC 80546",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the address of the customer lukas?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the address of the customer lukas is 7162 Rodolfo Knoll Apt. 502 Lake Annalise, TN 35791-8871",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is customer code of lukas?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the customer code of lukas customer_code is 844",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "welcome,goodbye",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-34": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "List the state and enrollment of all the colleges where any students got accepted in the tryout decision.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the states and enrollments of the colleges where have any students who got accepted in the tryout decision.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the states and names of the colleges that all the goalies tried out for?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the states and names of the colleges that all the goalies tried out for",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the states and names of all colleges that didn't accept students in the tryout decision?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the states and names of all colleges that didn't accept students in the tryout decision",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thank you! bye",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-35": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many distinct characteristic names does the product \"cumin\" have?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The product \"cumin\" has 1 distinct characteristic name.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many distinct characteristic names does the product \"basil\" have?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The product \"basil\" has 0 distinct characteristic names.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What product has the most distinct characteristic names?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sorry I cannot answer this question. Can you break down the question or ask something else?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Sure thing! Whats the typical selling price of cumin?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The typical selling price of product name cumin is 2878.3",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome! Bye!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-36": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the location of Bootup Baltimore",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the location of Bootup Baltimore is AKW",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many female students are presented on the table",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are 10 female students",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the major of Tracy",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the major of Tracy is 600",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "thanks",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "you are welcome goodbye",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-37": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How long is the longest relationship?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The longest friendship lasts for 12 years",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of that person?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The name of the person has the longest friendship is Zach",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is his friend?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you want the names of all his friends or the friend that has the longest friendship with him?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The friend with the longest friendship.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Dan is the Zach's friend that has the longest friendship",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does Dan have any other friendships?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There is no other person that is friend with Dan",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does Zach have any other friendships?",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes here is the friend of Zach besides Dan",
+        "turn_id": 11
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 12
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thank you. Bye",
+        "turn_id": 13
+      }
+    ]
+  },
+  "train-38": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which head's name has the substring 'Ha'? List the id and name",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The following table shows the ids and names of heads that have the substring 'Ha' in the name.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is head id 1?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Tiger Woods is the name of head id 1.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is Tiger woods's born state",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Alabama is the born state of the head named Tiger woods .",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is Tiger woods's age",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The age of the head named Tiger Woods is 67.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "who is the oldest head",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The following table shows the information about the oldest head.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many heads from Alabama?",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 2 heads from Alabama.",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-39": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hello! Can you tell me which role code has the largest number of employees associated with it?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "ED is the role code with the largest number of employees",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Great! Can you tell me how many employees have ED as their Role_code?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 7 employees with ED as their role code.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Excellent! Would you be able to provide me with a list of the names and genders of those 7 employees?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the names and gender of employees with ED as their role code",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "bye.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-4": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many car models are produced by each maker? List the count and the maker full name.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the total number of car models produced and maker full name for each car model",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which models are the most popular?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the model which is the most popular is pontiac",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which the least popular?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the models which are the least popular.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which companies have three or more models?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the name of companies which have three or more models",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "welcome goodbye",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-40": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the savings balance for Wang?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The total savings balance for Wang is 999999999.0",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is that balance more or less than for Brown?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wang's total saving balance is more than that of Brown. The total savings balance for Brown is 200000.0",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is there another balance available?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I am sorry but I do not understand your question, please be more specific.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is there another account name available?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The following table shows all account names. For example, Brown, Wang, O'mahony.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is O'mahony's account balance closer in amount to Wang or Brown?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "O'mahony has an account balance closer to Brown's than to Wang's. Here are the saving balances for O'mahony, Wang, and Brown.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-41": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which nations have hosts older than 45?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "United States has hosts older than 45",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which nations have hosts younger than 35?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the nations that have hosts younger than 35",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which nation has hosts both older than 45 and younger than 35?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "United States has hosts both older than 45 and younger than 35",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-42": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which departments get a commission percentage?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table of the departments that get a commission percentage.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many employees in these departments get a commission percentage?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The number of employees in these departments that get a commission percentage is 107.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "By department, display average salary of employees who get a commission percentage",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table of the average salary of employees for each department who gets a commission percentage. For example, the average salary of department 0 is 7000.0.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-43": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the total number of staff members?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The total number of staff members is 15.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many of them are females?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sorry, I can't answer that how many of the staff members are female given the table information.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is there a staff member with the first name \"Janessa\"?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, there is staff member with the first name \"Janessa.\" Their staff information is shown in the result table.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the last name of the staff member with the first name \"Janessa\"?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The last name of the staff member with the first name \"Janessa\" is Sawayn.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the birthday of the staff member with the first and last name as Janessa and Sawayn?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The birthday of the staff member with first name Janessa and last name Sawayn is 2010-12-08 16:55:14.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks.",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thank you, good bye.",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-44": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "list the authors have submissions",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is a list of authors who have submissions.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "show me the list of authors who have submissions to workshop.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is a list of different authors who have some submissions.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "list the authors who have submissions to more than one workshop.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The author who has submissions the more than one workshop is Sammy Green.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-45": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many characteristics does the product named \"sesame\" have?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 2 characteristics that the product named \"sesame\" has",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the names of those?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sorry, we don't have names for characteristics. Please ask something else.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the characteristic ids of those? Sorry!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the id of characteristics that the product named \"sesame\" has",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is sesame's typical selling price?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "68205825.7 is the typical selling price of the product named sesame.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What the most common characteristic id?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2 is the most common characteristic id.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the least common product category code?",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Spices is the least common product category code",
+        "turn_id": 11
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 12
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "thanks.bye.",
+        "turn_id": 13
+      }
+    ]
+  },
+  "train-46": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Show the country of appelations Alexander Valley?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The county corresponding to the appelation Alexander Valley is Sonoma.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Show the maximum price of wins from the appelations in central Coast area and produced before thebyear of 2005?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The maximum price of wines with appelations from Central Coast region with year less than 2005 is 60.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Show the country of appelations Amador County?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The county corresponding to Amador County appelation is Amador.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thank you! Goodbye.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-47": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many length of park Kemah Boardwalk?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Did you mean to ask for the length of the park with name Kemah Boardwalk?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The length of the roller coaster in the park Kemah Boardwalk is 3236.0.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Find the status of Happy Valley.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The status of the roller coaster in park named Happy Valley is Operating.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the country id of Hades 360?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The country id of the roller coster named Hades 360 is 1.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the speeds of the longest roller coaster?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The speed of the longest roller coaster is 67.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome. Good bye!",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-48": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Please show me the headquarters with at least two companies in the banking industry?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There is no such headquarter with at least two companies in the banking industry",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What companies are in the banking industry?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the companies in the bank industry.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Where are those companies' headquarters located?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the companies in the bank industry and their corresponding headquarters.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "thanks. bye.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-49": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many orders are there?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 15 orders in total.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many different customers are there?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 15 customers.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the customer who has the largest number of orders?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the name of the customer who has the largest number of orders is George.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "googbye. but please ask inner-related questions next time. otherwise, you won't be paid.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-5": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Show me the captain ranks",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the table of the captain ranks. For example, it is Midshipman",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Show me Third-rate ship of the line class",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the information of the captain with a class third rate ship of the line. For example, Captain Sir Henry Langford with Captain id 1 has ship with id 1. His age is 40. The class is third-rate ship of the line and the rank is Midshipman.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Show me the captain rank that has no captain in these class",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sorry I don't understand",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Show me the captain rank that has no captain in Third-rate ship of the line class",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the table of the captain rank tha has no captain in Third-rate ship of the line class. For example, they are Midshipman",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "goodbye",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-50": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the customer who has made the minimum amount of payment in one claim?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the name of the customer who has made the minimum paid amount in one claim is Mrs. Hanna Willms",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the amount claimed for this customer?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the claimed amount of the customer who has made the minimum paid amount in one claim is 789.19",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you also give me the name of the customer who has made the maximum amount of payment in one claim?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The customer detail of the customer who has made the maximum amount of payment in one claim is Lauriane Ferry PhD",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hmmm. Can you please give me the claimed amount for this customer",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the claimed amount of the customer who has made the maximum paid amount in one claim is 818.15",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-51": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the name of the stadium that does not have a concert in year 2014?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the name of the stadium that does not have a concert in year 2014",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the capacity of Balmoor?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the capacity of Balmoor is 4000",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the theme of Balmoor?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the theme of Balmoor is Happy Tonight",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "welcome goodbye",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-52": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "find the distinct names of all wines that have prices higher than some wins from john anthony winery",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The names of all wines that have prices higher than some wines from John Anthony winery are shown in the table",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "out of those show me prices higher than 30",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The names of all wines that have prices both higher than some wines from John Anthony winery and higher than 30 are shown in the table",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "One last question. out of those show me cases higher than 300",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The names of all wines that have prices both higher than some wines from John Anthony winery and higher than 300 are shown in the table",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "thanks",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Welcome and goodbye",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-53": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many cinemas are there in total?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 10 cinema.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the average capacity?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The average capacity of all the cinemas is 433.6.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many cinemas have above average capacity?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 2 cinemas that have above average capacity.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name and location of the 2 cinemas with above average capacity?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The name and location of the 2 cinemas with above average capacity are shown in the result table.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thanks you, would you like to ask a few more questions?",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "No thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thank you, good bye.",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-54": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many master customer ID numbers are there?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "there are 9 customer ID in total",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the master index IDs for all except whose detail includes Schmidt, Kertzmann and Lubowitz?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "this shows the master index IDs for all except whose detail includes Schmidt, Kertzmann and Lubowitz",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are their cmi cross reference IDs?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here is the cmi cross reference IDs of customer whose master index IDs for all except whose detail includes Schmidt, Kertzmann and Lubowitz",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are their respective source system codes?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "this shows the source_system_code of customers whose master index IDs for all except whose detail includes Schmidt, Kertzmann and Lubowitz",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the renters arrears tax IDs associated with them?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "this shows the renting arrears tax ids related to the customers whose master index IDs for all except whose detail includes Schmidt, Kertzmann and Lubowitz",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "welcome,goodbye",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-55": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Could you please find the products with the max page size as \"A4\"?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the products with the max page size as \"A4\"",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Could you please find the products with the pages per minute color smaller than 5?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the products with the pages per minute color smaller than 5",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Could you please find the products with the max page size as \"A4\" and with the pages per minute color smaller than 5?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the products with max page size as \"A4\" and pages per minute color smaller than 5.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the interfaces of those products?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the products and corresponding interfaces with max page size as \"A4\" and pages per minute color smaller than 5",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the dimensions of those products?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the products and corresponding dimensions with max page size as \"A4\" and pages per minute color smaller than 5",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Could you please find the products with the pages per minute color larger than 5?",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the products with the pages per minute color larger than 5",
+        "turn_id": 11
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 12
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thanks. bye.",
+        "turn_id": 13
+      }
+    ]
+  },
+  "train-56": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are all of the lots?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are all details of the lots",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which lots are not used in any transactions?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "do you mean the id of lots or the details of lot",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The id of the lots please.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the id of the lots which are not used in any transactions",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the details of the lots which aren't used in any transactions?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the details of the lots which aren't used in any transactions",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "welcome goodbye",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-57": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who are the delegates on the Appropriations committee?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table shows all the names of the delegates on the committee named \"Appropriations\".",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What counties are they from?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table that shows all the counties of the delegates on the committee named \"Appropriations\".",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What districts are they from?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table that shows all the districts of the delegates on the committee named \"Appropriations\".",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the populations of the counties they come from, please?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table that shows the population of the counties for the delegates on the committee named \"Appropriations\".",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-58": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which city has most number of customers?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "South Richieport is the city that has the most number of customers.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many customers does it have?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the city that has the most number of customers has 4 customers.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Give me the names of those customers",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the first and last names of customers in the city that has the most number of customers",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "bye",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-59": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the names and distances of aircraft that have more than 5000 distance?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table of the names and distances of aircraft that have more than 5000 distance",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the names and distances of aircraft that have more than 5000 distance and there are at least 5 people who have its certificate?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table of the names and distances of aircraft that have more than 5000 distance and there are at least 5 people who have its certificate.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the employee ID of the employee who flew the longest distance?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the employee ID of the employee who flew the longest distance is 142519864",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks! Have a good night!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "you are welcome",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-6": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who are the technicians from team \"CLE\" and \"CWS\"?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table that shows the names of the technicians from the teams \"CLE\" and \"CWS\".",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Please show me the starting years for them",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table that shows the starting years for the technicians from the teams \"CLE\" and \"CWS\".",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What years are shared?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The starting year shared by the technicians from the teams \"CLE\" and \"CWS\" is the year 2005.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you also give me the minimum and maximum starting years?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The minimum starting year is 2002, and the maximum starting year is 2016.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-60": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which colleges students played in the try out in striker position?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "FSU's colleges students played in the try out in striker position.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And in which state is it located?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The college that has students play as a striker in the try out is located in FL.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How about it's enrollment number?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The enrollment number of the college that has students play as a striker in the try out is 19000.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-61": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many different markets are there?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 4 different markets.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many different phones are there?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 5 different phones.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which phone is sold in the most different markets?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "IPhone 5s is sold in the most different markets.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many phones are not available in any markets?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There is only one phone not available in any markets",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of that phone?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "IPhone 6 is the phone not available in any markets",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye.",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-62": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many female dogs have gone through treatment",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "9 dogs have gone through treatment.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what are their ages",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "These are the ages of dogs which have gone through treatment",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the highest weight of age 2",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "This is the highest weight among dogs of age 2.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No problem. Anything more you'd like to ask?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "No, Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Good bye.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-63": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many companies are there?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 6 companies .",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are their founder names?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The table shows the founder names of each companies.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Show founder names that begin with letter \"S\"",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Did you mean founder's name that begin with letter 'S'?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "yes",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There isn't any founder name that begin with 'S'.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Ok, than show all companies headquarters",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the headquarters of all companies.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-64": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hello, can you provide me with the names of the donors?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the names of all the donators",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Are all the donors from the same country?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sorry we don't have the information about the nationality of the donators. Please ask other related questions.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was there a minimum or maximum donation limit?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes. The minimum donation amount is 8.33 and the maximum donation amount is 9.83.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many donors were there total?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 11 different donators",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was there any single donation that was bigger than all the others combined?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sorry I can't answer this question using SQL.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was there a set goal for the donation amount?",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sorry I don't think this question is related to this table.",
+        "turn_id": 11
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 12
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye",
+        "turn_id": 13
+      }
+    ]
+  },
+  "train-65": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the savings balance of id 1?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Did you mean the saving balance of the customer with id 1?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "yes",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "200000.0 is the saving balance of the customer with id 1.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the total checking and saving balance of all accounts?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the total checking and savings balances of all accounts.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the sorted list of total checking and savings balance by ascending order?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the total checking and savings balances of all accounts sorted by the total balance in ascending order.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "bye",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-66": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the venue of the competition \"1994 FIFA World cup qualification\" hosted by \"Hangzou\"?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "THere's no competition \"1994 FIFA World cup qualification\" hosted by \"Hangzou\"",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "ok. What is the venue of the competition \"1994 FIFA World Cup qualification\" hosted by \"Nanjing\" ( Jiangsu )\"?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the venue of the competition \"1994 FIFA World Cup qualification\" hosted by \"Nanjing\" ( Jiangsu )\" are Estadio Rigoberto Lpez , Managua , Nicaragua and Estadio Cuscatln , San Salvador , El Salvador",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the GDP of the city Shanghai in the table?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the GDP of the city Shanghai is 1919.57",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "bye",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-67": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hello! Can you provide me with a list of all building names?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hi! The names of all the buildings are listed in the result table. They are Citizens Bank Building, Tampa City Hall, etc",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Great! Can you update the list to show the number of different institutions in each building?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sure! The number of institutions in each building are listed. For example, the building Citizens Bank Building has 2 different institutions.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you filter this list to show me only the tallest building?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you mean you want the number of different institutions of the tallest building?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks! I would be fine just know which is the tallest building.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you mean you want to know the name of the tallest building? Or anything else?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes! I want to know the name of the tallest building please.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The name of the building with the largest height is 100 North Tampa",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome! Goodbye!",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-68": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hello, what courses are currently being taught?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hi, Here are all info are courses.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you please show which instructors are teaching those courses?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sure. Here are the instructors teaching the courses.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you please show me the current courses being taught with the last name of the instructor teaching them?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sure. Here is the list of the current course descriptions with the last name of the instructors",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sure. Bye!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-69": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "List the name of all suppliers in alphabetical order of their addresses.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the name of all suppliers in alphabetical order of their addresses.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And their phone numbers?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the phone number of all suppliers in alphabetical order of their addresses.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What states is Tesco located in?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "do you mean the address id or the address details?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The address details.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the details of address of Tesco",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How about Lidl?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "there are no details of address for Lidl",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "welcome goodbye",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-7": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you list the class room associated with the name Loria Ondersma in the teachers table?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "classroom 108 is associated with the name Loria Ondersma",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you show me all first and last names from the list table that have a classroom id of 108?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The following table shows all first and last names from the list table that have a classroom id of 108",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you tell me how many unique names are currently in the table?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 12 unique names in the table.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many unique names in the list table have a classroom id of 108?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1 unique name in the list table has a classroom id of 108",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-70": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "can you show me a list of active from date?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are active from dates of all customer contact channels.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "can you show me a list of active to date?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are active to dates of all customer contact channels.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "which one the first active to date?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the information about the customer contact channel that has the earliest active to date.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "bye.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-71": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the dock count of San Jose Diridon Caltrain Station?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The dock count of San Jose Diridon Caltrain Station is 27.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the bike id of zip code 94041?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The ids of the bikes with zip code 94041 are listed in the result table.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many dock stations are there in San Jose?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you mean the total dock counts of all stations in city San Jose?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The total dock counts of stations in city San Jose is 264.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "For each station, return its longitude and the average duration of trips that started from the station.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The longitude and the average duration of trips and their names are shown in the result table.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No problem! Bye!",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-72": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hello! Can you show a list of all publishers who did not publish any books in 1989?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There is no publishers who did not publish any books in 1989.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thank you! Can you show me a list of all of the book titles published by Alyson?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result tables shows the titles of the books published by \"Alyson\".",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks! Can you update that list to show the years that those 3 books were published and what category they fall under?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table that shows the years and the category of each book published by Alyson.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "you are welcome!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-73": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many clubs do you have?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 4 clubs.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many members does each club have?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The number of members of each club is shown in the table.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Finally, can you list the clubs that have \"Davis Steven\" as a member?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No club has \"Davis Steven\" as a member.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-74": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the dimenson of Plustek MobileOffice D28 Corporate?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The dimensions of Plustek MobileOffice D28 Corporate is 303 x 94 x 60",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many pages per minute colored in Xerox Travel Scanner 100?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The page per minute color of Xerox Travel Scanner 100 is 4.0",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the max page size can be used in Plustek MobileOffice D28 Corporate?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The max page size of Plustek MobileOffice D28 Corporate is A4",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the dpi of Fujitsu fi-6130 A4 Series Scanner?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The dpi of Fujitsu fi-6130 A4 Series Scanner is 600",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "which product coloured the highest pages in a minute?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The pages_per_minute_color of product is Canon DR-2080C",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "goodbye",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-75": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many teachers are there?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 7 teachers",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many courses do you have?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 6 different courses",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you tell me the names of teachers and the number of courses they teach?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the names of teachers and the number of courses they teach",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Sure. Can you tell me the age of each teacher?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the names and the ages of all the teachers",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-76": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the ids and names of the medicine that can interact with two or more enzymes?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The ids and names of the medicine that can interact with two or more enzymes are shown in the result table. One of them is with id 2 and name Aripiprazole",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many enzymes can Aripiprazole interact with?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 3 enzymes can interact with medicine name Aripiprazole.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What about Asenapine?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "* I have left the chat *",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "There are also 3 enzymes that can interact with medicine name Asenapine.",
+        "turn_id": 6
+      }
+    ]
+  },
+  "train-77": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "hi. I would like to know how many users are followed by Mary?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hello! only 1 user is followed by Mary",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and how many are followed by Susan?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "only 1 user is followed by Susan",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "can you tell me the Id of these users?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sure. This is the list of user ids followed by Susan",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and the user id followed by Mary?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "This is the list of user ids followed by Susan or by Mary",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sure! Anything else?",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "no. That's all. Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye!",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-78": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the nurse who has the most appointments?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The name of the nurse has the most appointments is \"Carla Espinosa\".",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is her employee ID?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The employee id of the nurse has the most appointments is \"101\".",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "List all nurses names in alphabetical order",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the result table shows all the names of the nurses in alphabetical order.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-79": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "hi,List out the all color description",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "All the color descriptions are listed in the result table. There are red, green, yellow, and so on.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "list out the color code for all the product name",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The color codes for their corresponding product names are listed in the result table. For example, product name cumin has color code 4.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "list out the typical selling price for all product name",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The typical selling price and their corresponding product names are listed in the result table. For example, product name cumin has typical selling price 2878.3",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome, bye",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-8": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the duration's of the longest and shortest track in milliseconds.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the durations of the longest and shortest tracks in milliseconds.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the longest track?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Occupation / Precipice is the name of the longest track.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was the longest track written by?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The longest track was written by the composer NULL.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thanks. bye.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-80": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you list all the unique fault log entry ids?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are all the unique fault log entry ids.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you count the number of unique part fault ids that belong to each unique fault log entry id, and then add those values to the table?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The table shows the number of part fault ids for each unique fault log entry id.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Amazing, can you display only the entry with a fault log id of 1 as well as the description and record time for that entry with a fault log id of 1?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The table shows the number of part fault ids for the fault log entry with id 1, along with its fault description and fault log entry datetime.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "goodbye!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-81": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the first names of all guest with apartment booking status \"Confirmed\" ?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the first names of all guests with apartment booking status code \"Confirmed\".",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And how about their last names?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the last names of all guest with apartment booking status code \"Confirmed\".",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And what about guests with \"Provisional\" status?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the last names of all guest with apartment booking status code \"Provisional\".",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-82": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many trucks are in both movies and musical playlists.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Did you mean to ask for the number of tracks in both movies and music playlists?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "yes",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 0 tracks in both movies and music playlists.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "who composed For Those About To Rock (We Salute You)?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The composers for For Those About To Rock (We Salute You) are Angus Young, Malcolm Young, Brian Johnson.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How long is it?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The track For Those About To Rock (We Salute You) is 343719 milliseconds long.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote Fast As a Shark",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The composers for Fast As a Shark are F. Baltes, S. Kaufman, U. Dirkscneider & W. Hoffman.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome. Good bye!",
+        "turn_id": 11
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Bye",
+        "turn_id": 12
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bye!",
+        "turn_id": 13
+      }
+    ]
+  },
+  "train-83": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "HOW MANY ON THE TABLE",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "did you mean HOW MANY player ON THE TABLE ?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "YES EXACTLY",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "there are 18846 player in table player",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "WHAT IS BIRTH YEAR of aardsda01",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "aardsda01's BIRTH YEAR is 1981",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "WHAT ARE THE MANAGER'S FIRST NAME LAST NAME AND ID WHO WON THE MOST MANAGER AWARD",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the first name, last name and player id who won the most manager award",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "THANKS",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "welcome,goodbye",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-84": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do any categories have books after year 1989?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, and the category has books after year 1989 is \"Gay SF/F\".",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Are there any other categories?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you mean the other category has books after year 1989? Gay SF/F is the only one category has books after year 1989",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, that's what I meant. How many books does Gay SF/F have after 1989?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 2 books with category \"Gay SF/F\" and the year is after 1989.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-85": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you list the customer names and ids who have credit cards?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the list of ids and first and last names of customers with credit cards",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I want to know the customer names and how many credit cards they have?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "This list shows the customer first and last names with the number of credit cards they have.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many credit cards does Blanche Huels have?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Customer Blanche Huels has 1 credit card",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sure! Anything else?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "No, thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome! Bye!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-86": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Show the team_id with highest rank?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "This is the team_id with highest rank.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Show the maximum scores of the team Boston Red Stockings when the team won in postseason?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "This is the maximum score of the team Boston Red Stockings when the team won in postseason.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Show the year of postseason with equal wins and loses?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "These are the years of postseason with equal wins and losses.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-87": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Tell me the Gtype of the GameID 1 ?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Collectible card game is the game type of the game with id of 1.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the GameID of the GName RNG Stone ?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1 is the id of the game with name RNG Stone.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Tell me the GName of the GType Role-playing game ?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Grand Term Assignment is the name of the game that has type of Role-playing game.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which game type has most number of games ?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Collectible card game is the game type that has the most number of games",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "thanks. bye.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-88": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many screen mode there",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 7 screen modes.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many phone there",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 8 phones.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the company name of XPERIA T, XPERIA J",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the company name of XPERIA T, XPERIA J is Sony Mobile Communications",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You're welcome. Goodbye!.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-89": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many swimmers are there with record?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 6 swimmers with record.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How about swimmers with no record?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 2 swimmers with no record.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What their names?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Przemysaw Staczyk and Sbastien Rouault are the names of the persons who don't have a record.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-9": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "please list the singers",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "did you mean list their names?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "yes",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are the names of all singers.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "can you also give number of concerts for each singer",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The table shows singer names and number of concerts for each singer.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "bye!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-90": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the Latin commander of Battle of Serres?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Latin commandar of Battle of Serres is Unknown",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the result of 31st January 1206?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The result of the battle with a date 31 Jan 1206 is Bulgarian victory",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the Bulgarian commander on June 1205?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The bulgarian commaned on Jun 1205 are Kaloyan and Boril",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of battle who has Latin commander is Baldwin 1?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The name of balwin 1 is Battle of Adrianople",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "goodbye",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-91": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which aircraft did not win any match?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What information do you want about the aircrafts? Their names, their ids, or all their information?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Their names.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are no aircrafts that did not win any matches.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which pilot won the most matches?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Winning pilot 4 won the most matches.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which aircraft won the most matches?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Winning Aircraft 4 won the most matches",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thank you, good bye",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-92": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Could you please list each course's name and the number of its registered students?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Each course's name and the number of its registered students is listed.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the student ids of all students who registered for statistics?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The student ids of all students who take the statistics course are listed.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are their student details, please?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the details of the students who take the statistics course.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks! Have a great night!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thank you! Good night.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-93": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the ship id of HM Cutter Avenger?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The ship id for ship name HM Cutter Avenger is 3",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what type of Flag is used by HMS Manxman?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The flag used by ship name HMS Manxman is Panama.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what are the Built Year of HMS Gorgon?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The built year of ship name HMS Gorgon is 1998.0",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Find the ship type that are used by both ships with Panama and Malta flags?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The ship type that are used by both ships with Panama and Malta flags is Panamax.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No problem. Bye",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-94": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many parties in this table?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here is the number of parties in the table.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Peter Vallone in which party?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Peter Vallone is in the Democratic party.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many elections in this table?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 8 elections in this table.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Carl McCall in which party?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Carl McCall is in the Democratic party.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the names of parties that have both delegates on \"Appropriations\"?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "These are the names of parties that have both delegates on \"Appropriations\".",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-95": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the names of the artists from Bangladesh?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The names of the artists from Bangladesh are Prity and Farida.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which artists from Bangladesh have never received a rating higher that 7?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The names of the artists who are from Bangladesh and have never received rating higher than 7 are listed.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you add their genders into the table please?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The names and gender of the artists who are from Bangladesh and have never received rating higher than 7 are listed.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are their preferred genres?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The preferred genres of the artists who are from Bangladesh and have never received rating higher than 7 are listed.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are the names of the songs they have sung?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The names of songs that the artists who are from Bangladesh and have never received rating higher than 7 have sung are listed.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 11
+      }
+    ]
+  },
+  "train-96": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many authorship there",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 13 authors.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the country of University of Oxford",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "UK is the country of University of Oxford.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is the title of paper ID 200",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The title of paper with ID 200 is Just do it: Simple Monadic Equational Reasoning.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "thanks",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are welcome.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-97": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hello, how many circuits belong to France?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are 7 circuits belonging to France",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you please provide their circuit IDs?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the circuit IDs of the circuits belonging to France",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you also include the location of these circuits?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Here are the ids and the locations of the circuits belonging to France",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thanks. Bye",
+        "turn_id": 7
+      }
+    ]
+  },
+  "train-98": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hi, can you please tell me what is the ID of the station whose maximum precipitation is higher than 50?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hello! This is the list of ids of the station whose maximum precipitation is higher than 50.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "thank you, could you please also let me know their names and local authorities?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "you are welcome. This lists the ids, network names and the local authorities for stations whose maximum precipitation is higher than 50.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "that was quick, thank you again. then could you please let me know if there is any station which has less than 10 maximum precipitation?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You are so welcome. There isn't any station whose maximum precipitation is less than 10.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "seems like everybody will have some rain here. then could you please let me know what is the lowest precipitation we have on the table?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The lowest precipitation we have is 10",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "could you please let me know the ID of the stations with 10 precipitation?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "This is the list of ids of the stations with 10 precipitation",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what would be the name of the station?",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "This is the list of ids and names of the stations with 10 precipitation",
+        "turn_id": 11
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Then my last inquiry, could you please let me know Amersham's high temperature and wind speed on Friday?",
+        "turn_id": 12
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "For station Amersham on Friday, the high temperature is 55 and wind speed is 17 mph",
+        "turn_id": 13
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks! hope you have a wonderful day :)",
+        "turn_id": 14
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You too! Bye!",
+        "turn_id": 15
+      }
+    ]
+  },
+  "train-99": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you list all of the apartments with more than 4 bedrooms?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "do you mean the apartment ids of apartments with more than 4 bedrooms?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, please! I believe that's the only discrete identifier of the apartments (at least that I can see).",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the apartment ids of apartments with more than 4 bedrooms",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thank you! Can you list the facility codes for each of those apartment IDs (3 4 6 11 12 13 15)?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the facility codes for the apartments with more than 4 bedrooms",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many people live in the apartments with gym facilities?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I cannot answer this question, please give another question",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you please list the 'building id', 'apartment type code' and 'apartment number' for all apartment IDs with more than 4 bedrooms?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "here are the building ids, apartment type codes, and apartment numbers for all apartments with more than 4 bedrooms",
+        "turn_id": 9
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thanks!",
+        "turn_id": 10
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "you are welcome goodbye",
+        "turn_id": 11
+      }
+    ]
+  }
+}

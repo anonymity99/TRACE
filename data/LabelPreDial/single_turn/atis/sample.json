@@ -1,0 +1,4401 @@
+{
+  "train-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    19,
+                    28
+                  ],
+                  "value": "baltimore"
+                }
+              ],
+              "round_trip": [
+                {
+                  "span": [
+                    39,
+                    49
+                  ],
+                  "value": "round trip"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    32,
+                    38
+                  ],
+                  "value": "dallas"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i want to fly from baltimore to dallas round trip",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airfare": {
+              "cost_relative": [
+                {
+                  "span": [
+                    48,
+                    52
+                  ],
+                  "value": "less"
+                }
+              ],
+              "fare_amount": [
+                {
+                  "span": [
+                    58,
+                    70
+                  ],
+                  "value": "1000 dollars"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    161,
+                    171
+                  ],
+                  "value": "pittsburgh"
+                }
+              ],
+              "round_trip": [
+                {
+                  "span": [
+                    0,
+                    10
+                  ],
+                  "value": "round trip"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    35,
+                    47
+                  ],
+                  "value": "philadelphia"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "round trip fares from baltimore to philadelphia less than 1000 dollars round trip fares from denver to philadelphia less than 1000 dollars round trip fares from pittsburgh to philadelphia less than 1000 dollars",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    0,
+                    8
+                  ],
+                  "value": "american"
+                }
+              ],
+              "depart_time.period_of_day": [
+                {
+                  "span": [
+                    45,
+                    52
+                  ],
+                  "value": "morning"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    22,
+                    29
+                  ],
+                  "value": "chicago"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    33,
+                    44
+                  ],
+                  "value": "los angeles"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "american flights from chicago to los angeles morning",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-11": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_ground_service": {
+              "toloc.airport_name": [
+                {
+                  "span": [
+                    49,
+                    70
+                  ],
+                  "value": "san francisco airport"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what types of ground transportation are there to san francisco airport",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-12": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.date_relative": [
+                {
+                  "span": [
+                    7,
+                    11
+                  ],
+                  "value": "next"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    40,
+                    49
+                  ],
+                  "value": "nashville"
+                }
+              ],
+              "or": [
+                {
+                  "span": [
+                    62,
+                    64
+                  ],
+                  "value": "or"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    68,
+                    74
+                  ],
+                  "value": "tacoma"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "in the next two days i want to fly from nashville to san jose or to tacoma",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-13": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    5,
+                    25
+                  ],
+                  "value": "continental airlines"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    35,
+                    41
+                  ],
+                  "value": "denver"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    45,
+                    58
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "does continental airlines fly from denver to san francisco",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-14": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    0,
+                    7
+                  ],
+                  "value": "chicago"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    11,
+                    20
+                  ],
+                  "value": "milwaukee"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "chicago to milwaukee",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-15": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_quantity": {
+              "airline_code": [
+                {
+                  "span": [
+                    22,
+                    25
+                  ],
+                  "value": "twa"
+                }
+              ],
+              "class_type": [
+                {
+                  "span": [
+                    34,
+                    48
+                  ],
+                  "value": "business class"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how many flights does twa have in business class",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-16": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "class_type": [
+                {
+                  "span": [
+                    48,
+                    59
+                  ],
+                  "value": "first class"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    25,
+                    31
+                  ],
+                  "value": "dallas"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    35,
+                    44
+                  ],
+                  "value": "baltimore"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me the flights from dallas to baltimore in first class",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-17": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airfare": {
+              "cost_relative": [
+                {
+                  "span": [
+                    21,
+                    36
+                  ],
+                  "value": "least expensive"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    55,
+                    61
+                  ],
+                  "value": "boston"
+                }
+              ],
+              "round_trip": [
+                {
+                  "span": [
+                    37,
+                    44
+                  ],
+                  "value": "one way"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    65,
+                    77
+                  ],
+                  "value": "philadelphia"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'd like to find the least expensive one way fare from boston to philadelphia",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-18": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_quantity": {}
+          }
+        },
+        "role": "user",
+        "text": "how many booking classes are there",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-19": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_name": [
+                {
+                  "span": [
+                    48,
+                    57
+                  ],
+                  "value": "wednesday"
+                }
+              ],
+              "depart_date.day_number": [
+                {
+                  "span": [
+                    62,
+                    72
+                  ],
+                  "value": "nineteenth"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    26,
+                    32
+                  ],
+                  "value": "tacoma"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    36,
+                    44
+                  ],
+                  "value": "san jose"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what are the flights from tacoma to san jose on wednesday the nineteenth",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-2": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "arrive_date.day_number": [
+                {
+                  "span": [
+                    50,
+                    60
+                  ],
+                  "value": "fourteenth"
+                }
+              ],
+              "arrive_date.month_name": [
+                {
+                  "span": [
+                    45,
+                    49
+                  ],
+                  "value": "june"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    32,
+                    41
+                  ],
+                  "value": "baltimore"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me the flights arriving on baltimore on june fourteenth",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-20": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_number": [
+                {
+                  "span": [
+                    35,
+                    40
+                  ],
+                  "value": "fifth"
+                }
+              ],
+              "depart_date.month_name": [
+                {
+                  "span": [
+                    30,
+                    34
+                  ],
+                  "value": "july"
+                }
+              ],
+              "depart_time.time": [
+                {
+                  "span": [
+                    47,
+                    51
+                  ],
+                  "value": "7 pm"
+                }
+              ],
+              "depart_time.time_relative": [
+                {
+                  "span": [
+                    41,
+                    46
+                  ],
+                  "value": "after"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    19,
+                    29
+                  ],
+                  "value": "pittsburgh"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    66,
+                    79
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what flights leave pittsburgh july fifth after 7 pm and arrive in san francisco",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-21": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.airport_name": [
+                {
+                  "span": [
+                    56,
+                    86
+                  ],
+                  "value": "general mitchell international"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "please list all the arriving and departing flights from general mitchell international",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-22": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_city": {
+              "city_name": [
+                {
+                  "span": [
+                    18,
+                    24
+                  ],
+                  "value": "denver"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what time zone is denver in",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-23": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_ground_service": {
+              "city_name": [
+                {
+                  "span": [
+                    47,
+                    56
+                  ],
+                  "value": "baltimore"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me ground transportation in boston and in baltimore",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-24": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "flight_mod": [
+                {
+                  "span": [
+                    19,
+                    24
+                  ],
+                  "value": "first"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    37,
+                    46
+                  ],
+                  "value": "baltimore"
+                }
+              ],
+              "meal": [
+                {
+                  "span": [
+                    71,
+                    75
+                  ],
+                  "value": "meal"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    50,
+                    56
+                  ],
+                  "value": "boston"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i want to find the first flight from baltimore to boston that serves a meal",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-25": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    5,
+                    12
+                  ],
+                  "value": "seattle"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    16,
+                    30
+                  ],
+                  "value": "salt lake city"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "from seattle to salt lake city",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-26": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "economy": [
+                {
+                  "span": [
+                    58,
+                    65
+                  ],
+                  "value": "economy"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    33,
+                    39
+                  ],
+                  "value": "dallas"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    43,
+                    52
+                  ],
+                  "value": "baltimore"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "can you show me the flights from dallas to baltimore with economy fares",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-27": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    24,
+                    31
+                  ],
+                  "value": "phoenix"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what flights leave from phoenix",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-28": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    26,
+                    36
+                  ],
+                  "value": "pittsburgh"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    40,
+                    46
+                  ],
+                  "value": "denver"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what are the flights from pittsburgh to denver",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-29": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    43,
+                    49
+                  ],
+                  "value": "us air"
+                }
+              ],
+              "depart_time.time": [
+                {
+                  "span": [
+                    67,
+                    71
+                  ],
+                  "value": "noon"
+                }
+              ],
+              "depart_time.time_relative": [
+                {
+                  "span": [
+                    61,
+                    66
+                  ],
+                  "value": "after"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    21,
+                    26
+                  ],
+                  "value": "miami"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    30,
+                    39
+                  ],
+                  "value": "cleveland"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show flights leaving miami to cleveland on us air that leave after noon",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-3": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "arrive_time.time": [
+                {
+                  "span": [
+                    102,
+                    106
+                  ],
+                  "value": "9 pm"
+                }
+              ],
+              "arrive_time.time_relative": [
+                {
+                  "span": [
+                    99,
+                    101
+                  ],
+                  "value": "by"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    39,
+                    52
+                  ],
+                  "value": "san francisco"
+                }
+              ],
+              "stoploc.city_name": [
+                {
+                  "span": [
+                    75,
+                    87
+                  ],
+                  "value": "indianapolis"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    60,
+                    70
+                  ],
+                  "value": "washington"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what are the flights which depart from san francisco fly to washington via indianapolis and arrive by 9 pm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-30": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight#atis_airfare": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    49,
+                    55
+                  ],
+                  "value": "dallas"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    60,
+                    69
+                  ],
+                  "value": "baltimore"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "please give me a list of all the flights between dallas and baltimore and their cost",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-31": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_abbreviation": {
+              "fare_basis_code": [
+                {
+                  "span": [
+                    20,
+                    21
+                  ],
+                  "value": "y"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what does fare code y mean",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-32": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_ground_service": {
+              "city_name": [
+                {
+                  "span": [
+                    25,
+                    32
+                  ],
+                  "value": "phoenix"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "ground transportation in phoenix",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-33": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    69,
+                    83
+                  ],
+                  "value": "united airline"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    42,
+                    48
+                  ],
+                  "value": "dallas"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    52,
+                    65
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "okay could you tell me what flight leaves dallas to san francisco by united airline",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-34": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.date_relative": [
+                {
+                  "span": [
+                    49,
+                    53
+                  ],
+                  "value": "next"
+                }
+              ],
+              "depart_date.day_name": [
+                {
+                  "span": [
+                    54,
+                    63
+                  ],
+                  "value": "wednesday"
+                }
+              ],
+              "depart_time.time": [
+                {
+                  "span": [
+                    82,
+                    86
+                  ],
+                  "value": "noon"
+                }
+              ],
+              "depart_time.time_relative": [
+                {
+                  "span": [
+                    76,
+                    81
+                  ],
+                  "value": "after"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    25,
+                    31
+                  ],
+                  "value": "denver"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    35,
+                    48
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me all flights from denver to san francisco next wednesday which leave after noon",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-35": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    23,
+                    30
+                  ],
+                  "value": "atlanta"
+                }
+              ],
+              "stoploc.city_name": [
+                {
+                  "span": [
+                    67,
+                    73
+                  ],
+                  "value": "denver"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    34,
+                    47
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "is there a flight from atlanta to san francisco that stops over in denver",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-36": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    44,
+                    61
+                  ],
+                  "value": "american airlines"
+                }
+              ],
+              "city_name": [
+                {
+                  "span": [
+                    32,
+                    39
+                  ],
+                  "value": "atlanta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show departures and arrivals in atlanta for american airlines",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-37": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.date_relative": [
+                {
+                  "span": [
+                    107,
+                    111
+                  ],
+                  "value": "same"
+                }
+              ],
+              "flight_mod": [
+                {
+                  "span": [
+                    59,
+                    65
+                  ],
+                  "value": "latest"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    43,
+                    50
+                  ],
+                  "value": "atlanta"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    33,
+                    39
+                  ],
+                  "value": "boston"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find me the earliest flight from boston to atlanta and the latest return from atlanta to boston within the same day",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-38": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_name": [
+                {
+                  "span": [
+                    71,
+                    79
+                  ],
+                  "value": "thursday"
+                }
+              ],
+              "depart_time.period_of_day": [
+                {
+                  "span": [
+                    80,
+                    87
+                  ],
+                  "value": "morning"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    19,
+                    28
+                  ],
+                  "value": "milwaukee"
+                }
+              ],
+              "or": [
+                {
+                  "span": [
+                    32,
+                    34
+                  ],
+                  "value": "or"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    32,
+                    39
+                  ],
+                  "value": "orlando"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i want to fly from milwaukee to orlando on either wednesday evening or thursday morning",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-39": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    31,
+                    37
+                  ],
+                  "value": "denver"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    62,
+                    69
+                  ],
+                  "value": "atlanta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i want a flight originating in denver going to pittsburgh and atlanta in either order",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-4": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airline": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    24,
+                    30
+                  ],
+                  "value": "boston"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    34,
+                    44
+                  ],
+                  "value": "washington"
+                }
+              ],
+              "toloc.state_code": [
+                {
+                  "span": [
+                    45,
+                    47
+                  ],
+                  "value": "dc"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "which airlines fly from boston to washington dc via other cities",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-40": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    25,
+                    31
+                  ],
+                  "value": "dallas"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    35,
+                    42
+                  ],
+                  "value": "atlanta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me the flights from dallas to atlanta",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-41": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    32,
+                    38
+                  ],
+                  "value": "denver"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    42,
+                    55
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what flights are available from denver to san francisco",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-42": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airfare": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    34,
+                    40
+                  ],
+                  "value": "boston"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    44,
+                    50
+                  ],
+                  "value": "denver"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the cost of a flight from boston to denver",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-43": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "flight_mod": [
+                {
+                  "span": [
+                    12,
+                    20
+                  ],
+                  "value": "earliest"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    33,
+                    41
+                  ],
+                  "value": "san jose"
+                }
+              ],
+              "meal_description": [
+                {
+                  "span": [
+                    70,
+                    75
+                  ],
+                  "value": "snack"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    45,
+                    55
+                  ],
+                  "value": "pittsburgh"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me the earliest flight from san jose to pittsburgh that serves a snack",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-44": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airfare": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    50,
+                    56
+                  ],
+                  "value": "denver"
+                }
+              ],
+              "round_trip": [
+                {
+                  "span": [
+                    29,
+                    39
+                  ],
+                  "value": "round trip"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    60,
+                    67
+                  ],
+                  "value": "atlanta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "could you please give me the round trip fare from denver to atlanta",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-45": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_time.time": [
+                {
+                  "span": [
+                    39,
+                    45
+                  ],
+                  "value": "645 am"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    29,
+                    35
+                  ],
+                  "value": "boston"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    55,
+                    65
+                  ],
+                  "value": "washington"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "do you have a flight leaving boston at 645 am going to washington",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-46": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "toloc.city_name": [
+                {
+                  "span": [
+                    30,
+                    39
+                  ],
+                  "value": "atlanta's"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what are all the flights into atlanta's airport",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-47": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_name": [
+                {
+                  "span": [
+                    46,
+                    52
+                  ],
+                  "value": "friday"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    25,
+                    32
+                  ],
+                  "value": "atlanta"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    36,
+                    42
+                  ],
+                  "value": "denver"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me the flights from atlanta to denver on friday",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-48": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_abbreviation": {
+              "fare_basis_code": [
+                {
+                  "span": [
+                    20,
+                    22
+                  ],
+                  "value": "qx"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what does fare code qx mean",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-49": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_code": [
+                {
+                  "span": [
+                    28,
+                    31
+                  ],
+                  "value": "twa"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    45,
+                    55
+                  ],
+                  "value": "washington"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    59,
+                    71
+                  ],
+                  "value": "philadelphia"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like information on twa flights from washington to philadelphia",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-5": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    30,
+                    39
+                  ],
+                  "value": "charlotte"
+                }
+              ],
+              "meal_description": [
+                {
+                  "span": [
+                    89,
+                    95
+                  ],
+                  "value": "dinner"
+                }
+              ],
+              "stoploc.city_name": [
+                {
+                  "span": [
+                    67,
+                    76
+                  ],
+                  "value": "st. louis"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    43,
+                    52
+                  ],
+                  "value": "las vegas"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'm looking for a flight from charlotte to las vegas that stops in st. louis hopefully a dinner flight how can i find that out",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-50": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airline": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    24,
+                    30
+                  ],
+                  "value": "boston"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    34,
+                    44
+                  ],
+                  "value": "washington"
+                }
+              ],
+              "toloc.state_code": [
+                {
+                  "span": [
+                    45,
+                    47
+                  ],
+                  "value": "dc"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "which airlines fly from boston to washington dc but stopover in some other city",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-51": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_ground_service": {
+              "city_name": [
+                {
+                  "span": [
+                    25,
+                    32
+                  ],
+                  "value": "oakland"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "ground transportation in oakland",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-52": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    30,
+                    45
+                  ],
+                  "value": "united airlines"
+                }
+              ],
+              "depart_time.period_of_day": [
+                {
+                  "span": [
+                    9,
+                    18
+                  ],
+                  "value": "afternoon"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    51,
+                    64
+                  ],
+                  "value": "san francisco"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    68,
+                    74
+                  ],
+                  "value": "denver"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "list all afternoon flights on united airlines from san francisco to denver",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-53": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_name": [
+                {
+                  "span": [
+                    58,
+                    64
+                  ],
+                  "value": "monday"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    25,
+                    38
+                  ],
+                  "value": "san francisco"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    42,
+                    52
+                  ],
+                  "value": "pittsburgh"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me all flights from san francisco to pittsburgh on a monday",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-54": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "flight_mod": [
+                {
+                  "span": [
+                    12,
+                    18
+                  ],
+                  "value": "latest"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    34,
+                    40
+                  ],
+                  "value": "boston"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    44,
+                    50
+                  ],
+                  "value": "denver"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the latest flight leaving boston to denver",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-55": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_aircraft": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    69,
+                    78
+                  ],
+                  "value": "cleveland"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    82,
+                    88
+                  ],
+                  "value": "dallas"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "okay i would like to know the type of aircraft used on a flight from cleveland to dallas please",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-56": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_number": [
+                {
+                  "span": [
+                    60,
+                    73
+                  ],
+                  "value": "twenty eighth"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    32,
+                    41
+                  ],
+                  "value": "las vegas"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    45,
+                    52
+                  ],
+                  "value": "detroit"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "please show me the flights from las vegas to detroit on the twenty eighth",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-57": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airline": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    41,
+                    50
+                  ],
+                  "value": "milwaukee"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    73,
+                    79
+                  ],
+                  "value": "tacoma"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what airlines fly from st. petersburg to milwaukee and from milwaukee to tacoma",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-58": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    41,
+                    47
+                  ],
+                  "value": "boston"
+                }
+              ],
+              "stoploc.city_name": [
+                {
+                  "span": [
+                    108,
+                    120
+                  ],
+                  "value": "philadelphia"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    61,
+                    78
+                  ],
+                  "value": "dallas fort worth"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'd like to take a flight that begins in boston and lands at dallas fort worth but i'd like to stop over in philadelphia",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-59": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    40,
+                    55
+                  ],
+                  "value": "united airlines"
+                }
+              ],
+              "depart_date.today_relative": [
+                {
+                  "span": [
+                    28,
+                    36
+                  ],
+                  "value": "tomorrow"
+                }
+              ],
+              "flight_mod": [
+                {
+                  "span": [
+                    12,
+                    20
+                  ],
+                  "value": "earliest"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    61,
+                    75
+                  ],
+                  "value": "st. petersburg"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    79,
+                    88
+                  ],
+                  "value": "milwaukee"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "give me the earliest flight tomorrow on united airlines from st. petersburg to milwaukee",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-6": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_number": [
+                {
+                  "span": [
+                    73,
+                    79
+                  ],
+                  "value": "fourth"
+                }
+              ],
+              "depart_date.month_name": [
+                {
+                  "span": [
+                    63,
+                    72
+                  ],
+                  "value": "september"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    19,
+                    29
+                  ],
+                  "value": "pittsburgh"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    52,
+                    59
+                  ],
+                  "value": "atlanta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "okay and then from pittsburgh i'd like to travel to atlanta on september fourth",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-60": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    0,
+                    17
+                  ],
+                  "value": "american airlines"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    23,
+                    29
+                  ],
+                  "value": "denver"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    33,
+                    42
+                  ],
+                  "value": "milwaukee"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "american airlines from denver to milwaukee",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-61": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_time.time": [
+                {
+                  "span": [
+                    28,
+                    36
+                  ],
+                  "value": "noontime"
+                }
+              ],
+              "depart_time.time_relative": [
+                {
+                  "span": [
+                    88,
+                    94
+                  ],
+                  "value": "around"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    42,
+                    48
+                  ],
+                  "value": "boston"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    52,
+                    62
+                  ],
+                  "value": "washington"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what flight is available at noontime from boston to washington what flight is available around noontime from boston to washington",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-62": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    28,
+                    40
+                  ],
+                  "value": "philadelphia"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    44,
+                    50
+                  ],
+                  "value": "boston"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need a return flight from philadelphia to boston",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-63": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    0,
+                    9
+                  ],
+                  "value": "northwest"
+                }
+              ],
+              "stoploc.city_name": [
+                {
+                  "span": [
+                    32,
+                    38
+                  ],
+                  "value": "denver"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "northwest flights with stops in denver",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-64": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airfare": {
+              "class_type": [
+                {
+                  "span": [
+                    12,
+                    23
+                  ],
+                  "value": "first class"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    34,
+                    43
+                  ],
+                  "value": "baltimore"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    47,
+                    53
+                  ],
+                  "value": "dallas"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the first class fare from baltimore to dallas",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-65": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airline": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    52,
+                    59
+                  ],
+                  "value": "toronto"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    63,
+                    72
+                  ],
+                  "value": "san diego"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "could you please tell me the airlines that fly from toronto to san diego",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-66": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_number": [
+                {
+                  "span": [
+                    63,
+                    72
+                  ],
+                  "value": "thirtieth"
+                }
+              ],
+              "depart_date.month_name": [
+                {
+                  "span": [
+                    58,
+                    62
+                  ],
+                  "value": "june"
+                }
+              ],
+              "flight_mod": [
+                {
+                  "span": [
+                    12,
+                    20
+                  ],
+                  "value": "earliest"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    33,
+                    40
+                  ],
+                  "value": "memphis"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    44,
+                    54
+                  ],
+                  "value": "cincinnati"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the earliest flight from memphis to cincinnati on june thirtieth",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-67": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "flight_stop": [
+                {
+                  "span": [
+                    12,
+                    19
+                  ],
+                  "value": "nonstop"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    33,
+                    39
+                  ],
+                  "value": "dallas"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    43,
+                    50
+                  ],
+                  "value": "houston"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me the nonstop flights from dallas to houston",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-68": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airfare": {
+              "economy": [
+                {
+                  "span": [
+                    8,
+                    15
+                  ],
+                  "value": "economy"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    27,
+                    33
+                  ],
+                  "value": "dallas"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    37,
+                    46
+                  ],
+                  "value": "baltimore"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me economy fares from dallas to baltimore",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-69": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    25,
+                    45
+                  ],
+                  "value": "continental airlines"
+                }
+              ],
+              "depart_date.day_number": [
+                {
+                  "span": [
+                    56,
+                    65
+                  ],
+                  "value": "twentieth"
+                }
+              ],
+              "depart_date.month_name": [
+                {
+                  "span": [
+                    49,
+                    55
+                  ],
+                  "value": "august"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    71,
+                    81
+                  ],
+                  "value": "washington"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    85,
+                    95
+                  ],
+                  "value": "pittsburgh"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like a flight on continental airlines on august twentieth from washington to pittsburgh",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-7": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    29,
+                    41
+                  ],
+                  "value": "philadelphia"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    45,
+                    55
+                  ],
+                  "value": "cincinnati"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me all the flights from philadelphia to cincinnati",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-70": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_name": [
+                {
+                  "span": [
+                    24,
+                    33
+                  ],
+                  "value": "wednesday"
+                }
+              ],
+              "flight_stop": [
+                {
+                  "span": [
+                    63,
+                    70
+                  ],
+                  "value": "nonstop"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    39,
+                    45
+                  ],
+                  "value": "denver"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    49,
+                    59
+                  ],
+                  "value": "washington"
+                }
+              ],
+              "toloc.state_code": [
+                {
+                  "span": [
+                    60,
+                    62
+                  ],
+                  "value": "dc"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "do you have a flight on wednesday from denver to washington dc nonstop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-71": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_abbreviation": {
+              "airport_code": [
+                {
+                  "span": [
+                    8,
+                    11
+                  ],
+                  "value": "ewr"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is ewr",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-72": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    14,
+                    20
+                  ],
+                  "value": "boston"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    24,
+                    37
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i want to fly boston to san francisco",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-73": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_number": [
+                {
+                  "span": [
+                    48,
+                    62
+                  ],
+                  "value": "twenty seventh"
+                }
+              ],
+              "depart_date.month_name": [
+                {
+                  "span": [
+                    41,
+                    47
+                  ],
+                  "value": "august"
+                }
+              ],
+              "depart_time.period_of_day": [
+                {
+                  "span": [
+                    70,
+                    77
+                  ],
+                  "value": "evening"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    19,
+                    25
+                  ],
+                  "value": "dallas"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    30,
+                    37
+                  ],
+                  "value": "atlanta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what flight leaves dallas for atlanta on august twenty seventh in the evening",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-74": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_name": [
+                {
+                  "span": [
+                    0,
+                    9
+                  ],
+                  "value": "wednesday"
+                }
+              ],
+              "depart_time.period_of_day": [
+                {
+                  "span": [
+                    10,
+                    17
+                  ],
+                  "value": "morning"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    34,
+                    43
+                  ],
+                  "value": "baltimore"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    48,
+                    54
+                  ],
+                  "value": "newark"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "wednesday morning flights between baltimore and newark",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-75": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    21,
+                    27
+                  ],
+                  "value": "dallas"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    31,
+                    41
+                  ],
+                  "value": "pittsburgh"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me flights from dallas to pittsburgh",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-76": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    46,
+                    57
+                  ],
+                  "value": "continental"
+                }
+              ],
+              "arrive_time.time": [
+                {
+                  "span": [
+                    64,
+                    69
+                  ],
+                  "value": "11 pm"
+                }
+              ],
+              "arrive_time.time_relative": [
+                {
+                  "span": [
+                    58,
+                    63
+                  ],
+                  "value": "after"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    35,
+                    42
+                  ],
+                  "value": "chicago"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what flights are there arriving in chicago on continental after 11 pm",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-77": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airfare": {
+              "airline_name": [
+                {
+                  "span": [
+                    34,
+                    39
+                  ],
+                  "value": "delta"
+                }
+              ],
+              "cost_relative": [
+                {
+                  "span": [
+                    12,
+                    23
+                  ],
+                  "value": "lowest cost"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    52,
+                    58
+                  ],
+                  "value": "boston"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    63,
+                    76
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the lowest cost fare that delta has between boston and san francisco",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-78": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    20,
+                    26
+                  ],
+                  "value": "boston"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    30,
+                    43
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'd like to go from boston to san francisco",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-79": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airfare": {
+              "cost_relative": [
+                {
+                  "span": [
+                    53,
+                    57
+                  ],
+                  "value": "less"
+                }
+              ],
+              "fare_amount": [
+                {
+                  "span": [
+                    63,
+                    75
+                  ],
+                  "value": "1000 dollars"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    26,
+                    36
+                  ],
+                  "value": "pittsburgh"
+                }
+              ],
+              "round_trip": [
+                {
+                  "span": [
+                    0,
+                    10
+                  ],
+                  "value": "round trip"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    40,
+                    52
+                  ],
+                  "value": "philadelphia"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "round trip air fares from pittsburgh to philadelphia less than 1000 dollars",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-8": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    26,
+                    32
+                  ],
+                  "value": "us air"
+                }
+              ],
+              "depart_time.period_of_day": [
+                {
+                  "span": [
+                    71,
+                    80
+                  ],
+                  "value": "afternoon"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    38,
+                    50
+                  ],
+                  "value": "indianapolis"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    54,
+                    63
+                  ],
+                  "value": "san diego"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "okay i'd like a flight on us air from indianapolis to san diego in the afternoon what's available",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-80": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airline": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    43,
+                    53
+                  ],
+                  "value": "pittsburgh"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    58,
+                    67
+                  ],
+                  "value": "baltimore"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "does any airline have a jet flight between pittsburgh and baltimore",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-81": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_abbreviation": {
+              "airport_code": [
+                {
+                  "span": [
+                    8,
+                    11
+                  ],
+                  "value": "mco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is mco",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-82": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.date_relative": [
+                {
+                  "span": [
+                    68,
+                    72
+                  ],
+                  "value": "next"
+                }
+              ],
+              "depart_date.day_name": [
+                {
+                  "span": [
+                    73,
+                    81
+                  ],
+                  "value": "saturday"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    25,
+                    31
+                  ],
+                  "value": "newark"
+                }
+              ],
+              "fromloc.state_name": [
+                {
+                  "span": [
+                    32,
+                    42
+                  ],
+                  "value": "new jersey"
+                }
+              ],
+              "toloc.airport_name": [
+                {
+                  "span": [
+                    46,
+                    67
+                  ],
+                  "value": "ontario international"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me the flights from newark new jersey to ontario international next saturday",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-83": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    19,
+                    36
+                  ],
+                  "value": "dallas fort worth"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    40,
+                    52
+                  ],
+                  "value": "philadelphia"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i want to fly from dallas fort worth to philadelphia",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-84": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    24,
+                    37
+                  ],
+                  "value": "new york city"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    42,
+                    51
+                  ],
+                  "value": "las vegas"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me flights between new york city and las vegas",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-85": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_distance": {
+              "fromloc.airport_name": [
+                {
+                  "span": [
+                    34,
+                    49
+                  ],
+                  "value": "atlanta airport"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    34,
+                    41
+                  ],
+                  "value": "atlanta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "how long does it take to get from atlanta airport into the city of atlanta",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-86": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_airfare": {
+              "class_type": [
+                {
+                  "span": [
+                    12,
+                    23
+                  ],
+                  "value": "first class"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    36,
+                    42
+                  ],
+                  "value": "dallas"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    46,
+                    55
+                  ],
+                  "value": "baltimore"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me all first class prices from dallas to baltimore",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-87": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    26,
+                    39
+                  ],
+                  "value": "san francisco"
+                }
+              ],
+              "stoploc.city_name": [
+                {
+                  "span": [
+                    70,
+                    87
+                  ],
+                  "value": "dallas fort worth"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    44,
+                    50
+                  ],
+                  "value": "boston"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "is there a flight between san francisco and boston with a stopover in dallas fort worth",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-88": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_ground_service": {
+              "city_name": [
+                {
+                  "span": [
+                    46,
+                    59
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me ground transportation information for san francisco",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-89": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "flight_mod": [
+                {
+                  "span": [
+                    8,
+                    19
+                  ],
+                  "value": "inexpensive"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    32,
+                    41
+                  ],
+                  "value": "baltimore"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    45,
+                    58
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "need an inexpensive flight from baltimore to san francisco",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-9": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_name": [
+                {
+                  "span": [
+                    3,
+                    10
+                  ],
+                  "value": "tuesday"
+                }
+              ],
+              "depart_time.time": [
+                {
+                  "span": [
+                    76,
+                    80
+                  ],
+                  "value": "noon"
+                }
+              ],
+              "depart_time.time_relative": [
+                {
+                  "span": [
+                    70,
+                    75
+                  ],
+                  "value": "after"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    30,
+                    37
+                  ],
+                  "value": "phoenix"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    41,
+                    49
+                  ],
+                  "value": "st. paul"
+                }
+              ],
+              "toloc.state_name": [
+                {
+                  "span": [
+                    50,
+                    59
+                  ],
+                  "value": "minnesota"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "on tuesday what flights leave phoenix to st. paul minnesota and leave after noon",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-90": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "flight_mod": [
+                {
+                  "span": [
+                    9,
+                    17
+                  ],
+                  "value": "earliest"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    30,
+                    36
+                  ],
+                  "value": "boston"
+                }
+              ],
+              "meal_description": [
+                {
+                  "span": [
+                    60,
+                    69
+                  ],
+                  "value": "breakfast"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    40,
+                    47
+                  ],
+                  "value": "oakland"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find the earliest flight from boston to oakland that serves breakfast",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-91": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    21,
+                    33
+                  ],
+                  "value": "philadelphia"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    47,
+                    60
+                  ],
+                  "value": "san francisco"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'd like to fly from philadelphia to dallas to san francisco",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-92": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "connect": [
+                {
+                  "span": [
+                    16,
+                    22
+                  ],
+                  "value": "direct"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    36,
+                    43
+                  ],
+                  "value": "atlanta"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    47,
+                    56
+                  ],
+                  "value": "baltimore"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me all the direct flights from atlanta to baltimore",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-93": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "flight_mod": [
+                {
+                  "span": [
+                    0,
+                    6
+                  ],
+                  "value": "latest"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    19,
+                    26
+                  ],
+                  "value": "houston"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    30,
+                    38
+                  ],
+                  "value": "san jose"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "latest flight from houston to san jose",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-94": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "arrive_date.day_name": [
+                {
+                  "span": [
+                    69,
+                    75
+                  ],
+                  "value": "sunday"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    25,
+                    38
+                  ],
+                  "value": "new york city"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    42,
+                    51
+                  ],
+                  "value": "las vegas"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what're the flights from new york city to las vegas that arrive on a sunday",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-95": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    20,
+                    35
+                  ],
+                  "value": "united airlines"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    41,
+                    51
+                  ],
+                  "value": "washington"
+                }
+              ],
+              "fromloc.state_code": [
+                {
+                  "span": [
+                    52,
+                    54
+                  ],
+                  "value": "dc"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    58,
+                    64
+                  ],
+                  "value": "denver"
+                }
+              ],
+              "toloc.state_name": [
+                {
+                  "span": [
+                    65,
+                    73
+                  ],
+                  "value": "colorado"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i would like to fly united airlines from washington dc to denver colorado",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-96": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "airline_name": [
+                {
+                  "span": [
+                    38,
+                    44
+                  ],
+                  "value": "united"
+                }
+              ],
+              "economy": [
+                {
+                  "span": [
+                    19,
+                    26
+                  ],
+                  "value": "economy"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    53,
+                    59
+                  ],
+                  "value": "dallas"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    64,
+                    73
+                  ],
+                  "value": "baltimore"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "okay i need to see economy flights on united between dallas and baltimore",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-97": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "depart_date.day_name": [
+                {
+                  "span": [
+                    53,
+                    62
+                  ],
+                  "value": "wednesday"
+                }
+              ],
+              "depart_time.period_of_day": [
+                {
+                  "span": [
+                    63,
+                    70
+                  ],
+                  "value": "morning"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    28,
+                    38
+                  ],
+                  "value": "pittsburgh"
+                }
+              ],
+              "meal_description": [
+                {
+                  "span": [
+                    79,
+                    88
+                  ],
+                  "value": "breakfast"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    42,
+                    49
+                  ],
+                  "value": "atlanta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "please show me flights from pittsburgh to atlanta on wednesday morning serving breakfast",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-98": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    39,
+                    48
+                  ],
+                  "value": "baltimore"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    65,
+                    72
+                  ],
+                  "value": "atlanta"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i need information for flights leaving baltimore and arriving in atlanta",
+        "turn_id": 0
+      }
+    ]
+  },
+  "train-99": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "atis_flight": {
+              "arrive_date.today_relative": [
+                {
+                  "span": [
+                    100,
+                    108
+                  ],
+                  "value": "tomorrow"
+                }
+              ],
+              "arrive_time.time": [
+                {
+                  "span": [
+                    87,
+                    99
+                  ],
+                  "value": "9 o'clock am"
+                }
+              ],
+              "arrive_time.time_relative": [
+                {
+                  "span": [
+                    80,
+                    86
+                  ],
+                  "value": "before"
+                }
+              ],
+              "fromloc.city_name": [
+                {
+                  "span": [
+                    25,
+                    38
+                  ],
+                  "value": "san francisco"
+                }
+              ],
+              "toloc.city_name": [
+                {
+                  "span": [
+                    42,
+                    52
+                  ],
+                  "value": "pittsburgh"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me all flights from san francisco to pittsburgh which arrive in pittsburgh before 9 o'clock am tomorrow",
+        "turn_id": 0
+      }
+    ]
+  }
+}

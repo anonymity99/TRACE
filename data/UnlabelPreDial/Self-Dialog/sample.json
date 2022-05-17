@@ -1,0 +1,7502 @@
+{
+  "train-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "have you heard of the upcoming black panther movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "i have and i am so in love with the trailer already!",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "it looks remarkable so far!",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "chadwick really is a good actor for black panther.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "i agree!. he really is suitable for the role",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "the trailer was kind of sad though.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how so? did it bother you when his father died?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "yes, it did, but i hope he become one of the best super heroes!",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "i second that statement!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "but the movie will be a while until it is released. lets hope its as good as the trailer shows us.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I love the Jason Bourne franchise.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, me too.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Matt Damon really turned the spy genre upside down with that one.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "How so?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He created a spy that had human flaws and wasn't perfect.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I can see how that is true.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The first one in the series is my favorite.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mine too.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "We really get to know Matt Damon's character for the first time.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I agree and the action sequences were remarkable.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can't believe Terminator 2 came out 25 years ago.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It's crazy, isn't it? Still one of the better action movies I've ever seen.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The whole Terminator series was awesome, but T2 brought it to a whole another level.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Arnold was a complete boss in that movie.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He was overwhelmed. The T1000 was the superior machine.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, but the T800 is no slouch. Plus he looks like Arnold.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The rest of the series got pretty bad though.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, once James Cameron left the director's chair, it ran off the rails.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Think he'll ever get back in it?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I doubt it. Doesn't change the fact they were great movies.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-11": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you want to go to the movies this weekend?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sure, what are we going to see?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I am not sure, lets look and see whats playing?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "lets look for action.Oh \"Transformers: The Last Knight\" is playing",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "ok, if you want action, that is the right choice",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I hear optimus prime is the bad guy in this",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "no way, how does that happen I wonder",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I dont know, we will see this weekend",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I cant wait",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "me either, I love a good action film",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-12": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which of the Die Hard movies is your favorite?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I'm going to go ahead and actually pick a somewhat recent one.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Please, not the one in Russia.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh, of course not. That was ridiculous.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, A Good Day to Die Hard was insanely awful.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Live Free or Die Hard, with Justin Long",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That was pretty good, yeah.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Which was the one with the racist sign that he had to wear?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I think that was Die Hard 2. Timely with the riots.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That was kind of stupid and disturbing but we got to meet Samuel L Jackson!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-13": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you like Raiders of the Lost Arc?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, it is a classic Spielberg movie.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you know the character was named after George Lucas's dog?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, I did not",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When did it come out?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1981",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is that before Star Wars?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, Star Wars was 1977",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Are there any other Raiders movies?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, quite a few actually.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-14": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you seen the movie Blood Father?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, never heard of it.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Great movie, you have to watch it.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Who is in it?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Mel Gibson.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wow, haven't seen one of his movies in a while.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That's what I said. He was great in it.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Was he a cop?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "No actually a convict, but won't tell you too much.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Okay, I'll check it out.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-15": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you ever see Gone In 60 Seconds?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, who played in that?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It was a Nicholas Cage film.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He has really gone downhill as an actor.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, but this was one of his earlier works.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Was this a reboot?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, the original film came out back in the 70's.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sometimes those turn out good and sometimes not.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well this one is worth a watch.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I'll have to check it out.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-16": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you seen the 1st Pirates of the Caribean movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes I have, i love Johnny Depp in it.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I know, he is so cute, especially when he swings on things.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I liked when he was fencing with Will Turner.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Me too, what was his real name?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Orlando Bloom. He played a good pirate.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes and he's cute too, especially when he was running in the cage ball.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I liked when he was 1st seen by Elizabeth as a boy.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes and when he was fighting with Jack Sparrow on the rafters.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "But Jack Sparrow was cute when he said, \"Savvy\".",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-17": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I cannot stand some directors",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Like who",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Ones that ruin franchises",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What franchise was ruined",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Transformers",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "How was it ruined",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Michael bay turned it into explosions the movie",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "But they are cool",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Not it is lame",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Whatever you say",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-18": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What did you think of the final Matrix movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Revolutions?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yup, that one.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It was too preachy.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I think it would have been fine if they didn't rush it.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What do you mean?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Remember, parts 2 and 3 came out in May and November of the same year?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That explains the crap CGI.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The script, too, it was awful.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Could have been less obvious with the Jesus reference, too.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-19": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you give me a good Van Damme movie to watch tonight?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sure, how about Timecop?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That sounds good. Is it full of action?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes it is.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How bout another great action movie?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "How about They Live?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who directed that one?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "John Carpenter",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I thought he was a horror guy",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He is, for the most part, but They Live is a great action film.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-2": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "So what is your opinion of the movie suicide squad",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I actually liked it",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "You did?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah i heard so many people do not like it",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Why though",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I think they hate the plot",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "i enjoyed it sorta too",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah it was nowhere near as bad as it was made out to be",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Exactly",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Just a victim of expectations",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-20": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hey, man what's your favorite Chuck Norris movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Delta Force and you?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Me, too! I love the chase scene in Beirut.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That's good, but when they storm the terrorist compound at the old school, that's better.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "You have a point, I especially like when Chuck Norris shoots the radio after the one terrorist leaders offers to negotiate.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That is fun, and so's when the terrorist reinforcments charge the school, only to turn right around when Chuck triggers the explosive charges they rigged to it.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, that's funny, they're all gung-ho charging forward and then they are falling over each other to get away.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, but Lee Marvin has one of the best scences.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which one?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The one where he has that captured guy call the terrorist in the plane, and he comes out yelling \" what\", and Marvin shoots him right between the eyes.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-21": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many Taken movies were there?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Not sure. I know I only saw two, but don't know if they made a third.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I'll have to Google that and see.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Don't know if I'd watch another. They can only go so far with those movies.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That's true.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Liam Neeson is a fantastic actor though.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He is very believable.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, he plays his parts great.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I wouldn't mess with him.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Me either.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-22": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hello.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hi.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you watch action movies?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah definitely.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you have a favorite one?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I like Bad Boys.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "With Will Smith?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah that's the one.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "You know I've never seen that one.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh man, you should definitely see it.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-23": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I just watched the movie Collide the other night.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That's the one with Nicholas Hoult and Felicity Jones right?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah I've become a huge fan of Nicholas since his role as the War Boy in Mad Max Fury Road. I'm also a huge fan of Felicity Jones since Like Crazy and recently Rogue One.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Is this an action movie or a romance?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It's starts as a romance but it's a pure action movie. I was surprised when I found out Ben Kingsley and Anthony Hopkins were also in this!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wait, I didn't know Ben Kingsley and Anthony Hopkins were in this!",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Ben Kingsley is hilarious in his role. He plays a slimy criminal that makes Nicholas run errands for him. He's basically playing a character very similar to his role in Iron Man 3 as the Mandarin.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I've always seen Ben Kingsley as a serious actor but when I watched Ironman 3 that was so surprising in a good way to see that he could really ham it up.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He really hams it up in Collide. The movie overall was very average, the action was good, the romance bare, and the story plot pretty basic. I would consider this movie a pretty generic action flick.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "This sounds like one of those rainy Sunday afternoon movies to throw on. I think I'll save it for that occasion.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-24": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was your favorite Bond movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Old or new? There's been so many.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I would just say ones that have been made recently, like the last 15 years or so.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "So out of the Daniel Craig movies? Skyfall.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "See, I always thought that was a bit overrated. I prefer Casino Royale.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Well, that was the first one with him I think. They worked the kinks out in that movie.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I actually thought the plot was better than Skyfall.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "We'll have to agree to disagree on that one.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "One thing's for sure: Quantam of Solace was garbage.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh yeah. Not a good film.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-25": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you seen any of Steven Seagal's movies.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, I have seen all his older ones.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Why not the new ones.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "His new ones are pretty low budget B movie face, His 80s and 90s stuff is the best.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which ones are good.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Under Siege was one of his best. He is pretty much the only guy free on an Aircraft Carrier and he has to save everyone else.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That sounds cool. Wasn't there a sequel.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, It was set on a train. It was pretty good too. Eric Bogosian was great as the villain.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I will check those out. Any others you would recommend?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hard to Kill was good, so was Out for Justice. They have lots of action!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-26": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you ever see the Matrix?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Of course I saw the Matrix, its one of the top movies of all time.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yea I really loved those movies.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The special effect style of the fight choreography was very original.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yea, the way they slow-motion dodged bullets was really cool.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yea it was.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What else did you like about it?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The fighting they did on the cables to make it seem like they were flying around was pretty epic.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Like when Morpheus was training Neo in the dojo?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Exactly, that was awesome.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-27": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What are some of your favorite action films?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I really like Tom Cruise action movies actually.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, he's done quite a few. I loved Days of Thunder",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That's a good one, I like a lot of his more recent films too.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I haven't seen too many of his newer films, I heard the Mission Impossible Films are pretty good.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "They are. I also like the Jack Reacher films.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I've never seen those either. Do you like Matt Damon?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, I'm a huge fan of the Jason Bourne series.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Me too, did you watch the latest one?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, it was awesome.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-28": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you ever see Dirty Harry, the movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, that was a great movie, Clint Eastwood is one of my favorite actors.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Mine too, his movies are action packed.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He was in a lot of them, did you ever see The Good, The Bad and the Ugly?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, I did , that was one of my favorite movies.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mine too, it was full of action.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "His movies are consistently good, never saw a bad one.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That is true.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I hope he comes out with another soon.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I do too, Clint Eastwood is one great actor, a classic!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-29": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what do you think of fight club?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "that movie is amazing.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "everyone loves it. its a crazy movie.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "in that time, i think the only action film i like better is the matrix",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "red pill or the blue pill?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "i want the truth. i'll be the chosen one.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I think i agree too.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I wanna look like keanu dodging those bullets",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and those fighting skills too",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The fights were crazy cool",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-3": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you see Edge of Tomorrow?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What is that?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It's Tom Cruise and Emily Blunt dying every day to learn how to defeat aliens who can reset time.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That's what it's called?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I saw it but not that name.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was it?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Live. Die. Repeat.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Oooh, they renamed it because the studio thought we couldn't handle the title.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Seriously? It's not that hard to figure out.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-30": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's your favorite scene in an action movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The opening scene in \"Saving Private Ryan\" has to be my favorite.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I loved that scene. Tom Hanks and all the other actors did a great job at portraying what the Army really went through when they landed on Normandy that fateful day.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It was extremly realistic. I heard Steven Speilberg hired something like 3000 real soliders to act as extras just in that one scene.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Oh wow, I've never heard that before, do you know where the scene was actually filmed?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "They were fimed on Ballinesker Beach, which is in Ireland.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That's awesome. You can't get much better then the actors in that movie.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Vin Diseal, Matt Damon, Tom Hanks, etc. The list goes on and on.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many Academy Awards did the film win?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It was nominated for 11 but won 5 in total!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-31": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How'd you like Jason Bourne?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It was OK.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I thought it was great!",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The first one was better.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Oh, yeah. Clive Owen was in that one.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He's really good.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Too bad they had to kill him off in the first one.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It was either him or Bourne.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "True enough.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "But they've had plenty of good antogonists.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-32": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I watched Pulp Fiction for the first time today.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wow, that is a real classic cult action film.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It was nothing like what I expected.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "John Travolta is brilliant in that movie.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He was like this cool contract killer, him and the other guy?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Samuel L. Jackson?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes! When he recited the Bible verse, albeit a little wrongly, it was so intense.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Then ended up shooting the guy any way.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes! I liked how all the stories bled into one another.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, but some characters never even met. Like Bruce Willis and Travolta, their characters never meet,",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-33": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is your favorite Indiana Jones movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Probably Raiders of the Lost Ark.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What makes it your favorite?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Probably the whole classic snake pit and Indy's struggling to deal with it.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, it makes you feel for the guy! I like The Last Crusade.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It's a classic - and the whole \"choose wisely\" scene - I love it.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I know! Every time I watch that whole part I'm tense, even though I know how it will turn out.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you know where they shot those scenes?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I'm afraid I don't know.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That's a bummer. But it's beautiful, no matter where it is!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-34": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hey there.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hello.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you have a favorite action movie?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Let me think.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Sure think about it for a bit.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I would say Die Hard.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which one?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The second one.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That's a pretty good call.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "yeah.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-35": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The most recent Indiana Jones movie was just awful.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "i remember seeing it at the theater when it came out and wondering what they were thinking.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It was just a bad plot. Aliens? Come on now.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It didn't help that they made it so unrealistic.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which part are you referring to?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Well, take your pick, but I mean the nuke scene.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Oh, the one where he hid in the fridge?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yep, that's the one. Completely ridiculous.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "To me, that pretty much signaled the end of the Indiana Jones ever being in danger.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Agreed. Kind of takes the mystery out of it.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-36": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I wonder if they're going to make any other Taken movies.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You mean the one with Liam Neeson?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, you know the one he goes crazy on the bad guys.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I saw it. Great movie, don't mess with him.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "If it was my daughter, I'd go nuts too on them.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Well, think you'd need some training first.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Okay , okay. You know what I mean.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, he sure does make them guys pay.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I wouldn't mind having him as my dad.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Me either.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-37": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you watched the hunger games movies?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes they are good",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I really like them too",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Did you read the books?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes i read all the books and eatched all the movies",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I was suprised the movies werent horrible",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Me too",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I really liked watching them",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Me too",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thank you",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-38": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you seen any good action movies?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I seen Wonder Woman, had a lot of action.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That movies was the best! How about some older action movies?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There is one called \"Last Action Hero\".",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "With Arnold Schwarzenegger?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes. Early 1990's. Action and comedy.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I thought I was the only person who ever saw that show.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It was silly, but the action was amazing!",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I liked when the bad guys came out of the screen.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The one guy with the smiley faced eyeball? Scared me!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-39": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hi.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hey.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you watch a lot of action movies?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah I watch a few, not a ton.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you have one that you like the most?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I really like Top Gun a lot.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That is a good one. When was the last time you saw it?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It comes on tv quite a bit. I saw it a month ago or so.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah that's right. It still holds up too.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "yep.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-4": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you see that war movie Fury.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes it was great.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I loved the beginning when the nazi was riding along and got knocked right off his horse and knived in the head.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh yes that was great, but how about the panzer fight.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes the Panzer fight was cool, but that german machine gun just chopping off soldiers leg was wicked.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes that was graphic for my taste.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Then those poor nazi in the building they shot white phosphorous in was cooking.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes I think the gunner took pity on them when he shot them.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I hated to see them all, die.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "At least the kid lived on to tell thier brave story.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-40": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I have the best action film for you.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What is it?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It is called the Chinese Connection.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh what is it about.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It is starring Bruce Lee.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh really I know of him.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes the film is a complete movie.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Is it really?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes and it is heavy on the excellent martial arts action.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Great, I will watch it then, thanks.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-41": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is your favorite action sequence",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I am not sure",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well you wanna know mine",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sure i am cool with that",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well my favorite is a star wars scene",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Which one",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I love the action sequence where darth maul fights Qui Gon",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That is the best part of the movie",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It is and it is not a bad movie",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That is a little to far",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-42": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you seen the second John Wick movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Not yet, but I loved the first one!",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Almost two hours of headshot after headshot is so awesome!",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I heard it has a crazy ending too",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I cant spoil it for you though!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I wonder if there will be a third movie!",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "They imply that there will be.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh man, I can't wait!",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "You need to see the second one though!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Okay I'll watch it tonight!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-43": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I just saw Jack Reacher: Never Go Back.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Who is in it other than Tom Cruise?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Cobie Smulders is the woman.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Anyone else?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Danika Yarosh plays a teenager. She's pretty good.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Who directed?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Edward Zwick.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Did he work with Cruise before?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, The Last Samurai.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Neat.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-44": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I just watched Inglourious Basterds the other day. What a great movie!",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I haven't seen it. what is it about?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It is set in WWII and its about a plan to assassinate Nazi leaders.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wow, sounds good. Who is in it?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Brad Pitt has the lead role.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I think Brad Pitt is such a great action hero. He was great in World War Z.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I liked World War Z a lot too.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Have you ever seen Snatch?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I have, that is one of my favorite movies of all time.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Me too. I could watch Snatch over and over and not get tired of it.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-45": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is your favorite action movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Probably Con Air.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Really? Nicolas Cage is in that, right?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He certainly is. He kicks bad guy butt for 90 min, its great.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Nicolas Cage is such a versatile actor, he can do almost anything.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I know what you mean. He can play the hero or the villain.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I like him a tiny bit more as a villian.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What is your favorite bad guy Nicolas Cage role?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I really liked him a lot in Face Off.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh, me too. He was super creepy.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-46": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you seen baader meinhof the movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No I have not.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It is one of the most amazing action films.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh is it?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes it shows a guerilla revolution movement in Germany.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wow that sounds unique.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It is really special.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ok I will watch it.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It is filled with great action.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thank you for the recommendation.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-47": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I still think enter the dragon is the best action movie to grace films",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I mean i will give you it is a classic",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "it is THE classic",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I did like it",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I still rewatch it every year",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I pretty much do the same",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Shame what happened",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What do you mean",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He died duh",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh yeah that is a shame",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-48": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you ever seen The Departed?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I don't think so, who is in it?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Matt Damon, Leonardo DiCaprio, and Jack Nicholson.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, I don't think so. Is it any good?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It's a great action movie. If you like those types of movies, definitely check it out.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What's it about?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well, I don't want to spoil the plot but it's a complicated story of two men undercover, one in the police and the other in the mob.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh, sounds interesting.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, it's a complicated story but it does it just right and keeps you very entertained. I highly recommend it.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I'll check it out, thanks!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-49": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "We watched a few Stallone movies over the weekend.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Which ones? He's got tons of movies.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Rambo was the first one.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Great movie. Sort of felt bad for him in that.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, me too.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "All he wanted to do, was pass through town.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "See racism in a different form.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I know, just because of the way he looked.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He did some crazy things to those soldiers.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, they didn't know who they were messing with.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-5": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I saw Seven Samurai for film class.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Cool, the Kurosawa masterpiece.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, with the great Toshiro Mifune.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Who plays the leader?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Takashi Shimura",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He was in Rashomon, too.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "You're right.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "And who was the girl?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Keiko Tsushima",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "She was very beautiful.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-50": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What did you think of the movie Power Rangers?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I felt like it was terrible. I don't understand why people enjoyed it so much.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I feel like the action scenes in Power Rangers were too generic.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "They were too generic and also it seemed like the movie was trying too hard to be Politically Correct.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I did like seeing some background information on the character Rita Repulsa though.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It was interesting to find out she was once a Green Ranger.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you think they will make a Power Rangers Two?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Maybe. I am not sure though if I would go see it.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What did you think of the fighting style of the Power Rangers?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It was alright but it could of been better with more believable action scenes.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-51": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Would you consider Iron Man an action movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes I would say its a super hero action movie",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "OK some people would not consider it that so I was just checking.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I think the plot is not one of an action movie but it develops into one.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you think the comics are action comics?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No I feel like Hollywood brings that element.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I liked how Robert Downey Jr Played Tony Stark in the film.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He did an excellent job with him.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "His enemy was right on too.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I cant remember his name but it was an epic battle at the end.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-52": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Whats your favorite mafia action movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wow that's a good question. I would have to say Donnie Brasco.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I love that movie! There's some intense parts in it.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah like how they chop the guys up in the basement.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you know that it is based on a true story?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wow, that's pretty messed up.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, it is hard to believe how ruthless the mafia was.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It is probably the reason why the mafia fell apart.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I agree, they associated with too many killers, even though they were mainly about business.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It's a good thing that kind of stuff is illegal or they would control everything.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-53": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which Independence Day film did you like more? The orginial one released in 1996 or Independence Day: Resurgence, the one released in 2016?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I liked them both a lot! The newest one is a sequel to the orginial, so the story line pretty much picked up where the first one left off.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "You're correct but I can't help but feel more of an attachment to the first one.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Well I think the orginal film had much better acting and didn't have as much CGI as the second one but I'm a sucker for these types of films.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you remember President Whitmore's motivating speech in the first movie?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Which the speech? The speech at the air base before the final assualt on the alien mothership?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yup that's the one! Bill Pullman's speech is actually considered one of the best actor monologues of all time.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ha! In my acting class last semester I actually had to perform a monologue and chose this exact monologue for my presentation.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How does the monologue start?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "\"Good morning. In less than an hour, aircraft from here will join others from around the world. And you will be launching the largest aerial battle in this history of mankind.\" Just writing it gives me chills! Imagine what would be going through your mind, knowing the fate of mankind rest on your shoulders. Bill Pullman is a great actor.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-54": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "So, what are some of your favorite action movies?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Well, I for sure have to mention the films of John Woo. there's so many, it's hard to pick just one.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Oh, yeah, he's awesome!",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, I liked The Killer, Hard Boiled, Face/Off, Hard Target, there's just so many cool scenes in each of them.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I've always like the whole \"guy with two guns\" thing he does in each film",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, that's awesome. Oh, and Mission Impossible 2 was good, although I'm told Cruise interfered a lot with the final cut of the film.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I liked that movie, although I did think that ending part was a little bit cheesy. You know they way Ethan Hunt kicks the sand and the gun flys STRAIGHT up into his hand, like it was just levitating or something.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, I admit, that part was a little over the top, but still, that's what you go to action movies for, right?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, true. Oh, interesting not, do you know the hospital in The Killer is called the Scared Heart? I think it was supposed to be Sacred Heart, but someone must have goofed on that.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh, man, I never noticed that! I gotta re-watch that film now!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-55": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "hey buddy you remember that movie Snatched we saw last week?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "oh.? you mean the one with Goldie hawn in it?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "yeah thats the one! that was a really emotional movie",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I know, the part when the mom and his daughter had that moment in the basement brought tears to my eyes!",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "yeah we will have to rent it again on blu ray, its defiantly worth the price",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah. what other movies starred Goldie hawn, you know any more?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Let me think. Oh! Death becomes her! that movie was intense",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "yeah that was a pretty great movie. to live forever, what a thought right!?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "yeah who would want to live forever anyways?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah not me, one lifetime is enough for me",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-56": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you ever seen a good kung fu movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There is a movie called Kung Fu Hustle.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is that about?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It is a supernatural action movie about people terrorizing a town.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That sounds very intense. Are there good fighting scenes?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There are some very memorable ones.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is one of the best ones?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There is a scene where people fight by playing music.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That sounds pretty ridiculous. Does it fit the movie?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It does. You have to see it and you will understand.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-57": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you think the later Terminators were better than the older ones?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I mean, story wise, maybe.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What did you think of the second one?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Judgement Day?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, what did you think of it?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The plot played better, not as much action.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Really? The Terminator exploding building not enough?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It had action, just more back story.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I liked the story of Connor's mom.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "How she came to be the mother of the chosen one.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-58": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you see Pult Fiction?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes I did.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "You should watch it again.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ok I will.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, look for the great action scenes that take place.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ok I remember the scene with the sword and the motorcycle.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes those are great scenes.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I want to watch that film again.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, if you havent seen it twice, it is worth watching again.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ok thanks for the reminder.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-59": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Hi.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hello.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you enjoy action movies?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah I do.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What do you like most about them?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I like the fast pace of them and how exciting they are.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "They are great for that.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Indeed.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I enjoy the plot and the explosions.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Interesting.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-6": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Dude, I wish Arnold was still making action movies. Nobody had lines like him.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, but wasn't he in one recently?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I don't know, maybe they did some remake. Weren't they going to remake T2?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "How could they remake that? \"I cannot self-terminate.\"",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That is the best line! That molten metal dude was pretty cool too.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That was the terminator sent to kill Arnold! They had some great effects for the time.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, I remember that scene when the metal blobs join together and turn into the bad cop.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That cop had an evil look to him. I wonder what the real cops thought.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I bet all cops like Arnold.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "They should make a film where he is now a police chief who gets down and dirty on the front lines.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-60": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you ever seen John Wick?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, but I';ve heard some about it. What's the plot?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "John is a former assassin for the Russian mob, who left the life to marry the woman he loved.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "So what happens to make go all killer elite again?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Less than week after his wife dies, the idiot son of his former boss, invades his home, beats him, kills his dog, and steals his car.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That wasn't a smart move, wasn't it?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "No, John was a legend in the underworld and the Russian's called him Baba Yaga, or the Boogeyman",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "So, the kid is out of luck and time?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yep, John can kill anybody the send and get past anybody they have try to protect the little putz.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Okay, now I defintely want to see this movie.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-61": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you seen the new Fast and Furious movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No I haven't, is it any good?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, it is amazing! It has Vin Disel in it, and I am a big fan.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I was never a big fan of his movies.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How could you say that? The Pacifier was amazing!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "To each his own I suppose.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I can agree. Do you like anyone from the Fast and Furious franchise?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I like Dwayne Johnson, is he in those movies.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes I believe so.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I may need to watch the series then.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-62": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I saw The Professional last night.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That was one cool movie. Who was the young girl?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The great Natalie Portman.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wow. Who directed?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Luc Besson, who went on to do Taken and Lucy.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Both nice action flicks. Who is the Professional?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Jean Reno.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He looks like a mean dude.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Gary Oldman was the bad cop.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He got his just desserts.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-63": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you like Die Hard?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Are you kidding me, of course!",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you like one particular one versus another?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Definitely the first one.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, that was pretty good. No shoes.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, no shoes and a lot of \"shoot the glass.\"",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Some great lines in that one as well",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes indeed. Now I have a machine gun ho ho ho.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Bruce Willis was the man back in the day",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Well, except for Moonlight.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-64": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Ready for the final Planet of the Apes film?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "God, yes. Andy Serkis is amazing.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, and the direction and action have been great.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There's one thing I\"m not sure about.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's that?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Woody Harrelson, with a shaved head, as a military commander.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, that was a bit odd, but he can make it work.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you think they'll pull a twist and have the humans win?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That would be pretty interesting as a swerve, but the human population is dying off.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, they wouldn't support themselves.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-65": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which is you favorite Lethal Weapon movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I'd have to say Lethal Weapon 3.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Why's that?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Because it has both Leo Getz, a Martin Riggs love interest just as tough as him, and Riggs in his fun kind of crazy persona.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Okay, but you have to admit Lethal Weapon 2 also had crazy fun Riggs.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "True, ture, but then, after Reika's killed and he finds out the South African's killed his wife, he goes all death wish Martin Riggs again.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, but he's a little like than in number 3 as well.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "When?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When he has that crazy happy look on his face, as open's the door of the armored car, so he can wail on the driver.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, he defintely looks a little psycho when he does that.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-66": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you seen the Guardians of the Galaxy Volume 2?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, I have not. What was it like?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I saw it Sunday, and it was fantastic. It got 8 out of 10 stars for the reviews.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What is this one about plot wise?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Peter Quill and his fellow Guardians are hired by a powerful alien race, the Sovereign, to protect their precious batteries from invaders.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I saw some commercials on tv about it, and the director did a nice job with the special effects.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, and Groot is in it as well, a smaller version of course.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Who stars in this one?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Chris Pratt, Vin Diesel, Zoe Zaldana, Brad Cooper again are in this one.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sounds great, I want to see it.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-67": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the best Schwarzenegger Action movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I have always thought that Terminator 2 is probably his best.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, that one is good, but I was wondering about his lesser known stuff.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Most of them are pretty weak 80s action plots, but the sure have a lot of action. Have you ever seen The 6th Day",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "No. What is it about?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It is pretty wild. It is about human cloning.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That sounds cool! Who else is in it?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It has Michael Rappaport and Robert Duvall.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I like Robert Duvall. Wasn't he in Apocalypse Now?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He sure was. He was the surfer.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-68": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Whats your favorite action movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I think Rambo is.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That's a classic.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sure is. Rambo really does some damage.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I don't blame him. They should've just left him alone.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He told them he was just passing through.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well those simple minds in that little town sure learned.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sylvester Stallone is great in action films.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, those muscles really come in handy.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He is just good in every movie.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-69": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you ever seen Mad Max?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, I loved it. Mel Gibson is great.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did he direct that one?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, he did not.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He is a great director too.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I agree. Braveheart is a masterpiece.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you see The Road Warrior?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which did you like better?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I preferred The Road Warrior to Mad Max.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-7": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you have a favorite Harrison Ford movie.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Fugitive, for sure.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Oh, yeah. With Tommy Lee.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That guy is so good.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "They made a sequel, you know.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Nuh uh!",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, US Marshals.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Huh. Was Ford in that one.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "No, but the brought back Jones.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I'm gonna have to see that.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-70": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "So, do you think Scarface is an action movie? Or is it crime?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It's definitely an action movie, at least in the Al Pacino version. That's the only one I've seen.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Me too. But isn't crime a different category?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "There's different kinds of crime movies. Like Godfather III is actually sort of an opera, and sort of a love story too.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Really? I never saw it. Is it good?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, kind of. But Scarface is an action movie because of all the violent action. You have to have violence in an action movie, I think.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Or you could call it a romance, because of Michelle Pfeiffer. What a massively unhappy marriage.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, she was great as Elvira--and there was another woman too, Mary Elizabeth Matroantonio. But it was Pacino's film.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah. His work made the whole corrupt rags-to-riches story seem almost heroic.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, almost. You still knew he was just a drug dealer, who would die in the end.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-71": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Are you watching this movie",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I am sitting right next to you",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well man you see that scene",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What one",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The one where the dude flew through the window",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah it was cool",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It was intense this movie is walls banging",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It is pretty cool",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The action is non stop",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Well then we can watch another afterwards",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-72": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you seen any foreign action movies?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I've seen The Raid: Redemption.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Oh, that is a great action movie.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It is the action movie I've always wanted.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Why is that?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I've always wanted an action movie with the most minimal amount of plot in favor of being almost nothing but action sequences.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That makes sense. Usually the plot is nothing special in action movies anyways.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Exactly, and all we want to see are cool action set pieces.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah and that movie has nothing but cool action set pieces.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "My personal favorite was the scene where the two brothers are fighting Mad Dog.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-73": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you ever seen The Last Samurai?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Nope. Is it a Japanese movie?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It is actually American and is about an American samurai.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No way! How did they pull that off?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "They actually did a good job.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Who is in this movie?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Tom Cruise plays the American Samurai.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What are some of the lessons of this film?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "This movie shows you how to be honorable.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Interesting. Sounds like a strange concept but it's worth checking out.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-74": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you like action movies?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes i love them",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "They are so much fun to watch",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "One of my favorites is the jason bourne movies",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Those are great.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, theres so much action",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Matt damon is the perfect actor too",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes hes great for the part",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He really brings the movies together",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He does",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-75": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you consider the avengers an action movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What else could you call it?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Some may say a thriller!",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I dont think thats accurate.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I think Captain America played the best role.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Well Iron Man usually steals the scenes.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He has the best line thats why",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "How would you rate it in terms of other action movies?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well it was mainly more focused around the plot rather than special effects.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "So I guess the fighting was not that great!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-76": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I wonder who would win",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Between who",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "A fight with bruce lee and Bruce willis",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Is that not obvious",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "No it is not",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I think it is pretty obvious",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well tell me",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Lee would win hands down",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I do not know Willis is pretty tough",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "But he is nothing compared to lee",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-77": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's your favorite action movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I've always liked Die Hard.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Die Hard is one of my favorites too. Bruce Willis is awesome in that movie.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Did you know Arnold Schwarzenegger was originally offered the role of John McClane?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Really? I can't picture Arnold Schwarzenegger in Die Hard.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Me either. The role of John McClane was suited for Bruce Willis.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I agree. What other Bruce Willis movies do you like?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I liked The Jackal. It's also an action movie.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Isn't Richard Gere in that movie too?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, Richard Gere plays the good guy, while Bruce Willis play the villain.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-78": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That movie Taken was really good.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, Liam Neeson is really good.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He's really become quite the action hero in his old age!",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He's not that old!",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He's 65.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That's getting up there a bit.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Not to take anything away from him. He's super good at doing action.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "60 is the new 40!",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Ha!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "They just shouldn't make any more sequels.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-79": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "We watched The Trasnporter one and two this weekend.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Transporter. Is that Science Fiction?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "No, great action movies with Jason Statham.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Is he a bad guy again?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well no and yes.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What's that mean?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He is hired to get people somewhere and only goes after people who try to attack.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Guess that's why it's called Transporter.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "You got it. Lots of classic Statham action.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I should watch both in one night. Maybe this weekend.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-8": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "You know what was an underrated movie? The Fugitive.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wow, what year did that come out?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "1993 I think.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I remember seeing it in theater way back when.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Harrison Ford did a great job in that movie as the doctor.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "But Tommy Lee Jones stole the show. That dude is all business.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I liked how the plot continually advanced. They didn't waste time on a dumb backstory.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That was crazy when he jumped off the dam.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Nobody could survive that. That was the only part I didn't like.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Didn't bother me. Made for a great visual.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-80": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I just saw John Wick for the first time.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Cool. Keanu Reeves?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, plus Bridget Moynahan, John Leguizamo and Willem Dafoe.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "She was hot in Coyote Ugly.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Right. It was a pretty cool movie. Violent.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What happens in the movie?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "A hired killer goes after mobsters who steal his car and kill his dog.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "What role does Dafoe play?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Reeves' mentor.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wow, sounds exciting.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-81": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you seen any good action movies lately?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Of course, that is my favorite genre of movies!",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I am really excited about some new war action movies coming out soon.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Which ones?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well, particularly, I am interested in Dunkirk.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That does look very good.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I am interested in the action parts, but also to learn more about the events.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I do not know too much about it, but the action parts I have seen in the previews look great.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Most World War II movies that have been made recently have great action scenes.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I would agree, did you see Fury? That was great.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-82": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What did you think of the original Mummy movies?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The ones from decades ago, or the ones with Brendan Frasier?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Those, but keep in mind they WERE decades ago.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Woah.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yup. So, opinions?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "They were a lot of fun and not overly serious.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "My favorite part was in the second movie where he runs in late and yells \"Nie!!!!\"",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "\"Noooooooooo!!!\"",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That was hilariously bad acting.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The CGI of the scorpion king was just awful, too.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-83": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "James Bond, yes or no?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hmm.I'd say maybe",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I liked the original ones, not so much the new ones",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Really?! I prefer the new ones with Daniel Craig",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I don't know, kind of too serious for me. I liked Roger Moore.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Roger Moore! Those were way too corny",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well I liked the tongue in check humor",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "But they were so unbelievable!",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Um, aren't all James Bond movies unbelievable",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Good point.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-84": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's your favorite Steven Seagal movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "On Deadly Ground, and you?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I like Under Siege and Under Siege 2.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, Under SIege is pretty good, but I've never seen Under Siege 2. What's it like?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well, Casey Ryback(Steven Seagal) is on a train with his niece, when it is hijacked by terrorists looking to use a top secret particle beam satellite to destory Washington",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Okay, I little sci-fi, but doesn't sound to bad. Plenty of action I take it?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yep, Steven does everything from martial arts to improvised explosives to using a truck to get back on the train after being forced off.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Okay, plenty of action then. Do you have a favorite fight?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, Steven fights one of the top bad guys in a one on one knife fight, takes the knife away, beats the stuffing out of him, then kills him in the kitchen of the dining car.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Okay, I'll be giving this one a look in the future.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-85": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you get a chance to see Wonder Woman yet?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Certainly did. I was surprised by it.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How so?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It was much better than I anticipated. I especially liked the war scene where she ran through the middle.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, that was a very emotional scene and very well-directed.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Gal Gadot played the character perfectly throughout.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It helps that she's pretty easy on the eyes.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That's an understatement. She's beautiful.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I will probably end up seeing it again next week. Want to go?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sure. Let's plan a time.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-86": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is Aliens as scary as Alien?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Actually Aliens is more of an action film?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It's not horror?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It is scary, but there is a lot of shooting and fighting in it.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "So, it's not as suspense driven?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, part 1 is more horror/suspense and part 2 is more action.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you like it?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It's a pretty good movie",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who directed it?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "James Cameron. Ridley Scott directed part 1.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-87": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "My all time favorite flick has got to be Die Hard.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Such a classic.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Bruec Willis in his prime.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I know! He was the man back then.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "He just does too much now.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, he really needs to pick his projects a little more carefully.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I keep see new movies of his on Netflix that I've never even heard of.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I think some of his stuff is missing the theaters.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And rightfully so!",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He has been doing some qestionable stuff.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-88": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How do you like action movies in general?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "oh yeah, I love them, time for some more explosions",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "when it comes to visual effects, such as explosion, who comes to your mind first?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "it has to be Michael Bay, who's most famous for his Transformer movies, where mass destruction took place",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I agree, no matter how others judge the nature of his movies, you can't deny the explosions, haha",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "so which transformer movie is your favorite?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I believe it was the second one that draws most of my attention, the college kid one",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "oh, I think I know what you talking about, it's a conspiracy theory about The Pyramid in Egypt, isn't it?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "yeah, in the movie, the pyramid has some hidden device that can be used to destroy our sun",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "that sounds terrifying",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-89": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you seen all the Lethal Weapon Movies.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, I have seen them all at least twice.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which one is the best?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That is hard to say. I like the first one because it really sets up the characters.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is Joe Pesci in that one?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No, he was introduced in Lethal Weapon 2. He was a witness that had to be protected.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is he in any others?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He is in all of them after the second one. He provides a lot of humor.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I think I will check them out.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Great. Just start with the first one and watch them all!",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-9": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you ever see Hung Fu Hustle?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, thats such a great movie.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, I love the fight scenes in that movie, they are so original.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Who directed it?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Stephen Chow, he also plays Sing in the movie.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I didn't know that. Did he also direct Kung Fu Hustle 2?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I don't remember. They only released it on You Tube?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thats the modern day version of releasing a movie straight to VHS.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Ha, I guess it is cause i never saw it.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yeah, its better that way, the orginal was the best anyway.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-90": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Favorite action movie?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Does Terminator count?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Well, it's sci-fi, but it's still action.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Terminator it is! Back befor the Gubenator.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Ha! He was a much better actor that politician.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "You can say that again.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Why would you say it's your favorite?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It just hits all the action essentials.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "In spades.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "In fact, I kinda wanna watch it now.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-91": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I fanally watched The Last Boy Scout.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Is that a new movie?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "No. That came out in 1991.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wow, and you just watched it.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Totally forget about movies sometimes, theres so many.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Was Bruce Willis in that one?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, so you know it was good.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Anyone else I know.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Damon Wayans.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I like him, he's a good actor too.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-92": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did you ever see Rambo III?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "yes, that's where Rambo helps defeat the Russians, right?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Right, he helps the Afghans combat the Russians.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Kind of unsettling to realize they would eventually attack the U.S.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes, this was still when the Cold War was up and running",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Stallone was pretty ripped back then.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Oh for sure. It was peak Stallone muscle days.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Do you think he used drugs?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "PEDs for sure. No way that was natural",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "yeah, probably not.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-93": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you like action movies",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I love them",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I really like the in time movie",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Is that the one with justin timberlake?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That one was good",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And really interesting",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It gave a whole new perspective on life",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yes i cant imagine living like that",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Me either",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-94": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Do you like any Bruce Lee movies?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Of course, I'm a huge fan. I love all of them!",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's your favorite Bruce Lee movie?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh that's definitely Enter the Dragon.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "For me it's Fists of Fury. That black and yellow suit is the same one Uma Thurman wore in Kill Bill.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I know, that was a great homage. It's crazy that his son was killed almost the same way he was.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I know, that was very tragic too. He was a great fighter and great person all around.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I love martial arts movies but he's my favorite star. Have you seen the movies about his master?",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "You mean Ip Man? Yes those movies were great too, great storyline and background.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "My father turned me on to Martial Arts movies when I was young and I haven't stopped watching since.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-95": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The new Transformer The Last Knight movie comes out today.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Wow, I cant wait to see that movies.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Me too, i love Michael Bay and what he has done for the Transformer brand.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Now that he has Mark Wahlberg staring in the move you forget about the other guys.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yeah, So who were the other guys again?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "It was Shia Labeouf and the hot chick Megan Fox.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I hear that Megan Fox is a big diva.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "i hear that too, but she is still super hot.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I guess your right i am going to get my ticket for the move. Do you want to ride.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sir, i am read to check out this move.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-96": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Action seems to be one of the strongest genres going. I mean, John Wick alone",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That franchise will run out of gas eventually, but yeah, good stuff",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The only dark spot is the Fast & Furious franchise. That has been a drag for several movies now",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Totally. I'm liking these more under the radar films anyway, like The Guest",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Such a good movie. The bigger films are a bit stale, as usual",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Especially when Tom Cruise is wasting time with the likes of The Mummy",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "That was a crap fest from the beginning. It was easy to sense that it was going to fail",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "I do think the future as always is through gritty, small budget films",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The guy who'll next break out is the one that did Blue Ruin and The Green Room.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He's gonna be big, agreed.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-97": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Have you seen \"Snatched\" with Amy Schumer and Goldie Hawn?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, it was kind of stupid. Goldie Hawn was not funny.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I didn't think so either. But Amy was good.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes, i like the way she runs around telling the kidnappers off.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And they kept getting caught too.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Why were they out in the jungle anyways?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "She met that guy who was showing her around.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh yeah and he was in on the kidnapping in the first place.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Thats the guy she slept with and danced with.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "At the end it was ok when mom and daughter hugged. Otherwise it was a stupid movie.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-98": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I just watched Bloon n Bones.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh I've seen that, with Michael Jai White.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yea, that was crazy. That prison scene at the beginning was great.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yea, I really liked they put kimbo slice in it.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The fight scene where he keeps doubling the best was cool too.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oh, yea, that was awesome how he kicked all three of those guys at once.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Yea, and when the guy put the money in his pants and Michael Jai ripped the money right out, that was really awesome.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yea it was, I couldn't believe he did that!",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I really hope they come out with a second one.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Me too, that movie was really good.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-99": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What do you think was the best of the Christopher Nolan Batman movies?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Probably the middle one with the Joker.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The Dark Knight?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yep. They were all good, but that was the cake of the series.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I would agree with you there. Heath Ledger's performance was an all-timer.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He was so creepy in it. It's a shame he never got back in time for another one.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The ending scene was so shocking though. I actually thought the kid might get it.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "That's good movie-making in general. They threw everything at it creatively.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "I wonder if they'll ever re-explore those movies with Joseph Gordon-Levitt.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Unlikely, but you never know.",
+        "turn_id": 9
+      }
+    ]
+  }
+}

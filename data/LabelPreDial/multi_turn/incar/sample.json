@@ -1,0 +1,7943 @@
+{
+  "06076afe-3cba-4e83-b3bb-4b28438f6a3e": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "get coffee"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "where can i get coffee",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is Palo Alto Cafe 2 miles away or, if you prefer, Philz 6 miles away",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Give me the address of Philz.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Philz is at 583 Alester Ave.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks so much. Is that the fastest route available?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "No actually there is another coffee shop that's just two miles away. It's called Palo Alto Cafe and located at 436 Alger Dr. ",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Set GPS for the fastest route to Palo Alto Cafe.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Setting GPS to fastest route to Palo Alto Cafe now.",
+        "turn_id": 7
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "thanks bud.",
+        "turn_id": 8
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "no problem",
+        "turn_id": 9
+      }
+    ]
+  },
+  "07d579d5-f3e9-49de-af93-38d86293bd92": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest "
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "mall"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "give me directions to the nearest mall",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Navigating you to Town and Country.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Give me the address.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The address to Town and Country is 383 University Ave.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "fastest"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Thank you car, please set the GPS with the fastest route to get there",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "GPS set to fastest route. We should be there soon. ",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "address": [
+                {
+                  "span": null,
+                  "value": "383 University Ave"
+                }
+              ],
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest (3 miles)"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "shopping center"
+                }
+              ],
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "fastest route"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Thank you",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "you are welcome",
+        "turn_id": 7
+      }
+    ]
+  },
+  "08b31388-b35f-4d8f-b433-54ffb02f10b8": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "hospital"
+                }
+              ],
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "quickest route"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Please give me the address and directions via the quickest route to a hospital around me. ",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Stanford Express Care hospital at 214 El Camino Real is there 3 miles away through moderate traffic",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Fantastic, thank you",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You are welcome",
+        "turn_id": 3
+      }
+    ]
+  },
+  "0b000490-5272-4314-a546-0316f0f38fe8": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "location": [
+                {
+                  "span": null,
+                  "value": "new york"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what's the weather forecast in new york",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What information can I give you about new york's weather?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "next few days"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "New York"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "lowest temperature"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "I need to know what the lowest temperature will be in New York in the next few days.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "It will be 30F on Wednesday in New York.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you so much, let's hope it won't be rainy..",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I hope so too!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "118f8056-0e66-43df-8eb8-bfe9056ca01a": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "parking garage"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "where's the nearest parking garage",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The nearest parking garage is Dish Parking at 550 Alester Ave. Would you like directions there? ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "avoid heavy traffic "
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Yes, please set directions via a route that avoids all heavy traffic if possible. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "It looks like there is a road block being reported on the route but I will still find the quickest route to 550 Alester Ave. ",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks so much for your help. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're very welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "19c4c01e-d7ae-4192-9035-8d4f3dfca780": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "next 7 days"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "snow"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "is it going to snow in the next 7 days",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Snow is in the predictions for several cities, which one would you like me to tell you about?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "next 7 days"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Boston"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "snow"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Boston",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "it is predicted to snow in Boston on Friday.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you car!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're very welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "1d4f02e8-d9ec-4d9c-8396-7f3fedfa9cb6": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "lab appointment"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What time and date is my lab appointment?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You have three lab appointments scheduled. The first is on the 5th at 4pm, the next is on the 10th at 11am, and the last is on the 19th at 11am.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Great, goodbye.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Goodbye.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "207502fe-e11e-4da8-9e40-ad3a50f07964": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "today "
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Grand Rapids"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "raining "
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Is it raining today in Grand Rapids?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "It is not raining today in Grand Rapids.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Anytime.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "25a0bbe4-d937-48bf-8720-b4abc8bf3fd1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "agenda": [
+                {
+                  "span": null,
+                  "value": "set reminder"
+                }
+              ],
+              "date": [
+                {
+                  "span": null,
+                  "value": "12th"
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "eye doctor appointment"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "3 pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "set reminder for eye doctor appointment on the 12th at 3 pm",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I have set a reminder for your 3 pm eye doctor appointment on the 12th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "25e9d15c-a48b-4bf1-a26f-436b227595ef": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "Sunday August 8th"
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "lab appointment"
+                }
+              ],
+              "party": [
+                {
+                  "span": null,
+                  "value": "sister"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "6pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Set a reminder for a lab appointment at 6 pm on Sunday, August 8th with sister. ",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Okay, scheduling a lab appointment with your sister for Sunday, August 8th at 6pm.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome. ",
+        "turn_id": 3
+      }
+    ]
+  },
+  "26e80062-39e8-4202-a060-183d67df69b2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "today"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "snow"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "is it going to snow today",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What city should I check for you?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "location": [
+                {
+                  "span": null,
+                  "value": "San Mateo"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "San Mateo please.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Today is gonna be windy in San Mateo, with expected low temperature of 40F, and high of 50F",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks so much. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome. Glad I could be of assistance. ",
+        "turn_id": 5
+      }
+    ]
+  },
+  "2b77c100-0fec-426a-a483-04ac03763776": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "shopping center"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Give me the address of the nearest shopping center to me, with the fastest route to it",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Stanford Shopping Center is 2 miles away at 773 Alger Dr.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Is there any traffic?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is moderate traffic on the way to Stanford Shopping Center.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "fastest route"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Then pick the fastest route and let's go there, thank you car!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I sent on your screen the fastest route to the shopping center. And you're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "2df9847c-c98a-404f-957d-5234737e0b92": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "location": [
+                {
+                  "span": null,
+                  "value": "city"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "forecast "
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the forecast in my city",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What city do you want the weather for?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "weekly"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Inglewood"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Inglewood, what's the weekly weather looking like?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is a wide range of conditions for Inglewood next week, from 40-100F and snow to hot.  Are there any particular details you would like?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "snow"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "When is it expected to snow?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "It is expected to snow on Wednesday in Inglewood.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "No problem!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "2ff66f86-5bd6-4cc5-81e5-3967ae482e64": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "doctor appointment"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What is the date and time of my doctor appointment?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You have two doctor appointments scheduled. One on Wednesday at 6pm and the other on Thursday at 9am.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome. ",
+        "turn_id": 3
+      }
+    ]
+  },
+  "311a9f7c-ae69-4a60-98d8-633065886f1c": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": " lab appointment"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What day is my lab appointment, and who all will be there?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Your lab appointment is set for the 4th and Jon will be there.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks!",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "no problem",
+        "turn_id": 3
+      }
+    ]
+  },
+  "37a59952-cd3d-4ee9-a3d7-cfd97bcc8c07": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "next 2 days"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Camarillo"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "warm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will it be warm in Camarillo over the next 2 days?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "No, it's not gonna be warm in Camarillo over the next 2 days",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you car!",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "you are very welcome",
+        "turn_id": 3
+      }
+    ]
+  },
+  "381bc0ac-4a41-48dd-8d3a-811a52fcf0ba": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "check the weather",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What city would you like me to check the weather for?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "weekend"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Cleveland "
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "hail"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Check if there will be hail in Cleveland this weekend. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There will be Hail on Sunday this weekend in Cleveland. ",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "39861659-813a-436a-bd02-a7b96d60b0b8": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "meeting"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "tell me the time of today's meeting",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "the meeting is at 7pm ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Perfect. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Anything else?",
+        "turn_id": 3
+      }
+    ]
+  },
+  "3a3f05ec-a5db-4ba5-add8-4ffe02758c35": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "upcoming week"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "rain"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "is it going to rain at all this upcoming week",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What city shall I check for rain?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "upcoming week"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Redwood City"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "rain"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "redwood city",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Chance of rain on Saturday in Redwood City.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Okay thank you",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "no problem",
+        "turn_id": 5
+      }
+    ]
+  },
+  "3df6f4d6-ff1e-484d-8cc8-9729467ade80": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "grocery stores"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What grocery stores are here?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is a Safeway 4 miles away.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "What is the address?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Safeway is at 452 Arcadia Pl.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Can you set the navigation to there? Thanks. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Sure, I sent the position and the quickest route on your screen, you're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "3ea56fba-662d-49ee-91c0-da912f60bbed": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "rain"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find out if it's supposed to rain",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Where would you like to know about the forecast for rain?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "location": [
+                {
+                  "span": null,
+                  "value": "Fresno"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "I'm interested in Fresno.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is no rain in the forecast. ",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You are welcome. ",
+        "turn_id": 5
+      }
+    ]
+  },
+  "45047b54-9f65-432e-9470-cd624f78ece2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "agenda": [
+                {
+                  "span": null,
+                  "value": "go over the quarterly report"
+                }
+              ],
+              "date": [
+                {
+                  "span": null,
+                  "value": "Tuesday"
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "meeting"
+                }
+              ],
+              "party": [
+                {
+                  "span": null,
+                  "value": "boss"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "6 pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Schedule a 6 pm meeting with my boss to go over the quarterly report on Tuesday.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Okay, scheduling a meeting for 6 pm on Tuesday with your boss to go over the quarterly report.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks.",
+        "turn_id": 2
+      }
+    ]
+  },
+  "4593c929-9d55-4568-a700-89285124d69a": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "this week"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Durham"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "windy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will it be windy in Durham this week?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The forecast does not predict any windy days this week in Durham",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome, have a great day. ",
+        "turn_id": 3
+      }
+    ]
+  },
+  "475f2329-12d3-42ef-ae8f-9896839780af": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "agenda": [
+                {
+                  "span": null,
+                  "value": "setting a reminder"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "set a reminder",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "when should I set this reminder and what for?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "August 12th"
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "see the optometrist"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "7 pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "I need to see the optometrist, set it for 7 pm on August 12th, please. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Your reminder has been set to see the optometrist at 7PM on Aug 12th.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "August 12th"
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "optometrist"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "7 pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Thank you",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "my pleasure serving you. ",
+        "turn_id": 5
+      }
+    ]
+  },
+  "4f02b93b-3045-409b-9b04-ec07d7fdbcc7": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "grocery store"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "give me directions to the nearest grocery store",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is Trader Joes 5 miles away: would you like to get more info?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "avoid all heavy traffic"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Sure, please send me its address on screen and pick a route to avoid all heavy traffic",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Trader Joes is located at 408 University Ave.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Got it, thanks!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Awesome, you're welcome.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Great!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "glad to help",
+        "turn_id": 7
+      }
+    ]
+  },
+  "5021c55f-6f76-44ac-8d92-2b518e6e39d7": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "today and tomorrow"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the weather like today and tomorrow",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What city would you like the 2 day forecast for?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "blizzard "
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "redwood City"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "today"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "I need to know if there is a blizzard in redwood City today.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is no blizzard in Redwood City today.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You are welcome.",
+        "turn_id": 5
+      }
+    ]
+  },
+  "51e5a40d-8c5f-44ad-8c34-99eece1bfd09": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "hospital"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i'm in pain navigate me to the nearest hospital",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I have two hospitals located 1 mile away. Which one would you like to know about?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "the fastest to reach on the quickest route"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Pick the fastest to reach on the quickest route",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Then let's go at Palo Alto Medical Foundation, there is no traffic on our way and its address is 611 Ames Ave",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Sounds great, thank you.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "53263340-7d04-4499-b5bd-61e30e73e94e": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "next month on the 12th"
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "dentist appointment"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "3"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "schedule a dentist appointment at 3 next month on the 12th",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I have scheduled a dentist appointment for 3 pm next month on the 12th. Is that correct? ",
+        "turn_id": 1
+      }
+    ]
+  },
+  "5ce3ba88-04b8-405e-842a-8ba86af3e186": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "10th."
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "Doctor's appointment."
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "set reminder for doctor's appointment for the tenth",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What time is it?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "5e0d9b4f-2bd2-4869-b8ee-d7d9914f6661": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "shopping center"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "I need to find a shopping center. ",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The Stanford Shopping Center at 773 Alger Dr is 3 miles away in no traffic. Would you like directions there?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Yes please.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I sent all the info on the screen, please drive carefully!",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "60706967-0772-4498-808b-0ff9957bc784": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "without any traffic"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Find me a gas station that I can get to the quickest without any traffic",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The nearest gas station is located at 91 El Camino Real, but there is a roadblock nearby.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Anything else around?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I'm sorry but this is the only option in a 6 miles range",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "fastest route"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Ok, please give me directions via the fastest route. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is a road block nearby, I sent on your screen a slightly longer road that will allow you to reach faster",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "610a71db-39dd-4053-bcc0-38cba256e2c1": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "swimming"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what time is my swimming scheduled for",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Your swimming activity is scheduled for Thursday at 3PM.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "66cea158-88ca-40cc-8990-5af78d1a7a7d": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "meeting"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Find out immediately the location, time, and date for my meeting. ",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "For which one? I have one in conference room 100 at 10am on Friday, and one in Conference room 50 at 10 am on Saturday.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "That will do just fine, thanks.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 3
+      }
+    ]
+  },
+  "679e3b1c-faf8-4282-b623-4837ed79ab28": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "schedule a meeting for next week",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What date and time do you want to schedule your meeting?",
+        "turn_id": 1
+      }
+    ]
+  },
+  "69d870f6-127f-4152-88bf-d0f288ec931b": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "shortest"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "hospital "
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "I need to find the shortest route to the hospital.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Sorry it appears the nearest hospital is 8 miles away. Palo Alto Medical Foundation is located at 611 Ames Ave with heavy traffic noted. ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Can you send me the directions?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Palo Alto Medical Foundation is located at 611 Ames Ave",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "shortest distance"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Thank you car, please pick the route with the shortest distance to reach there!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I sent the route on your map. You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "6b41f9e2-6c37-470e-a915-435d084f17d7": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "snow"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "does the forecast say it will snow",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What city do you want to know the snow forecast for?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "location": [
+                {
+                  "span": null,
+                  "value": "Compton "
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "I need to know about Compton for my trip. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Do you want me to check if it will snow on a specific day or the entire week?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "today or tomorrow"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Compton"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "snow"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Please check if it will snow today or tomorrow",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Frost is predicted in Compton today but there is no snow for today or tomorrow.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "6fb6f96f-716e-4d8e-9aff-a2b178a80bfb": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "48 hours"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Alhambra"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "rain"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "In the next 48 hours will it rain in alhambra?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Just a little: the weather in Alhambra will be drizzle today and overcast tomorrow",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Sure!",
+        "turn_id": 3
+      }
+    ]
+  },
+  "71bc4734-51a1-4714-8d74-b15ddb16516a": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "Today"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Mountain View"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "Hail"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will there be hail in Mountain View today?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There will be clear skies today in Mountain View.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Anytime.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "73b98d47-009f-4fd2-bde3-0b7f5b6db9c4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "yoga class"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What day and time is my yoga class?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Your yoga activity is on the 3rd at 10 am.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you kindly.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You are welcome.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "7e8d68cf-b2b9-481f-b481-3b2f70d659ce": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "12th of this month"
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "swimming"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "remind me to go swimming on the 12th of this month",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Okay, I've set a reminder to go swimming on the 12th.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "7f1d72e6-7656-4db2-a4ee-3f56567f0cfd": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "shopping mall"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me the nearest shopping mall",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "We are 1 miles away from Stanford Shopping Center: does it sound good to you?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Give me the address.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The address is 773 Alger Dr, I sent it on your screen",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "without any traffic"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Set GPS for a route without any traffic.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is moderate traffic but you should be able to reach it fast anyway",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "no traffic"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Is there an alternate mall with no traffic on the route?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "No that's the closest and fastest available. ",
+        "turn_id": 7
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Ok, thanks. Set the GPS for there please. ",
+        "turn_id": 8
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "GPS is set for Stanford Shopping Center, at 773 Alger Dr, 1 mile away with moderate traffic.",
+        "turn_id": 9
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks for all the help. ",
+        "turn_id": 10
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Happy to help, you're welcome. ",
+        "turn_id": 11
+      }
+    ]
+  },
+  "803d9697-524d-48da-8028-f64dcbab7773": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "near me"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "hotels"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "search hotels near me",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The Comfort Inn is the only rest stop nearby. It is 6 miles away and there is a car collision nearby",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "near me (6 miles away)"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "rest stop"
+                }
+              ],
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "alternate route"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Find an alternate route please.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Setting navigation to 753 University Ave now. ",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "shortest distance"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Thank you car assistant, make sure the route is the shortest distance. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I did! And you're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "83494344-7dfd-476d-a227-b51ecc5112c2": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "dentist appointment"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What is the date of my Nextt dentist appointment and who will be attending it?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Your next dentist appointment is on the 2nd with sister. ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome. ",
+        "turn_id": 3
+      }
+    ]
+  },
+  "844e33b4-79d1-4422-b419-e8195009ce82": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "dentist appointment"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "tell me when my dentist appointment is",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Your dentist appointment is this Saturday at 7pm.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Perfect, thanks so much!",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "you're welcome",
+        "turn_id": 3
+      }
+    ]
+  },
+  "891939b1-c0cc-4c94-817e-2a9783695d77": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "this week"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "highest temperature"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what's the highest temperature for this week",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What location do you want to know the highest temperature?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "this week"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Menlo Park"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "Highest temperature"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Menlo Park, please",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "On Friday in Menlo Park it will be a high of 100f.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Excellent, that's very helpful. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You are very welcome.",
+        "turn_id": 5
+      }
+    ]
+  },
+  "89cae425-6ff7-48b4-8b42-ec50b541dc63": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "location": [
+                {
+                  "span": null,
+                  "value": " new york"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "check forecast for new york",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The weather this week will be hail and rain on Thursday and Sunday, with the lowest temperature being 20F and the highest 90F, Monday will be the only hot day. ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "Friday"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "overcast"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will it be overcast on friday?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "On Friday it will be cloudy on New York",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "8c0217ed-17fc-48dc-8ee2-2949d97b77db": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "Wednesday"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Redwood City"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "stormy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will it be stormy in Redwood City on Wednesday?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "No, Wednesday it will be hot in Redwood City",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Anytime.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "8cb6ab8d-5c59-44d3-bd97-ab8fbf310d7a": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "today and tomorrow"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the weather like today and tomorrow",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What city would you like the weather for?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "today and tomorrow"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "mountain view"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "rain"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will it rain in Mountain View?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Rain is not predicted today, but tomorrow rain is predicted to fall in mountain view",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "8d0f143b-e6e9-4d20-a9c0-d3447e072e50": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "meeting"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "when is my next meeting",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Your next meeting is friday at 1 pm.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "9039aa2e-621b-49c8-a755-fc3edf68f3db": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearby "
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "rest stop"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Is there a nearby rest stop?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Hotel Keen and The Westin are both nearby.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "least amount of traffic"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Which has the least amount of traffic at the moment.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "They both have none.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "What is the address for Keen?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "578 Arbol Dr, we're 2 miles away from it. Set the navigation there?",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Yes, sounds great. ",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Alright",
+        "turn_id": 7
+      }
+    ]
+  },
+  "93a99558-07bc-46ef-818b-1e7cd64ab673": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": " 7th "
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "tennis "
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "11 am"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "I really need to have an appointment scheduled for tennis on the 7th at 11 am.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I am scheduling tennis on the 7th at 11 am. ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome",
+        "turn_id": 3
+      }
+    ]
+  },
+  "9505345a-636c-49bc-8b79-8a6a81039ad7": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "next 7 days"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "forecast"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "give me the forecast for the next 7 days",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What city would you like to hear the 7 day forecast for?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "7 day "
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Redwood City"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Redwood City please.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Redwood City is forecast to be cloudy and cold with a chance of a blizzard; lows in the 20s are expected with highs near 60. ",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks so much. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome. ",
+        "turn_id": 5
+      }
+    ]
+  },
+  "956a8706-efee-47aa-8360-dc57ea48b6f4": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "closet"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "fast food"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "give me the closest fast food restaurant",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I do not have a listing for any fast food places but i do have a pizza restaurant that is 3 miles away. Would you like more info on it?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "within 3 miles"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "pizza place"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Sure find the fastest route to a pizza place that is within 3 miles of me.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Pizza Hut is 3 miles away, would you like the address?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Yes, please!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "704 El Camino Real, I've already set the navigator to go there",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you car!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "95e8fc44-9a26-429a-a399-52afdb6927ee": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "12th "
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "work meeting"
+                }
+              ],
+              "room": [
+                {
+                  "span": null,
+                  "value": "conference room 100"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "5 pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "remind me that i have a meeting at work on the 12th at 5 pm in conference room 100",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Okay setting a reminder for you work meeting, on the 12th at 5 pm, in conference room 100.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "95ea2524-08f8-4b0f-8f20-4abfc67d2d17": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "location": [
+                {
+                  "span": null,
+                  "value": "New York"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "check forecast for new york",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The weather forecast in New York is windy, the low is 40F and the high is 60F.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "next 7 days"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "New York"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "frost"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Thank you. I would like to know if there will be frost in new york anytime over the next 7 days?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Frost is predicted in New York on Saturday.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Great, thank you",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "anytime",
+        "turn_id": 5
+      }
+    ]
+  },
+  "97da7e92-0d43-4f03-aaf2-3c67c5fd02ac": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "11th "
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "dinner "
+                }
+              ],
+              "party": [
+                {
+                  "span": null,
+                  "value": "sister"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "4pm "
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Hi, please set up a reminder for my dinner on the 11th at 4pm with my sister. Thanks!",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Set! Have a good time",
+        "turn_id": 1
+      }
+    ]
+  },
+  "9885baa7-7073-4343-8310-83a979cd9f44": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "closest "
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "chinese food"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me the closest location where i can get chinese food",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Panda express is 3 miles away.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Give me the address.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "842 Arrowhead Way, there is heavy traffic but you should be able to reach there soon anyway",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "avoid all heavy traffic"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "I wish to avoid all heavy traffic, check if there is another way to get there otherwise just set my GPS, thank you!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I sent on your screen the best possible route to avoid all heavy traffic. And you're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "9c19755e-86ea-4d90-bac5-3ce6d1ba51c7": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "August 14th"
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "Doctor's appointment "
+                }
+              ],
+              "party": [
+                {
+                  "span": null,
+                  "value": "Sister"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "4pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Set a reminder for doctors appointment on August 14th at 4pm with my sister",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Reminder for doctors appointment on August 14th at 4pm with your sister is set",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Sorry, can you confirm that that has been set one more time?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "A reminder for your doctors appointment on August 14th at 4pm with your sister has been set.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you very much.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "No problem, goodbye.",
+        "turn_id": 5
+      }
+    ]
+  },
+  "9c658b62-27db-4b4c-8af9-dea2d8e6897d": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "wednesday"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "when am i playing tennis",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Your tennis game is at 7 pm wednesday.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "a2feb683-e5c7-4a4e-9d5f-92526deb3c2d": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "next week"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the weather next week",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What city are you wanting to know the weather for?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "location": [
+                {
+                  "span": null,
+                  "value": "Mountain View"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Mountain View please.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "In Mountain View, it will be 30-40F Monday, 80-100F Tuesday, 90-100F Wednesday, 90-100F Thursday, 70-80F Friday, 90-100F Saturday, and 70-80F Sunday.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "any day"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "hot"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will it be hot any of the days?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The only day of the week it will be hot is on Monday with a high of high of 40F.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks for the information.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "a7c88973-7b1b-4f64-8641-25c9a0b8ce48": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "friends house"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Where does my friend live?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Tom's house is 6 miles away at 580 Van Ness Avenue. ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "fastest route"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Is that the fastest route?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I'll send the route with no traffic on your screen, drive carefully!",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You are welcome",
+        "turn_id": 5
+      }
+    ]
+  },
+  "aad29c8f-f81e-4f2c-b04d-59360ffcf959": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "pizza restaurant"
+                }
+              ],
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "fastest route"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Can you find me the fastest route to a pizza restaurant?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The Pizza Hut is located 5 miles away in heavy traffic, and Papa Johns is 6 miles away in moderate traffic. Which of these would you prefer?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Let's try Papa Johns tonight. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Setting the GPS for Papa John's anything else?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "6 miles away"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "pizza restaurant"
+                }
+              ],
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "fastest route"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Give me the address and the details for the fastest route there, please. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "OK, setting navigation to 110 Arastradero Rd now. Enjoy!",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you car!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 7
+      }
+    ]
+  },
+  "abc61848-73c5-478d-ab89-65be9585f487": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "dinner"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What time is dinner and who is it with?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Dinner is at 7 pm with Jon.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Okay, perfect! Thanks.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "you're welcome",
+        "turn_id": 3
+      }
+    ]
+  },
+  "ae2ffb20-be65-4f4d-ae08-7d479c817164": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "next week"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "fresno"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "snow"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will it snow in Fresno in the next week? ",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There isn't any snow predicted in fresno next week",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Great, thanks for the assistance. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You are very welcome.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "afb9703a-128f-4610-b147-2c3acfdc5930": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "right now"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "is the weather cloudy right now",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What location do you want the weather for?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "location": [
+                {
+                  "span": null,
+                  "value": "Alameda"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Alameda.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "It is not cloudy in Alameda right now.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome. Have a great day. ",
+        "turn_id": 5
+      }
+    ]
+  },
+  "afcb07a7-e25e-45be-9ca4-e50b78b60c4e": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "7 day forecast"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "check the weather for the 7 day forecast",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What city are you interested in?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "location": [
+                {
+                  "span": null,
+                  "value": "Los Angeles"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "hot"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Los Angeles, please. Will it be hot?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "It will be hot today in Los Angeles.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks so much for the information. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "b1551b67-9278-4b63-99f2-ac14cd1f1dce": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "closest"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "chinese restaurant"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me the closest location where i can get chinese food",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The closest chinese restaurant is PF Changs, located 5 miles away. ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "avoid heavy traffic"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "OK, please give me an address and directions via a route that avoids all heavy traffic. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "P.F. Changs route set to 669 El Camino Real with only moderate traffic noted. ",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome. Drive safely, and enjoy. ",
+        "turn_id": 5
+      }
+    ]
+  },
+  "b2fb46b3-d017-48d4-9823-bedf3a94aa66": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "today"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "redwood city"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "windy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will it be windy in redwood city today?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "It is not predicted to be windy today in redwood city",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Okay thanks",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "you are very welcome",
+        "turn_id": 3
+      }
+    ]
+  },
+  "b765a1e5-ce93-4e54-b2b4-972e6e1709c7": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "Wednesday"
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "football"
+                }
+              ],
+              "party": [
+                {
+                  "span": null,
+                  "value": "Martha"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "1pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Set a reminder that I have football at 1pm next Wednesday with Martha ",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I have scheduled football at 1pm next Wednesday with Martha",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you very much assistant.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "you are welcome",
+        "turn_id": 3
+      }
+    ]
+  },
+  "c03a2dd9-24aa-4a62-a7c4-a7bd008138de": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "Football"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "When is my football activity and who is going with me?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You have 3 football activities lined up. 2pm on Monday with Tom, 1pm on Monday with your dad, and on Sunday at 1pm with your mother",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "thanks",
+        "turn_id": 2
+      }
+    ]
+  },
+  "c07c01eb-8c56-49db-abd3-d70a8c540a4b": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "dentist appointment"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "schedule dentist appointment",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "when is your dentist appointment",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "Sunday"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "2 pm."
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "It is on Sunday at 2 pm.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I have put on your calendar a dentist appointment on Sunday at 2 pm. ",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Right on, thanks. ",
+        "turn_id": 4
+      }
+    ]
+  },
+  "c59e13c2-bea9-437f-9c56-d5a9012366c5": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "agenda": [
+                {
+                  "span": null,
+                  "value": "attach my agenda"
+                }
+              ],
+              "date": [
+                {
+                  "span": null,
+                  "value": "tomorrow "
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "meeting "
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "5 pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i have a meeting tomorrow at 5 pm remind me 10 minutes before hand and attach my agenda to the calendar at 3",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I have scheduled a meeting for tomorrow at 5 pm. I will remind you at 4:50 pm and attach your agenda. ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you. ",
+        "turn_id": 2
+      }
+    ]
+  },
+  "c7bafa52-3b36-45a0-918f-038675eaa659": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "tuesday"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "san mateo"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "warm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "On tuesday in san mateo find out if it will be warm",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "It will be hot in san mateo, tuesday's forecast predicts the high temperature will reach 100F",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you car!",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You are welcome.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "cb7c5883-4a99-44fe-b5a6-018409ab777b": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "next seven days"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Alhambra"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "hail"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will the weather be hail in Alhambra during the next seven days?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There shouldn't be any hail during the next seven days in Alhambra",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "cc9150a6-8e7f-4fb1-80df-39b3cd0a7c95": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "coffee or tea"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Can you direct me to a coffee or tea place nearby, preferably on a route with no traffic?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Cafe Venetia is a mile away with no traffic at 269 Alger Dr. ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Sounds great, set the GPS for there please. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I updated the map on your screen, drive carefully!",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome. ",
+        "turn_id": 5
+      }
+    ]
+  },
+  "cd8452cd-4b2a-4982-8a5b-98ae4fbefb29": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "home "
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "show me traffic for going home",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is no traffic listed going to 10 Ames Street. ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "address": [
+                {
+                  "span": null,
+                  "value": "10 Ames Street"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "home"
+                }
+              ],
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "fastest route"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Then pick the fastest route and set the GPS to go there, thank you!",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Setting navigation now. ",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks for the help. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "cf7b47bc-292a-46d2-8235-055987d9fded": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "dinner"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "when do i have dinner planned for",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Your dinner is at 5 pm Monday.",
+        "turn_id": 1
+      }
+    ]
+  },
+  "d140a707-6d5f-408f-878d-885c279b84db": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "8th"
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "yoga activity"
+                }
+              ],
+              "party": [
+                {
+                  "span": null,
+                  "value": "Tom"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "2pm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Schedule a yoga activity with Tom on the 8th at 2pm.",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Okay, scheduling a yoga activity with Tom for the 8th at 2pm.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks!",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "My pleasure.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "d1afbaa3-8a31-4480-b0ba-20b6efa97d92": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "Sunday"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Fresno"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "Dry"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will it be dry in Fresno on Sunday?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "No, on Sunday in Fresno there will be a blizzard.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Okay, thank you",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "No problem.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "d2c39185-584f-40f5-ab72-3e60611d981e": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "football"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What is the date of football and who is coming?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You have four football activities scheduled; one on the 5th with John, on the 10th with Marie, one on the 16th with Alex, and one on Monday with father. ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Have a great day.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "d41d8a55-bbb9-4128-b745-8efe3a1c5a60": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "hospital"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Where is the nearby hospital?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Stanford Childrens Health is the only hospital.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Give me the address to Stanford Childrens Health.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Stanford Childrens Health is at 899 Ames Ct.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Okay, thanks",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "da6301a1-b85b-49ce-8d25-96110e72b174": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "closest "
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "parking garage"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "take me to the parking garage closest to my destination",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The closest  parking garage is \tPalo Alto Garage R which is only 2 miles away, but there is a road block in the area. ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "closest to my destination"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "parking garage"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Uhh ok well I still need to park so what's the address?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Setting navigation now to 481 Amaranta Ave.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "your welcome.",
+        "turn_id": 5
+      }
+    ]
+  },
+  "daa8bdc7-72c7-40fd-8e02-91a2e59fddcc": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "yoga"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what time is yoga class",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Your yoga class is at 1 pm",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "no problem",
+        "turn_id": 3
+      }
+    ]
+  },
+  "db4b58d9-70c2-4ab4-a5fc-0b74dafff9e0": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "today "
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the weather like today in tomorrow",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What city are you inquiring about?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "today"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Compton"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "cloudy"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will it be cloudy in Compton today?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Compton is not showing a forecast for cloudy skies today.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "OK.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You are welcome.",
+        "turn_id": 5
+      }
+    ]
+  },
+  "e0167f21-7ca7-4b08-b032-5967edaa0d31": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "2 miles"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "pizza restaurant\t"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Car I'm desiring to have pizza: is there any restaurant within 2 miles?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I have a pizza restaurant located 1 mile away.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "What is the address?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Dominos is at 776 Arastradero Rd.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "e5e0bb00-96fd-4d58-8d6c-175609bddd79": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "closest"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "parking garage"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "where's the closest place to park",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The closest parking garage is 4 miles away. Would you like the address and name of it?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Yes please.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The parking garage is the Webster Garage, 3 miles away at 880 Ames Ct",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks so much.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Happy to help!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "e6755e80-b936-4b27-93b3-e1658d51a2bd": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "meeting"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Schedule meeting. ",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What details shall I add to your meeting reminder?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "agenda": [
+                {
+                  "span": null,
+                  "value": "discuss our company picnic"
+                }
+              ],
+              "date": [
+                {
+                  "span": null,
+                  "value": "13th"
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "meeting"
+                }
+              ],
+              "party": [
+                {
+                  "span": null,
+                  "value": "management"
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "11am"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Please set it for the 13th at 11am. It is going to be with management and to discuss our company picnic. Thank you.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Reminder set for your meeting at 11am on the 13th with management to discuss your company picnic.  Is there anything else?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "That is all, thank you.",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "you're welcome",
+        "turn_id": 5
+      }
+    ]
+  },
+  "e6a3d664-68f3-423b-bf4f-37ec246e399d": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "tomorrow"
+                }
+              ],
+              "event": [
+                {
+                  "span": null,
+                  "value": "conference call"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "set a reminder for my conference call tomorrow",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What time should I set a reminder for tomorrow's conference call?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "Tomorrow "
+                }
+              ],
+              "time": [
+                {
+                  "span": null,
+                  "value": "2 pm."
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Tomorrow at 2 pm.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "I have scheduled a conference call for tomorrow at 2 pm. ",
+        "turn_id": 3
+      }
+    ]
+  },
+  "e7d01d13-bc6b-4069-8cd9-dc7402f5eb5a": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "this week"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "Brentwood"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "dew"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will there be dew in Brentwood this week?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is no dew in the forecast for Brentwood this week. ",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "No problem.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "ebfd0087-3526-43ae-a0d9-1b3a37dcb544": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest "
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "gas station"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Where is the nearest gas station?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is a 76 4 miles away.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "What is the address?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The 76 gas station is located at 91 El Camino Real. It is 4 miles away through moderate traffic",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Anytime!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "ed2bad8e-f98d-402e-ac84-1b88bb107116": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "coffee shop"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "where are the nearest coffee shops",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The nearby coffee shops are Teavana which is 6 miles away, and Peets coffee which is 3 miles away.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "fastest"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Please give me an address and directions to the Peets coffee, and take the fastest route available. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Peets Coffee is located at 9981 Archuleta Ave. but a car collision is nearby on the route. I will try to find the quickest route possible. ",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks for all the help. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "ed3835fc-d726-465b-978a-be28efe31bf7": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "shopping mall"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "get me directions to the nearest shopping mall",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The nearest shopping mall is Stanford Shopping Center. It's located 3 miles away and there is no traffic to reach it",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Sounds great. Thanks.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 3
+      }
+    ]
+  },
+  "ef481718-45f8-4188-9242-92f998c2cf45": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "around me"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "hospital"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Where is there a hospital around me?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "We're 5 miles away from Stanford Express Care: do you want me to set the GPS to go there?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "around me (5 miles away)"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "hospital"
+                }
+              ],
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "quick route"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "OK, please give me the address and direct me there via a quick route. ",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The address is 214 El Camino Real; setting navigation now. ",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you car!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "efc52f54-365d-4178-ac2f-567a1fcaf45d": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "shopping mall"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "give me directions to the nearest shopping center",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The nearest shopping mall is Midtown Shopping Center, it's 4 miles away",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "shortest"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Can you pick the shortest distance to go there?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Setting GPS now.",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you. ",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "f2637de0-21c4-45c7-ad98-a1e30057e9a6": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "sunday"
+                }
+              ],
+              "location": [
+                {
+                  "span": null,
+                  "value": "menlo park"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "warm"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Will the weather be warm in Menlo Park on Sunday?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The highest temperature on sunday is 30F in menlo park",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You are welcome.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "f38243ee-95be-4af6-9fbf-42d3bc48e24c": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearby"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "search for nearby starbucks",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is no Starbucks nearby.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "coffee place"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "How about other coffee?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "There is a coffee place 2 miles away. Do you need the address and name?",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Yes, please, send those info on my screen and pick a quick route to go there, thank you!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Philz is a coffee shop located at 583 Alester Ave. Setting your GPS for the quickest route possible now.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you car!",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You are welcome.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "f6a001b3-78f0-4f79-85a1-de4a611068ae": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "location": [
+                {
+                  "span": null,
+                  "value": "new york city"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "what is the weather like in new york city",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "What would you like to know about the weather in new york?",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "date": [
+                {
+                  "span": null,
+                  "value": "Thursday"
+                }
+              ],
+              "weather_attribute": [
+                {
+                  "span": null,
+                  "value": "temperature"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What will the temperature be on Thursday?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "On Thursday the temperature in New York will be low of 90F, and high of 100F",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you very much car!",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 5
+      }
+    ]
+  },
+  "f9129b34-035c-4e1c-8c57-44703fabfd71": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "event": [
+                {
+                  "span": null,
+                  "value": "football activity"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "What date is my football activity and who is attending?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You have two football activities scheduled. One on the 17th with Jeff and one on the 18th with Tom.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thanks.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "My pleasure.",
+        "turn_id": 3
+      }
+    ]
+  },
+  "fdc6842b-0158-4f9c-ab26-ffca5b0fa1e7": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest place"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "coffee"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "i feel like some coffee where's the nearest place",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "We're 5 miles away from Peets Coffee\t",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "close"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Are they any closer options?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "No Peets Coffee is the only option. ",
+        "turn_id": 3
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearest (5 miles)"
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "coffee or tea place"
+                }
+              ],
+              "traffic_info": [
+                {
+                  "span": null,
+                  "value": "quick route"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "Then let's go there, please pick a quick route for me",
+        "turn_id": 4
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "Peets is 5 miles away in moderate traffic; setting navigation to 9981 Archuleta Ave now.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you. ",
+        "turn_id": 6
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You are welcome.",
+        "turn_id": 7
+      }
+    ]
+  },
+  "feebfa92-baf1-48cf-a27d-3eb6601d159c": {
+    "turns": [
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {
+              "distance": [
+                {
+                  "span": null,
+                  "value": "nearby "
+                }
+              ],
+              "poi_type": [
+                {
+                  "span": null,
+                  "value": "shopping mall shopping center"
+                }
+              ]
+            }
+          }
+        },
+        "role": "user",
+        "text": "find me a nearby shopping mall shopping center",
+        "turn_id": 0
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "The closest shopping center is Midtown Shopping Center 3 miles away.",
+        "turn_id": 1
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "user",
+        "text": "Thank you.",
+        "turn_id": 2
+      },
+      {
+        "extra_info": null,
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "DEFAULT_INTENT": {}
+          }
+        },
+        "role": "system",
+        "text": "You're welcome!",
+        "turn_id": 3
+      }
+    ]
+  }
+}

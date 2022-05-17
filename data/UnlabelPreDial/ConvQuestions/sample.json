@@ -1,0 +1,7502 @@
+{
+  "train-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which author wrote the novel 1Q84?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Haruki Murakami",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "author's nationality?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Japan",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "he won the World Fantasy Award for?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Kafka on the shore",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "is he a recipient of Franz Kafka award?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "when?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2006",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which famous author wrote the fantasy book series Harry Potter?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "J. K. Rowling",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which book was the first one written?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Philosopher's Stone",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What novel was the final one?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Deathly Hallows",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What character joins Harry Potter after being saved by him?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hermione Granger",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The series consists of which amount of books?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "7",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote Foundation?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Isaac Asimov",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was it released?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1951",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it part of a series?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the next book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Foundation and Empire",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is that the final part of the series?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-11": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of Ready Player One?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ernest Cline",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what kind of story is it?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "science fiction novel",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "was something created from the book?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ready Player One was made into a movie.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "who published the book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Crown Publishing Group",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what awards did the book win?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ready Player One won the Promethus Award.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-12": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of Foundation?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Isaac Asimov",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When did he release it?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1951",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it part of a series?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "So what is the sequel?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Foundation and Empire",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is that the final part of the series?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-13": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Genre of the book Eragon?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "young adult literature;speculative fiction novel",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and who wrote it ?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Christopher Paolini",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and when was he born ?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "17 November 1983",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was the book published ?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "26 August 2003",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the publisher ?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Alfred A. Knopf",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-14": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of the Harry Potter book series?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "J. K. Rowling",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Started what year?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1997",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Authors name abbreviation mean?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Joanne Kathleen",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Made into film?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Third book title?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Prisoner of Azkaban",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-15": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Agatha Christie wrote about both Dale Cooper and Miss Marple?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "which of them belongs to her?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Miss Marple",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "how many books she wrote about her?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "12",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "the first book is called?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Body in the Library",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "country she wrote it in?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "United Kingdom",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-16": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was the name of the author who wrote The Wonderful Wizard of Oz?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "L. Frank Baum",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you name the Movie made from the book The Wonderful of Oz?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Wizard of Oz",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the good witch in the The Wonderful Wizard of Oz?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Glinda the Good Witch",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was The Wizard of Oz written?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1900",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What genre is this book?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "children's literature",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-17": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What book has Pennywise the Dancing clown as the villain?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "IT",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Where was the movie located?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Derry",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What kid had his brother killed?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bill Denbrough",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is Bill's best friend?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Eddie Kapsbrack",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the main bully in IT?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Henry Bowers",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-18": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book One Flew Over the Cuckoo's Nest?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ken Kesey",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What year did it hit the shelves?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1962",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What state is it set in?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oregon",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was the book adapted to live theater?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was it made for film?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-19": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the writer of the fiction novel 1Q84?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Haruki Murakami",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "author's nationality?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Japan",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "which of his books won the World Fantasy Award for the best novel?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Kafka on the shore",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "is he a recipient of Franz Kafka award?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "when?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2006",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-2": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was the Author of One Flew Over the Cuckoo's Nest?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ken Kesey",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "In which year was it published?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1962",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What region is it's setting?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oregon",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did it go to Broadway?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was it adapted for the big screen?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-20": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was the first short story about The Witcher released?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1986",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And the computer game The Witcher 1?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2007",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which actor dubbed Geralt?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Doug Cockle",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is he still in The Witcher 3?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's Ciri's full name?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Cirilla Fiona Elen Riannon",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-21": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the writer of the fiction novel 1Q84?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Haruki Murakami",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "the country that the author is from?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Japan",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "he won the World Fantasy Award for?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Kafka on the shore",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "is he a recipient of Franz Kafka award?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "when?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2006",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-22": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Can you tell me the author of Watership Down?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Richard Adams",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What nationality is the author?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "United Kingdom",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the year of his birth?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1920",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What kind of animal was the main character in the book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "rabbit",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was the year the novel was published?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1972",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-23": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What author wrote the novel \"Master and Margarita\"?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mikhail Bulgakov",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Born in which year?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1891",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and \"Death of the poet\" is also written by him?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "who wrote it then?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mikhail Lermontov",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "were the two living at the same period?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-24": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What book is Pennywise the dancing clown found in?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "IT",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What city was it in?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Derry",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What kid had his brother killed?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bill Denbrough",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which friend is Bill's Dengourough best friend",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Eddie Kapsbrack",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the main bully in IT?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Henry Bowers",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-25": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote Hound of the Baskervilles?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sir Arthur Conan Doyle",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and who was the main character?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sherlock Holmes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what was his sidekick's name?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Dr. John Watson",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and it followed which book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Memoirs of Sherlock Holmes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what came after it?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Return of Sherlock Holmes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-26": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of the novel The Hound of the Baskervilles?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sir Arthur Conan Doyle",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "the main character's name was?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Sherlock Holmes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what was his sidekick's name?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Dr. John Watson",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and it followed which book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Memoirs of Sherlock Holmes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what came after it?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Return of Sherlock Holmes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-27": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the first book from The Lord Of The Rings book series?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Fellowship Of The Ring",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Number of books?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "3",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Author's birth place?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bloemfontein",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "First wife's name?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Edith Tolkien",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Also an author?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-28": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "who is the author of the book Master and Margarita?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mikhail Bulgakov",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Born in which year?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1891",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did he also write \"Death of the poet\"?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "who wrote it then?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mikhail Lermontov",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "were the two living at the same period?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-29": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What book features the character Nick Carraway?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Great Gatsby",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "F. Scott Fitzgerald",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did he write another novel before this?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was the name of the author's wife?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Zelda Fitzgerald",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was the name of his child?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Frances Scott Fitzgerald",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-3": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the writer of the fiction novel 1Q84?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Haruki Murakami",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "the country that the author is from?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Japan",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "which of his books won the World Fantasy Award for the best novel?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Kafka on the shore",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "is he a recipient of Franz Kafka award?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "when?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2006",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-30": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of the book Charlotte's Web?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "E. B. White",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "charlotte's species?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "spider",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what kind of animal is charlotte's best friend?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "pig",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "book genre?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "children's novel;fairy tale",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "when was the author born?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "11 July 1899",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-31": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book Adventures of Huckleberry Finn?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mark Twain",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is Tom Sawyer in the book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the river in the book?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mississippi River",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What company published the book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Chatto & Windus",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who's telling the story?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Huckleberry Finn",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-32": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was the novel Watership Down written by?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Richard Adams",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "In what year was it published?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1972",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And what language was it written in?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "English",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it a part of the speculative fiction genre?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did it earn a Carnegie Medal?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-33": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book The Stand?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Stephen King",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What genre does the book fall in?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "post-apocalyptic;horror",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When did it come out?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1978",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was the publisher?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Doubleday",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What did the characters call the illness that killed everyone?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Captain Trips",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-34": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What year was Ender's Game published?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1985",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote it?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Orson Scott Card",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the book's genre?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "science fiction",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it one book within a series?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many books are in the series?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "6",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-35": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What other name is Harry Potter and the Philosophers Stone known by?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Sorcerer's Stone",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote it?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "J.K. Rowling",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the the title of the next book?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Chamber of Secrets",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the third book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Prisoner of Azkaban",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Name of the fourth?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Goblet of Fire",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-36": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book One Flew Over the Cuckoo's Nest?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ken Kesey",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What year did it hit the shelves?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1962",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What region is it's setting?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Oregon",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did it go to Broadway?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was it made for film?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-37": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was Dan Brown's first novel to be published?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Digital Fortress",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The book was published in what year?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1998",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It takes place where?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Seville",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "is it the focus of one organiztion?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which one?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "National Security Agency",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-38": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does the novel The Suicide Prince have the shortest page among the other books in Bill Hodges trilogy?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Name of the novel before end of the watch and finders keepers?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mr. Mercedes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Publication year of the second book in bill hodges trilogy?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2015",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The city name where the author was born?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Portland",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Were he and the author of Game of Thrones born on the same month?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-39": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of Foundation?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Isaac Asimov",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was it released?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1951",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it part of a series?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the next book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Foundation and Empire",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is that the final part of the series?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-4": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What other name is Harry Potter and the Philosophers Stone known by?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Sorcerer's Stone",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "J.K. Rowling",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the the title of the next book?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Chamber of Secrets",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and the third book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Prisoner of Azkaban",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the fourth book called?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Goblet of Fire",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-40": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "In what year was Ender's Game written?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1985",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote it?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Orson Scott Card",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the book's genre?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "science fiction",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it one book within a series?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many books are in the series?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "6",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-41": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book Adventures of Huckleberry Finn?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mark Twain",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is Tom Sawyer in the book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Where is the book suppose to take place?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mississippi River",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was the publisher?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Chatto & Windus",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which character tells the story?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Huckleberry Finn",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-42": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book Under The Dome?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Stephen King",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did he recieve any reward's for this book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Has he received any other reward's for books that he has written since then?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the reward that he has recieved?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Best Novel",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Has he accomplished anything else since receiving that reward?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He received the Edgar Award for Best Novel for his book Mr. Mercedes in 2015.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-43": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of the book To kill a Mockingbird?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harper Lee",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "the book's genre?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Southern Gothic;Bildungsroman",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "the novel's Pulitzer prize winning year?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1961",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "name of the movie based on this book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "To Kill a Mockingbird",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "who directed the movie?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Robert Mulligan",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-44": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of the book Charlotte's Web?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "E. B. White",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what is charlotte?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "spider",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what species is charlotte's friend?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "pig",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what kind of book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "children's novel;fairy tale",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "the authors birthdate?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "11 July 1899",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-45": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book Under The Dome?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Stephen King",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it true that he received reward's for this book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Has he received any other reward's for books that he has written since then?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the reward that he has recieved?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Best Novel",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Has he accomplished anything else since receiving that reward?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He received the Edgar Award for Best Novel for his book Mr. Mercedes in 2015.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-46": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of the book Charlotte's Web?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "E. B. White",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who published the book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Haper",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was the book published?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1952",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What award did the book get?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Newbery Medal",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Where was the book written?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "United States of America",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-47": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the subtitle of the book Fire and Fury?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Inside the Trump White House (English)",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote it?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Michael Wolff",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Date of publication?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2018",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The subjects name?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Donald Trump",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Birthdate of the author?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "27 August 1953",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-48": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the writer of the fiction novel 1Q84?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Haruki Murakami",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "the country that the author is from?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Japan",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "which of his books won the World Fantasy Award for the best novel?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Kafka on the shore",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "is he a recipient of Franz Kafka award?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "in which year?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2006",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-49": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did the book To Kill a Mockingbird win a Pulitzer Prize?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which year did it win?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1961",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And in what genre?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Fiction",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was the author of the book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harper Lee",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was the book also a winner of the National Book Award for Fiction?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-5": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What other name is Harry Potter and the Philosophers Stone known by?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Sorcerer's Stone",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "J.K. Rowling",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the next book?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Chamber of Secrets",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and the third book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Prisoner of Azkaban",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Name of the fourth?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Goblet of Fire",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-50": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the first book from The Lord Of The Rings book series?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Fellowship Of The Ring",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many parts?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "3",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Where is the author born?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bloemfontein",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Name of first wife?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Edith Tolkien",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Also an author?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-51": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of the book Inferno?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Dan Brown",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was it published?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "14 May 2013",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And what book was it followed by?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Origin",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the authors date of birth ?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "22 June 1964",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is his place of birth?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Exeter",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-52": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the novel Twilight?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Stephenie Meyer",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was it published?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "05 October 2005",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who's the human girl character in the book?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Isabella \"Bella\" Swan",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What character did she fall in love with?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Edward Cullen",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was he?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "vampire",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-53": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of the book To kill a Mockingbird?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harper Lee",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "genre?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Southern Gothic;Bildungsroman",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "the novel's Pulitzer prize winning year?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1961",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "film name based on the book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "To Kill a Mockingbird",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "who directed the movie?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Robert Mulligan",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-54": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who authored the book Jaws?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Peter Benchley",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was it written?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1974",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who published it?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Doubleday; Bantam Books",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It's in what genre?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thriller",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did it turn into a film?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-55": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What year was Ender's Game published?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1985",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Orson Scott Card",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What genre is it?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "science fiction",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it part of a series?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The series consists of how many books?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "6",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-56": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The second title of the book Fire and Fury is what?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Inside the Trump White House (English)",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Its author?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Michael Wolff",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Published when?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2018",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who's the subject?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Donald Trump",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Birthdate of the author?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "27 August 1953",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-57": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "In what year was the book The Hobbit published?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "21 September 1937",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The author published more than one book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "His spouse 1970?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Edith Tolkien",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The first-born child of her?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "John Francis Reuel Tolkien",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Had he have a brother?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-58": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of The Shining?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Stephen King",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does it have sequel?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The shining movie adaptation?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Any TV Series from the book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What about Mr. Mercedes?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-59": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which famous author wrote the fantasy book series Harry Potter?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "J. K. Rowling",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which book was the first one written?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Philosopher's Stone",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What novel was the final one?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Deathly Hallows",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which new student joined Harry Potter in school after an incident?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hermione Granger",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The series consists of which amount of books?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "7",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-6": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of the book Charlotte's Web?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "E. B. White",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the publisher of Charlotte's Web?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Haper",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was the book published?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1952",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did the book get an award?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Newbery Medal",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What country was the book written?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "United States of America",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-60": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book Great Expectations?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Charles Dickens",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was it written in 1861?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who published it?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Chapman & Hall",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's the genre of the book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "black comedy",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was the main setting?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "London;Kent",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-61": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was Dan Brown's first novel to be published?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Digital Fortress",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The book was published in what year?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1998",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It takes place where?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Seville",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "is it the focus of one organiztion?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the orgnaization it is focused on?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "National Security Agency",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-62": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What novel has the character named Nick Carraway?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Great Gatsby",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "F. Scott Fitzgerald",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did he write another novel before this?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was the author married to?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Zelda Fitzgerald",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was his child?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Frances Scott Fitzgerald",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-63": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which author wrote the novel 1Q84?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Haruki Murakami",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "the country that the author is from?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Japan",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "he won the World Fantasy Award for?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Kafka on the shore",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "did the author win the Franz Kafka Prize?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "in which year?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2006",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-64": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was the author of Great Expectations?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Charles Dickens",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was the book written in 1861?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who published it?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Chapman & Hall",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's the genre?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "black comedy",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was the setting for the book?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "London;Kent",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-65": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is Dan Brown's first book?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Digital Fortress",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The book was published in what year?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1998",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The setting of the book is where?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Seville",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is there one main entity under scrutiny?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which one?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "National Security Agency",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-66": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The second title of the book Fire and Fury is what?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Inside the Trump White House (English)",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote it?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Michael Wolff",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Date of publication?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2018",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The subjects name?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Donald Trump",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Birthdate of the author?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "27 August 1953",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-67": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was Dan Brown's first novel to be published?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Digital Fortress",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The book was published in what year?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1998",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It takes place where?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Seville",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is there one main entity under scrutiny?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the orgnaization it is focused on?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "National Security Agency",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-68": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was the author Stephen King born?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "21 September 1947",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What book has a killer clowns",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "IT",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the title of the first book in The Dark Tower series?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Dark Tower: The Gunslinger",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What book to movie of him has Arnold Schwarzenegger in it?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Running Man",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was the children's book he wrote about a train?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Charlie the Choo-Choo: From the World of The Dark Tower",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-69": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "In what year was Ender's Game written?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1985",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Orson Scott Card",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the book's genre?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "science fiction",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it part of a series?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The series consists of how many books?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "6",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-7": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of Ready Player One?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ernest Cline",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what kind of story is it?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "science fiction novel",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "was something created from the book?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ready Player One was made into a movie.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what was the book's publisher?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Crown Publishing Group",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and did the book win any awards?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ready Player One won the Promethus Award.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-70": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's the name of the Jaws author?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Peter Benchley",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was it written?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1974",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who published it?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Doubleday; Bantam Books",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's the book's genre?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thriller",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did it turn into a film?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-71": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of Foundation?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Isaac Asimov",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was it released?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1951",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is the book part of a series?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the next book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Foundation and Empire",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is that the final part of the series?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-72": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What book has Pennywise the Dancing clown as the villain?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "IT",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Where was the movie located?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Derry",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was the name of the boy whose brother was killed?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bill Denbrough",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which friend is Bill's Dengourough best friend",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Eddie Kapsbrack",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the main Bully in IT?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Henry Bowers",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-73": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What book is Pennywise the dancing clown found in?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "IT",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Where was the movie located?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Derry",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was the name of the boy whose brother was killed?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bill Denbrough",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which friend is Bill's Dengourough best friend",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Eddie Kapsbrack",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the main bully in IT?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Henry Bowers",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-74": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What year was Ender's Game published?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1985",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Orson Scott Card",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What genre is it?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "science fiction",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it one book within a series?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many books are in the series?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "6",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-75": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was Dan Brown's first novel to be published?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Digital Fortress",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was this book first published?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1998",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The setting of the book is where?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Seville",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is there one main entity under scrutiny?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which one?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "National Security Agency",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-76": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of the novel Adventures of Huckleberry Finn?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mark Twain",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "the main character's name was what?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Huckleberry Finn",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and his friend was who?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Tom Sawyer",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what style of writing was it?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "adventure novel",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "when was it published?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1884",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-77": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's the name of the Jaws author?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Peter Benchley",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The book was written in what year?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1974",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who published it?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Doubleday; Bantam Books",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "It's in what genre?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Thriller",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was it turned into a movie?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-78": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What year was Ender's Game published?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1985",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Orson Scott Card",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the book's genre?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "science fiction",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it part of a series?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "The series consists of how many books?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "6",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-79": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the authors name of Adventures of Huckleberry Finn?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mark Twain",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is Tom Sawyer in the book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Where is the book suppose to take place?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mississippi River",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What company published the book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Chatto & Windus",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who's telling the story?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Huckleberry Finn",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-8": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did the book To Kill a Mockingbird win a Pulitzer Prize?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which year did it win?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1961",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And in what genre?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Fiction",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was the author of the book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harper Lee",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did it also win a National Book Award for Fiction?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-80": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Dale Cooper and Miss Marple are both Agatha Christie's characters?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and who of them is?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Miss Marple",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Marple appears in how many books of her?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "12",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what's the first one?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Body in the Library",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "written in country?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "United Kingdom",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-81": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book Adventures of Huckleberry Finn?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mark Twain",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is Tom Sawyer a character in the book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the river in the book?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mississippi River",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What company published the book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Chatto & Windus",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which character tells the story?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Huckleberry Finn",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-82": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was the author Stephen King born?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "21 September 1947",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What book did Stephen King write about a killer clown?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "IT",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the first book of The Dark Tower series?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Dark Tower: The Gunslinger",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What short story of him was turned into a movie with Arnold Schwarzenegger?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Running Man",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What kids book did he write about a train?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Charlie the Choo-Choo: From the World of The Dark Tower",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-83": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's the name of the author of the book Pride and Prejudice?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Jane Austen",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's the book's publication date?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "27 January 1813",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's the name of the main female character?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Elizabeth Bennet",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And who's her main love interest?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Fitzwilliam Darcy",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which of her novels was published right after that one?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mansfield Park",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-84": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did the book To Kill a Mockingbird win a Pulitzer Prize?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "In what year did it win the Pulitzer?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1961",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which genre did it win for?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Fiction",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was the author of the book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harper Lee",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did it also win a National Book Award for Fiction?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-85": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was the first short story about The Witcher released?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1986",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And the computer game The Witcher 1?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2007",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the voice actor of Geralt in this game?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Doug Cockle",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Also in the third version of the game?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's Ciri's full name?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Cirilla Fiona Elen Riannon",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-86": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What book features the character Nick Carraway?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Great Gatsby",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the name of the author of the book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "F. Scott Fitzgerald",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did he write another novel before this?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was the author married to?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Zelda Fitzgerald",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was the name of his child?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Frances Scott Fitzgerald",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-87": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book Ready Player One?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ernest Cline",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what kind of story is it?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "science fiction novel",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "was something created from the book?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ready Player One was made into a movie.",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what was the book's publisher?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Crown Publishing Group",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "what awards did the book win?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Ready Player One won the Promethus Award.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-88": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the author of the book Charlotte's Web?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "E. B. White",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who published the book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Haper",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What year did the book come out?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1952",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did the book get an award?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Newbery Medal",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What country was the book written?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "United States of America",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-89": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "who is the author of the book Master and Margarita?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mikhail Bulgakov",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And he was born in the year?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1891",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and \"Death of the poet\" is also written by him?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "then who is the author of this poem?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Mikhail Lermontov",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did he live in the same time as Bulgakov?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-9": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How is the first part of The Lord Of The Rings book series called?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "The Fellowship Of The Ring",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many parts?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "3",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Where is the author born?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Bloemfontein",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "First wife's name?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Edith Tolkien",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was she an author too?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-90": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the novel Watership Down?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Richard Adams",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "When was it published?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1972",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And what language was it written in?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "English",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it in the speculative fiction genre?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did it earn a Carnegie Medal?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-91": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book Great Expectations?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Charles Dickens",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Was the book written in 1861?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who published it?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Chapman & Hall",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's the genre?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "black comedy",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What was the setting for the book?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "London;Kent",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-92": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who was the author of Watership Down?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Richard Adams",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And what was the book's origin country?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "England",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What's the author's date of birth?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "9 May 1920",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Where was the author born?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Newbury",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Where is the book set at?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Berkshire",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-93": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which author wrote the novel 1Q84?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Haruki Murakami",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "the country that the author is from?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Japan",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "which of his books won the World Fantasy Award for the best novel?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Kafka on the shore",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "did the author win the Franz Kafka Prize?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "in which year?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "2006",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-94": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Harry Potter and the Philosophers Stone is also known as?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Sorcerer's Stone",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote it?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "J.K. Rowling",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the the title of the next book?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Chamber of Secrets",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "and the third book?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Prisoner of Azkaban",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is the fourth book called?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Goblet of Fire",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-95": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who wrote the book Under The Dome?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Stephen King",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Did he recieve any reward's for this book?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is it true that he has received other reward's for books that he has written since then?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Yes",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Tell me the name of the reward that he has received.",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Best Novel",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What else has he accomplished since receiving that reward?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "He received the Edgar Award for Best Novel for his book Mr. Mercedes in 2015.",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-96": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the writer of the novel The Beach?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Alex Garland",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And when is his father born?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1 September 1935",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And where?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "London",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does he have the same job as his son?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is his job then?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "cartoonist",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-97": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Who is the writer of the novel The Beach?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Alex Garland",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And when is his father born?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1 September 1935",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And where?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "London",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Is he also a writer?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is his job then?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "cartoonist",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-98": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which author wrote The Beach?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Alex Garland",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And when is his father born?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "1 September 1935",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "And what is his birth place?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "London",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Does he have the same job as his son?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "No",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What is his job then?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "cartoonist",
+        "turn_id": 9
+      }
+    ]
+  },
+  "train-99": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which famous author wrote the fantasy book series Harry Potter?",
+        "turn_id": 0
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "J. K. Rowling",
+        "turn_id": 1
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which book was the first one written?",
+        "turn_id": 2
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Philosopher's Stone",
+        "turn_id": 3
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "What novel was the final one?",
+        "turn_id": 4
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Harry Potter and the Deathly Hallows",
+        "turn_id": 5
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "Which new student joined Harry Potter in school after an incident?",
+        "turn_id": 6
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "Hermione Granger",
+        "turn_id": 7
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "system",
+        "text": "How many books are there?",
+        "turn_id": 8
+      },
+      {
+        "extra_info": "",
+        "label": {},
+        "role": "user",
+        "text": "7",
+        "turn_id": 9
+      }
+    ]
+  }
+}

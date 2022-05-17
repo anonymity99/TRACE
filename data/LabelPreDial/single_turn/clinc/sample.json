@@ -1,0 +1,1802 @@
+{
+  "clinc-0": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 131
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "translate": {}
+          }
+        },
+        "role": "user",
+        "text": "what expression would i use to say i love you if i were an italian",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-1": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 131
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "translate": {}
+          }
+        },
+        "role": "user",
+        "text": "can you tell me how to say 'i do not speak much spanish', in spanish",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 131
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "translate": {}
+          }
+        },
+        "role": "user",
+        "text": "how would i say, 'i don't know the answer' in spanish",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-100": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 130
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "transfer": {}
+          }
+        },
+        "role": "user",
+        "text": "i need $20000 transferred from my savings to my checking",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-1000": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "fun_fact": {}
+          }
+        },
+        "role": "user",
+        "text": "lets hear an interesting fact about funko pops",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10000": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me when my car last had its oil changed",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10001": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i last do maintenance on my car",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10002": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i last take my car in for maintenance",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10003": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "can you find the date of my last oil change",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10004": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i last bring my car in to have it looked at",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10005": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "find the date of the last oil swap for my car",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10006": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "what was the date when i last had my car inspected",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10007": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "how long's it been since my car was at autozone",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10008": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "what's the amount of time since having my car given a once over by a mechanic",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10009": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i last have my vehicle checked on",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-1001": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "fun_fact": {}
+          }
+        },
+        "role": "user",
+        "text": "know any interesting facts",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10010": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i last bring my car in to get looked over",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10011": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "what date did i last take my car in",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10012": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "how long's it been since i had my car serviced",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10013": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when was the last time i changed my oil",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10014": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i last have a mechanic check out my car",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10015": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i last service my car with an oil change",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10016": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "what was the last time i had my car at the dealer for repairs",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10017": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i last have my car fixed",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10018": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "what day did i last have a technician check out my vehicle",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10019": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i last have my vehicle serviced",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-1002": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "fun_fact": {}
+          }
+        },
+        "role": "user",
+        "text": "what is one fun fact",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10020": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "my car was looked at when",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10021": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "let me know when my car was last looked at",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10022": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did my car get looked at last",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10023": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me when someone looked at my car last",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10024": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "what date did i have my oil changed last",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10025": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "what day did i change my oil",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10026": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "do you remember when i last changed my oil",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10027": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "was my last oil change on wednesday",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10028": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when was the last time i had an oil change",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10029": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "how long ago was my car last in the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-1003": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "fun_fact": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me a fact",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10030": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when was the last time i got my oil changed",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10031": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "do you have a date for the last time the car was in the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10032": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "what date was my car last at the mechanics",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10033": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "how long has it been since my oil was changed",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10034": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "how long has it been since my car was in the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10035": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i get my last oil change",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10036": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "what date was my oil last changed",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10037": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "do you remember my last oil change",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10038": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when was my car in the shop last",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10039": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i last have car maintenance",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-1004": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "fun_fact": {}
+          }
+        },
+        "role": "user",
+        "text": "lets hear a fact",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10040": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when was my last maintenance on my car in the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10041": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when was my car last repaired",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10042": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did my oil last get changed",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10043": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when were my tires changed",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10044": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when was my car last worked on",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10045": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "i can't remember when my car last went to the shop, can you find out for me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10046": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "find out when my most recent oil change occurred",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10047": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "check to see when my car was last in the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10048": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when was my most recent oil change",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10049": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "i need to know the date of my car's last visit to the shop please",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-1005": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "fun_fact": {}
+          }
+        },
+        "role": "user",
+        "text": "any unique trivia about beats headphones",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10050": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "look up the date of my car's most recent visit to the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10051": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "i need to know when i last took my car in for a check up",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10052": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "please tell me when the last time was that my car was in the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10053": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "look up the date of my last oil change",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10054": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "i need you to look up the date of my car's last visit to the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10055": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "find out the last time i had my car checked",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10056": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "do you know when my car was last looked at",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10057": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "do you know when i last took my car in to the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10058": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "i can't remember when my car was last serviced, can you find out for me",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10059": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "find out how long it has been since my car was last in the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-1006": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "fun_fact": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me a fact i may not know",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10060": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "please tell me the last time i took my car to the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10061": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "how long has it been since my car was last looked at",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10062": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me the date of my last car check up",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10063": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "i need to know when my oil was last changed",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10064": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "dates for my car in the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10065": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "last time car was in shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10066": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "last incident of my car in the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10067": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when was my car in the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10068": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did my car get serviced last",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10069": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "how long has it been since my car was looked at",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-1007": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "fun_fact": {}
+          }
+        },
+        "role": "user",
+        "text": "what is one thing i might not know about nike shoes",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10070": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "how long ago did my car get looked at",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10071": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "what was the date of my last auto appointment",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10072": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when was my last car service date",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10073": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i take to car to the auto shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10074": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i have my car looked at",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10075": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i last get my car tuned up",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10076": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i go to the mechanic",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10077": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i take my car to the mechanic",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10078": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "do you know how long its been since i had my oil changed and a tune up",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10079": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did last go to the auto repair shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-1008": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 46
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "fun_fact": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me something interesting about sperm whales",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10080": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "i need to know when was the last time i had my car checked out for a tune up",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10081": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me the last time i had my car checked out at sam's repair shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10082": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when did i take my car to paul's auto last",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10083": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when was the last time my car was in the shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10084": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "tell me when was car in shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10085": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "so when was car in shop",
+        "turn_id": 0
+      }
+    ]
+  },
+  "clinc-10086": {
+    "extra_info": "",
+    "turns": [
+      {
+        "extra_info": {
+          "intent_label": 63
+        },
+        "label": {
+          "DEFAULT_DOMAIN": {
+            "last_maintenance": {}
+          }
+        },
+        "role": "user",
+        "text": "when was the car in the shop",
+        "turn_id": 0
+      }
+    ]
+  }
+}
